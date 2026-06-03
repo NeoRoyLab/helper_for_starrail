@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "manifests": [
     { "key": "characters",  "version": 5 },
     { "key": "light_cones", "version": 1 },
