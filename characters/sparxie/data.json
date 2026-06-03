@@ -2,8 +2,8 @@
   "id": "sparxie",
   "name": {
     "en": "Sparxie",
-    "uk": "Спаркі",
-    "ru": "Спарки"
+    "uk": "Іскра",
+    "ru": "Искра"
   },
   "rarity": 5,
   "element": "fire",
@@ -15,8 +15,7 @@
   },
   "assets": {
     "portrait":   "characters/sparxie/portrait.png",
-    "thumbnail":  "characters/sparxie/thumb.png",
-    "background": "characters/sparxie/bg.png"
+    "thumbnail":  "characters/sparxie/thumb.png"
   },
   "stats": {
     "hp": 1048,
