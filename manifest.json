@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "manifests": [
-    { "key": "characters",  "version": 3 },
+    { "key": "characters",  "version": 4 },
     { "key": "light_cones", "version": 1 },
     { "key": "relics",      "version": 1 },
     { "key": "ornaments",   "version": 1 }
