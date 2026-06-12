@@ -2,20 +2,20 @@
   "id": "sparxie",
   "name": {
     "en": "Sparxie",
-    "uk": "Іскра",
-    "ru": "Искра"
+    "uk": "Спаркі",
+    "ru": "Спарки"
   },
   "rarity": 5,
   "element": "fire",
-  "path": "the_hunt",
+  "path": "hunt",
   "description": {
-    "en": "Hey there, Galactic Baseballer, welcome to the stream!",
-    "uk": "Привіт, Галактичний Бейсболісте, ласкаво просимо!",
-    "ru": "Привет, Галактический Бейсболист, добро пожаловать!"
+    "en": "Hey there, Galactic Baseballer, welcome to the stream! I'm your good friend, Sparxie~ Are you ready for a day overflowing with dopamine? The world is full of sparkle, so don't forget to shine brightly just like Sparxie!",
+    "uk": "Ласкаво просимо, Космічний бейсболіст, на стриму! Я твій добрий друг Іскра. Давай почнемо день, наповнений дофаміном? І в цьому яскравому світі сьогодні ми сяятимемо іскрами~",
+    "ru": "Добро пожаловать, Космический бейсболист, на стрим! Я твой добрый друг Искра. Давай начнём день, наполненный дофамином? И в этом ярком мире сегодня мы будем сиять искрами~"
   },
   "assets": {
-    "portrait":   "characters/sparxie/portrait.png",
-    "thumbnail":  "characters/sparxie/thumb.png"
+    "portrait":  "characters/sparxie/portrait.png",
+    "thumbnail": "characters/sparxie/thumb.png"
   },
   "stats": {
     "hp": 1048,
@@ -24,22 +24,16 @@
     "spd": 107,
     "taunt": 100
   },
-  "ascension_materials": [
-    { "item_id": "credits",  "amount": 308000 },
-    { "item_id": "horn",     "amount": 15 },
-    { "item_id": "blade",    "amount": 15 },
-    { "item_id": "orb",      "amount": 15 },
-    { "item_id": "sunburst", "amount": 65 }
-  ],
-  "trace_materials": [
-    { "item_id": "credits",  "amount": 3000000 },
-    { "item_id": "page",     "amount": 18 },
-    { "item_id": "horn",     "amount": 41 }
-  ],
+  "materials": {
+    "ascension_group":  "whimsy_wax",
+    "ascension_unique": "radiant_prominence",
+    "trace_group":      "the_fluffy_hand-drawn_storyboards",
+    "trace_unique":     "vanquished_flows_reticence"
+  },
   "best_light_cones": [
-    { "item_id": "dazzled_flowery",   "rarity": 5, "is_best": true },
-    { "item_id": "todays_good_luck",  "rarity": 4, "is_best": true },
-    { "item_id": "mushy_shroomy",     "rarity": 4, "is_best": false }
+    { "item_id": "dazzled_flowery",  "rarity": 5, "is_best": true },
+    { "item_id": "todays_good_luck", "rarity": 4, "is_best": true },
+    { "item_id": "mushy_shroomy",    "rarity": 4, "is_best": false }
   ],
   "best_relics":    ["ever_glorious_magical_girl"],
   "best_ornaments": ["tengoku_livestream"],
