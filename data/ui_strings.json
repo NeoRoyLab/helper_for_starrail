@@ -1,0 +1,16 @@
+{
+  "strings": [
+    {
+      "id": "ascension_materials",
+      "en": "Ascension Materials",
+      "uk": "Матеріали підвищення",
+      "ru": "Материалы возвышения"
+    },
+    {
+      "id": "trace_materials",
+      "en": "Trace Materials",
+      "uk": "Матеріали слідів",
+      "ru": "Материалы следов"
+    }
+  ]
+}
