@@ -1,0 +1,11 @@
+{
+  "id": "dazzled_flowery",
+  "name": {
+    "en": "Dazzled by a Flowery World",
+    "uk": "Зачарований квітучим світом",
+    "ru": "Очарован цветущим миром"
+  },
+  "assets": {
+    "art": "light_cones/dazzled_flowery/art.png"
+  }
+}
