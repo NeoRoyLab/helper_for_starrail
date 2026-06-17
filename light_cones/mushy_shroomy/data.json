@@ -1,0 +1,11 @@
+{
+  "id": "mushy_shroomy",
+  "name": {
+    "en": "Mushy Shroomy's Adventures",
+    "uk": "Пригоди Гриб'яна",
+    "ru": "Приключения Гриб-Гриба"
+  },
+  "assets": {
+    "art": "light_cones/mushy_shroomy/art.png"
+  }
+}

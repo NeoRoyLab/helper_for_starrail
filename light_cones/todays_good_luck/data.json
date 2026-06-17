@@ -1,0 +1,11 @@
+{
+  "id": "todays_good_luck",
+  "name": {
+    "en": "Today's Good Luck",
+    "uk": "Сьогоднішня удача",
+    "ru": "Сегодняшняя удача"
+  },
+  "assets": {
+    "art": "light_cones/todays_good_luck/art.png"
+  }
+}
