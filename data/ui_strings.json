@@ -35,6 +35,18 @@
       "en": "Best Ornaments",
       "uk": "Найкращі орнаменти",
       "ru": "Лучшие орнаменты"
+    },
+    {
+      "id": "best_relic_stats",
+      "en": "Best Relic Stats",
+      "uk": "Найкращі стати реліквій",
+      "ru": "Лучшие статы реликвий"
+    },
+    {
+      "id": "substats_priority",
+      "en": "Substats Priority",
+      "uk": "Пріоритет субстатів",
+      "ru": "Приоритет субстатов"
     }
   ]
 }
