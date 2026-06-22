@@ -25,6 +25,18 @@
       "ru": "Билд"
     },
     {
+      "id": "best_light_cones",
+      "en": "Best Light Cones",
+      "uk": "Найкращі світлові конуси",
+      "ru": "Лучшие световые конусы"
+    },
+    {
+      "id": "other_good_cones",
+      "en": "Other Good Cones",
+      "uk": "Інші хороші конуси",
+      "ru": "Другие хорошие конусы"
+    },
+    {
       "id": "best_relics",
       "en": "Best Relics",
       "uk": "Найкращі реліквії",
