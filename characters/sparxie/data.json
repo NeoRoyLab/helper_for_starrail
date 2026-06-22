@@ -43,5 +43,9 @@
     "sphere": "energy_regen",
     "rope":   "atk_percent"
   },
-  "best_substats": "ATK% > CRIT Rate > CRIT DMG"
+  "best_substats": [
+  { "id": "atk_percent",  "sep": ">" },
+  { "id": "crit_rate",    "sep": ">" },
+  { "id": "crit_dmg",     "sep": ""  }
+]
 }
