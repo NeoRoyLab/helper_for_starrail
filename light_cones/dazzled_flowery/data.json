@@ -3,8 +3,27 @@
   "name": {
     "en": "Dazzled by a Flowery World",
     "uk": "Зачарований квітучим світом",
-    "ru": "Очарован цветущим миром"
+    "ru": "Зачарованные царством огоньков"
   },
+  "rarity": 5,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 48,  "hp_max": 1058,
+    "atk_min": 26, "atk_max": 582,
+    "def_min": 21, "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 48-80%...",
+    "uk": "Підвищує крит. шкоду носія на 48-80%...",
+    "ru": "Повышает крит. урон владельца на 48-80%..."
+  },
+  "sources": [
+    {
+      "en": "Event Jump (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
   "assets": {
     "art": "light_cones/dazzled_flowery/art.png"
   }
