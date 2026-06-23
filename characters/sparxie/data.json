@@ -44,8 +44,9 @@
     "rope":   "atk_percent"
   },
   "best_substats": [
-  { "id": "atk_percent",  "sep": ">" },
-  { "id": "crit_rate",    "sep": ">" },
-  { "id": "crit_dmg",     "sep": ""  }
-]
+    { "id": "atk_percent",  "sep": ">" },
+    { "id": "crit_rate",    "sep": ">" },
+    { "id": "crit_dmg",     "sep": ""  }
+  ],
+  "synergy": ["sparxie", "robin", "sunday", "ruan_mei"]
 }
