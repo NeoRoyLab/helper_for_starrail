@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "id": "event_jump",
+      "en": "Event Jump (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    },
+    {
+      "id": "standard_banner",
+      "en": "Standard Banner",
+      "uk": "Стандартний банер",
+      "ru": "Стандартный баннер"
+    },
+    {
+      "id": "limited_banner",
+      "en": "Limited Banner",
+      "uk": "Обмежений банер",
+      "ru": "Ограниченный баннер"
+    },
+    {
+      "id": "herta_store",
+      "en": "Herta's Store",
+      "uk": "Крамниця Герти",
+      "ru": "Магазин Герты"
+    },
+    {
+      "id": "battle_pass",
+      "en": "Battle Pass",
+      "uk": "Бойовий пропуск",
+      "ru": "Боевой пропуск"
+    }
+  ]
+}
