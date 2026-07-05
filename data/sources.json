@@ -1,22 +1,22 @@
 {
   "sources": [
     {
-      "id": "event_jump",
-      "en": "Event Jump (Limited)",
-      "uk": "Стрибок події (Тимчасовий)",
-      "ru": "Прыжок события (Временный)"
+      "id": "event_warp",
+      "en": "- Event Warp (limited)",
+      "uk": "- Стрибок події (Тимчасовий)",
+      "ru": "- Прыжок события (Временный)"
     },
     {
-      "id": "standard_banner",
-      "en": "Standard Banner",
-      "uk": "Стандартний банер",
-      "ru": "Стандартный баннер"
+      "id": "stellar_warp",
+      "en": "- Stellar Warp",
+      "uk": "- Стандартний стрибок",
+      "ru": "- Стандартный прыжок"
     },
     {
-      "id": "limited_banner",
-      "en": "Limited Banner",
-      "uk": "Обмежений банер",
-      "ru": "Ограниченный баннер"
+      "id": "echo_of_war",
+      "en": "- Echo of War",
+      "uk": "- Эхо війни",
+      "ru": "- Эхо войны"
     },
     {
       "id": "herta_store",
@@ -25,10 +25,28 @@
       "ru": "Магазин Герты"
     },
     {
-      "id": "battle_pass",
-      "en": "Battle Pass",
-      "uk": "Бойовий пропуск",
-      "ru": "Боевой пропуск"
+      "id": "forgotten_hall_store",
+      "en": "- Forgotten Hall Store",
+      "uk": "- Магазин «Пасаж світлових конусів»",
+      "ru": "- Магазин «Пассаж Световых конусов»"
+    },
+    {
+      "id": "mission_reward",
+      "en": "- Mission Reward",
+      "uk": "- Нагорода за місію",
+      "ru": "- Награда за миссию"
+    },
+    {
+      "id": "nameless_glory",
+      "en": "- Nameless Glory",
+      "uk": "- Честь Безіменних",
+      "ru": "- Честь Безымянных"
+    },
+    {
+      "id": "store",
+      "en": "- Store",
+      "uk": "- Магазин",
+      "ru": "- Магазин"
     }
   ]
 }
