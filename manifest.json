@@ -2,15 +2,15 @@
   "manifests": [
     {
       "key": "characters",
-      "version": 25
+      "version": 26
     },
     {
       "key": "light_cones",
-      "version": 10
+      "version": 11
     },
     {
       "key": "relics",
-      "version": 8
+      "version": 9
     },
     {
       "key": "ornaments",

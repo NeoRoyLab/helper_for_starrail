@@ -1,0 +1,33 @@
+{
+  "id": "life_should_be_cast_to_flames",
+  "name": {
+    "en": "Life Should Be Cast to Flames",
+    "uk": "Життя має бути кинуте у полум'я",
+    "ru": "Брошенная в пламя жизнь"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "At the start of the wearer's turn, regenerates 10 Energy. If the enemy target has a Weakness implanted by the wearer, increases the wearer's DMG dealt to it by 60-100%. When an enemy target gets attacked by the wearer, the wearer decreases the target's DEF by 12-24%, lasting for 2 turn(s). The same types of effects cannot stack.",
+    "uk": "На початку ходу власника відновлює 10 од. енергії. Якщо противник має доданий власником тип уразливості, завдана йому шкода власника підвищується на 60-100%. Коли власник атакує противника, його захист знижується на 12-24% на 2 ходи. Ефекти такого типу не складаються.",
+    "ru": "В начале хода владельца восстанавливает 10 ед. энергии. Если противник имеет добавленный владельцем тип уязвимости, то наносимый ему владельцем урон повышается на 60-100%. Атакуя противника, владелец понижает его защиту на 12-24% на 2 хода. Эффекты подобного типа не могут складываться."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Прыжок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/life_should_be_cast_to_flames/art.png"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "into_the_unreachable_veil",
+  "name": {
+    "en": "Into the Unreachable Veil",
+    "uk": "Назустріч незаперечному",
+    "ru": "Навстречу неоспоримому"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 12-20%. When the wearer uses Ultimate, increases the Skill and Ultimate DMG dealt by the wearer by 60-100%, lasting for 3 turn(s). After the wearer uses Ultimate, if this instance of Ultimate consumed 140 or more Energy, recovers 1 Skill Point.",
+    "uk": "Підвищує крит. шанс власника на 12-20%. Після використання надздібності шкода навички та надздібності власника підвищується на 60-100% на 3 ходи. Якщо ця надздібність витратила 140 або більше од. енергії, відновлюється 1 очко навичок.",
+    "ru": "Крит. шанс владельца повышается на 12-20%. Когда владелец использует сверхспособность, наносимый им урон навыка и сверхспособности повышается на 60-100% на 3 хода. Если израсходованная этой сверхспособностью энергия выше или равна 140 ед., то она восстанавливает 1 очко навыков отряда."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Прыжок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/into_the_unreachable_veil/art.png"
+  }
+}

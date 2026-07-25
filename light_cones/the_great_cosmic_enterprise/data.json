@@ -1,0 +1,33 @@
+{
+  "id": "the_great_cosmic_enterprise",
+  "name": {
+    "en": "The Great Cosmic Enterprise",
+    "uk": "Велике космічне підприємство",
+    "ru": "Бизнес космических масштабов"
+  },
+  "rarity": 4,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 8-16%. For every 1 different Weakness Type an enemy target has, increases the DMG dealt to it by the wearer by 4-8%. Up to a max of 7 Weakness Types can be taken into account for this effect.",
+    "uk": "Сила атаки власника підвищується на 8-16%. За кожен різний тип уразливості противника завдана йому власником шкода підвищується на 4-8%. Для цього ефекту враховується до 7 типів уразливості.",
+    "ru": "Сила атаки владельца повышается на 8-16%. За каждый различный тип уязвимости противника наносимый ему владельцем урон повышается на 4-8%. Для этого эффекта учитывается до 7 типов уязвимости."
+  },
+  "sources": [
+    {
+      "en": "Herta's Store / Star Rail WORLD",
+      "uk": "Магазин Герти / Star Rail WORLD",
+      "ru": "Магазин Герты / Star Rail WORLD"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/the_great_cosmic_enterprise/art.png"
+  }
+}

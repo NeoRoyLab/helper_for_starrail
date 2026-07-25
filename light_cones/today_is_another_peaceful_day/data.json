@@ -1,0 +1,33 @@
+{
+  "id": "today_is_another_peaceful_day",
+  "name": {
+    "en": "Today Is Another Peaceful Day",
+    "uk": "Сьогодні теж мирний день",
+    "ru": "Сегодня тоже мирный день"
+  },
+  "rarity": 4,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "After entering battle, increases the wearer's DMG based on their Max Energy. Each point of Energy increases DMG by 0.20-0.40%. A max of 160 Energy will be taken into account for this.",
+    "uk": "Після вступу в бій підвищує завдану власником шкоду залежно від його макс. енергії. Кожна одиниця енергії підвищує шкоду на 0,20-0,40%. Враховується не більше ніж 160 од. енергії.",
+    "ru": "После вступления в бой повышает наносимый владельцем урон в зависимости от его макс. энергии. Каждая единица энергии повышает урон на 0,20-0,40%. Учитывается не более 160 ед. энергии."
+  },
+  "sources": [
+    {
+      "en": "Nameless Honor",
+      "uk": "Честь Безіменних",
+      "ru": "Честь Безымянных"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/today_is_another_peaceful_day/art.png"
+  }
+}

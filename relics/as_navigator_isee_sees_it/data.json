@@ -1,0 +1,30 @@
+{
+  "id": "as_navigator_isee_sees_it",
+  "name": {
+    "en": "As Navigator Isee Sees It",
+    "uk": "Як це бачить навігатор Ісі",
+    "ru": "Каким это видит навигатор Иси"
+  },
+  "set_bonus": {
+    "2pc": {
+      "en": "Increases ATK by 12%.",
+      "uk": "Підвищує силу атаки на 12%.",
+      "ru": "Повышает силу атаки на 12%."
+    },
+    "4pc": {
+      "en": "When the wearer enters combat or uses Skill, the DMG dealt by their Skill and Ultimate increases by 18%, stacking up to 3 time(s). At the start of the wearer's turn or after using Ultimate, removes 1 stack(s) of this effect.",
+      "uk": "Коли власник вступає в бій або використовує навичку, шкода його навички та надздібності підвищується на 18%, до 3 рівнів. На початку ходу власника або після використання надздібності знімається 1 рівень цього ефекту.",
+      "ru": "Когда владелец вступает в бой или использует навык, наносимый его навыком и сверхспособностью урон повышается на 18%, может складываться до 3 раз. В начале хода владельца или после использования сверхспособности снимается 1 уровень этого эффекта."
+    }
+  },
+  "sources": [
+    {
+      "en": "Cavern of Corrosion: Path of Insight",
+      "uk": "Печера корозії: Шлях прозріння",
+      "ru": "Пещера коррозии: Путь прозрения"
+    }
+  ],
+  "assets": {
+    "icon": "relics/as_navigator_isee_sees_it/icon.png"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "anaxa",
+  "name": {
+    "en": "Anaxa",
+    "uk": "Анакса",
+    "ru": "Анакса"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_erudition",
+  "description": {
+    "en": "The Grove of Epiphany, where knowledge flourishes and philosophers are born. Yet here stands Anaxagoras the blasphemer, the Chrysos Heir who challenges the Coreflame of Reason: Would you truly embrace infamy and defy prophecy, driving the thorns of doubt into the Sacred Tree of wisdom?",
+    "uk": "Гай Муз, де процвітають знання й народжуються філософи. Та тут стоїть Анаксагор-богохульник, Златиус, який кидає виклик ядру полум'я Розуму. Чи справді ви готові вкритись ганьбою та піти проти пророцтва, увігнавши шипи сумніву в священне дерево мудрості?",
+    "ru": "Роща муз, где процветают знания и рождаются философы. Но здесь стоит Анаксагор-богохульник, Златиус, бросивший вызов ядру пламени Разума. Действительно ли вы готовы покрыть себя позором и пойти против пророчества, вонзив шипы сомнения в священное древо мудрости?"
+  },
+  "assets": {
+    "portrait": "characters/anaxa/portrait.png",
+    "thumbnail": "characters/anaxa/thumb.png"
+  },
+  "stats": {
+    "hp": 970,
+    "atk": 756,
+    "def": 557,
+    "spd": 97,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "ethereal_omen",
+    "ascension_unique": "a_glass_of_the_besotted_era",
+    "trace_group": "rough_sketch",
+    "trace_unique": "lost_echo_of_the_shared_wish"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "life_should_be_cast_to_flames",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "into_the_unreachable_veil",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "the_great_cosmic_enterprise",
+      "rarity": 4,
+      "is_best": false
+    },
+    {
+      "item_id": "today_is_another_peaceful_day",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "as_navigator_isee_sees_it"
+  ],
+  "best_ornaments": [
+    "izumo_gensei_and_takama_divine_realm"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_rate",
+        "sep": ">="
+      },
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "wind_dmg"
+      }
+    ],
+    "rope": [
+      {
+        "id": "atk_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "the_herta",
+    "cerydra",
+    "tribbie",
+    "robin"
+  ]
+}
