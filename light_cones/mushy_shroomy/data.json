@@ -1,11 +1,33 @@
 {
-  "id": "mushy_shroomy",
+  "id": "mushy_shroomys_adventures",
   "name": {
     "en": "Mushy Shroomy's Adventures",
-    "uk": "Пригоди Гриб'яна",
-    "ru": "Приключения Гриб-Гриба"
+    "uk": "Пригоди грибочків",
+    "ru": "Приключения грибочков"
   },
+  "rarity": 4,
+  "path": "elation",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Elation by 12-20%. When the wearer uses an Elation Skill, increases Elation DMG taken by all enemies by 6-10% for 2 turn(s).",
+    "uk": "Підвищує Радість власника на 12-20%. Коли власник використовує навичку Радості, отримувана всіма ворогами шкода Радості підвищується на 6-10% на 2 ходи.",
+    "ru": "Повышает Радость владельца на 12-20%. Когда владелец использует навык Радости, получаемый всеми противниками урон Радости повышается на 6-10% на 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Light Cone Manifest",
+      "uk": "Пасаж Світлових конусів",
+      "ru": "Пассаж Световых конусов"
+    }
+  ],
   "assets": {
-    "art": "light_cones/mushy_shroomy/art.png"
+    "art": "light_cones/mushy_shroomys_adventures/art.png"
   }
 }
