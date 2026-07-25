@@ -28,30 +28,32 @@
                       "ascension_group":  "dream_collection_component",
                       "ascension_unique":  "shape_shifters_lightning_staff",
                       "trace_group":  "fiery_spirit",
-                      "trace_unique":  "destroyers_final_road"
+                      "trace_unique":  "past_evils_of_the_borehole_planet_disaster"
                   },
     "best_light_cones":  [
                              {
-                                 "item_id":  "along_the_passing_shore",
+                                 "is_best":  true,
                                  "rarity":  5,
-                                 "is_best":  true
+                                 "item_id":  "along_the_passing_shore"
                              },
                              {
-                                 "item_id":  "boundless_choreo",
+                                 "is_best":  false,
                                  "rarity":  4,
-                                 "is_best":  true
+                                 "item_id":  "good_night_and_sleep_well"
                              },
                              {
-                                 "item_id":  "good_night_and_sleep_well",
+                                 "is_best":  false,
                                  "rarity":  4,
-                                 "is_best":  false
+                                 "item_id":  "boundless_choreo"
                              }
                          ],
     "best_relics":  [
-                        "pioneer_diver_of_dead_waters"
+                        "pioneer_diver_of_dead_waters",
+                        "scholar_lost_in_erudition"
                     ],
     "best_ornaments":  [
-                           "izumo_gensei_and_takama_divine_realm"
+                           "izumo_gensei_and_takama_divine_realm",
+                           "inert_salsotto"
                        ],
     "relic_stats":  {
                         "body":  "crit_rate",
