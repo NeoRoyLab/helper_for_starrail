@@ -1,14 +1,33 @@
 {
-  "id": "good_night_and_sleep_well",
-  "name": { "en": "Good Night and Sleep Well", "uk": "На добраніч і мирного сну", "ru": "Спокойной ночи и мирного сна" },
-  "rarity": 4,
-  "path": "nihility",
-  "stats": { "hp_min": 43, "hp_max": 952, "atk_min": 21, "atk_max": 476, "def_min": 15, "def_max": 330 },
-  "description": {
-    "en": "For every debuff the target enemy has, increases the DMG dealt by the wearer by 12-24%, stacking up to 3 times. This effect also applies to DoT.",
-    "uk": "За кожне послаблення у вибраного ворога шкода власника підвищується на 12-24%. Ефект складається до 3 разів і також діє на періодичну шкоду.",
-    "ru": "За каждое ослабление у выбранного противника урон владельца повышается на 12-24%. Эффект складывается до 3 раз и также действует на периодический урон."
-  },
-  "sources": [{ "en": "Warp", "uk": "Стрибок", "ru": "Прыжок" }],
-  "assets": { "art": "light_cones/good_night_and_sleep_well/art.png" }
+    "id":  "good_night_and_sleep_well",
+    "name":  {
+                 "en":  "Good Night and Sleep Well",
+                 "uk":  "На добраніч і мирного сну",
+                 "ru":  "Спокойной ночи и мирного сна"
+             },
+    "rarity":  4,
+    "path":  "nihility",
+    "stats":  {
+                  "hp_min":  43,
+                  "hp_max":  952,
+                  "atk_min":  21,
+                  "atk_max":  476,
+                  "def_min":  15,
+                  "def_max":  330
+              },
+    "description":  {
+                        "en":  "For every debuff the target enemy has, increases the DMG dealt by the wearer by 12-24%, stacking up to 3 times. This effect also applies to DoT.",
+                        "uk":  "За кожне послаблення у вибраного ворога шкода власника підвищується на 12-24%. Ефект складається до 3 разів і також діє на періодичну шкоду.",
+                        "ru":  "За каждое имеющееся у выбранного противника ослабление наносимый владельцем урон повышается на 12-24%. Этот эффект может складываться до 3 раз. Этот эффект также распространяется на периодический урон."
+                    },
+    "sources":  [
+                    {
+                        "en":  "Warp",
+                        "uk":  "Стрибок",
+                        "ru":  "Прыжок"
+                    }
+                ],
+    "assets":  {
+                   "art":  "light_cones/good_night_and_sleep_well/art.png"
+               }
 }
