@@ -1,0 +1,33 @@
+{
+  "id": "meshing_cogs",
+  "name": {
+    "en": "Meshing Cogs",
+    "uk": "Зчеплені шестерні",
+    "ru": "Сцепленные шестерни"
+  },
+  "rarity": 3,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 14,
+    "atk_max": 317,
+    "def_min": 12,
+    "def_max": 264
+  },
+  "description": {
+    "en": "After the wearer uses attacks or gets hit, additionally regenerates 4-8 Energy. This effect cannot be repeatedly triggered in a single turn.",
+    "uk": "Після атаки власника або отримання ним удару додатково відновлюється 4-8 од. енергії. Цей ефект не може спрацювати повторно протягом одного ходу.",
+    "ru": "После использования владельцем атаки или получения удара дополнительно восстанавливается 4-8 ед. энергии. Этот эффект не может сработать повторно за один ход."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибок",
+      "ru": "Прыжок"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/meshing_cogs/art.png"
+  }
+}

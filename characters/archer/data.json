@@ -1,0 +1,114 @@
+{
+  "id": "archer",
+  "name": {
+    "en": "Archer",
+    "uk": "Арчер",
+    "ru": "Арчер"
+  },
+  "rarity": 5,
+  "element": "quantum",
+  "path": "the_hunt",
+  "description": {
+    "en": "Despair plays in cycles from past and future. Countless grand ideals were incinerated before that red and sacred cloth. Yet, do not let this smear of ashes fool you... Should someone create a phantasmal sweet dream under the guise of false ideals, then he will burn again, facing down the hypocrites of the world till the very end. No matter where he is, he always remains justice's steadfast companion.",
+    "uk": "Відчай повторюється колами з минулого в майбутнє. Незліченні великі ідеали згоріли перед цією червоною священною тканиною. Та не дозволяйте попелу обманути себе... Якщо хтось створить примарний солодкий сон під виглядом хибних ідеалів, він знову горітиме, протистоячи лицемірам світу до самого кінця. Де б він не був, він завжди лишається вірним супутником справедливості.",
+    "ru": "Отчаяние по кругу переплетает прошлое и будущее. Бесчисленные великие идеалы сгорели дотла перед алой священной тканью. Но не позволяйте пеплу в глазах обмануть вас... Если кто-то создаст призрачный сладкий сон под видом ложных идеалов, он вновь сгорит, до самого конца противостоя лицемерам мира. Где бы он ни был, он всегда остаётся верным спутником справедливости."
+  },
+  "assets": {
+    "portrait": "characters/archer/portrait.png",
+    "thumbnail": "characters/archer/thumb.png"
+  },
+  "stats": {
+    "hp": 1164,
+    "atk": 620,
+    "def": 485,
+    "spd": 105,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "darkveil_moonlight",
+    "trace_group": "meteoric_bullet",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "the_hell_where_ideals_burn",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "cruising_in_the_stellar_sea",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "see_you_at_the_end",
+      "rarity": 4,
+      "is_best": false
+    },
+    {
+      "item_id": "only_silence_remains",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "as_navigator_isee_sees_it",
+    "genius_of_brilliant_stars"
+  ],
+  "best_ornaments": [
+    "rutilant_arena",
+    "tengoku_livestream",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_rate",
+        "sep": ">="
+      },
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "quantum_dmg"
+      }
+    ],
+    "rope": [
+      {
+        "id": "atk_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ">"
+    },
+    {
+      "id": "speed",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "sparkle",
+    "silver_wolf",
+    "cipher",
+    "gallagher"
+  ]
+}

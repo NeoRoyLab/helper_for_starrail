@@ -1,0 +1,33 @@
+{
+  "id": "the_unreachable_side",
+  "name": {
+    "en": "The Unreachable Side",
+    "uk": "Недоступна сторона",
+    "ru": "Недоступная сторона"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 57,
+    "hp_max": 1270,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 18-30% and increases their Max HP by 18-30%. When the wearer is attacked or consumes their own HP, increases their DMG by 24-40%. This effect is removed after the wearer uses an attack.",
+    "uk": "Підвищує крит. шанс власника на 18-30% і його макс. НР на 18-30%. Коли власник зазнає атаки або витрачає власне НР, завдана ним шкода підвищується на 24-40%. Цей ефект знімається після того, як власник виконає атаку.",
+    "ru": "Повышает крит. шанс владельца на 18-30% и его макс. НР на 18-30%. Когда владелец подвергается атаке или расходует собственное НР, наносимый им урон повышается на 24-40%. Этот эффект снимается после того, как владелец выполняет атаку."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Прыжок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/the_unreachable_side/art.png"
+  }
+}

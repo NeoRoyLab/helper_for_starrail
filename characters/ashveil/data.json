@@ -1,0 +1,122 @@
+{
+    "id":  "ashveil",
+    "name":  {
+                 "en":  "Ashveil",
+                 "uk":  "Ешвейл",
+                 "ru":  "Эшвейл"
+             },
+    "rarity":  5,
+    "element":  "lightning",
+    "path":  "the_hunt",
+    "description":  {
+                        "en":  "Operates on a whim, hardcore Deduction... Relies purely on Intuition, yet repeatedly cracks strange cases. With a monkey for an assistant, retirement is the only goal. As for the detective sleeping in the fridge... he\u0027s just waiting for a willing bite. Under the Phantasmoon, the vile beast howls. How will his game of Hounding Pursuit draw to a close?",
+                        "uk":  "Діє за натхненням, застосовуючи жорстку дедукцію... Покладається винятково на інтуїцію, але раз у раз розкриває найдивніші справи. Мавпа-помічник мріє лише про відставку. А детектив, що спить у холодильнику... просто чекає, коли хтось клюне на наживку. Під світлом Фантамісяця виє лютий звір. Чим завершиться його гра в переслідування?",
+                        "ru":  "Действует по наитию, используя жёсткую дедукцию... Полагается исключительно на интуицию, но всё же раскрывает самые запутанные дела. Обезьяна-помощник мечтает об отставке. А сыщик спит в холодильнике, ожидая, когда же кто-нибудь клюнет на наживку. Под светом фантаны воет свирепый зверь. Чем же закончится его игра в охотника?"
+                    },
+    "assets":  {
+                   "portrait":  "characters/ashveil/portrait.png",
+                   "thumbnail":  "characters/ashveil/thumb.png"
+               },
+    "stats":  {
+                  "hp":  853,
+                  "atk":  776,
+                  "def":  388,
+                  "spd":  106,
+                  "taunt":  75
+              },
+    "materials":  {
+                      "ascension_group":  "whimsy_wax",
+                      "ascension_unique":  "thunder_strum",
+                      "trace_group":  "grit_of_strife",
+                      "trace_unique":  "vanquished_flows_reticence"
+                  },
+    "best_light_cones":  [
+                             {
+                                 "item_id":  "the_finale_of_a_lie",
+                                 "rarity":  5,
+                                 "is_best":  true
+                             },
+                             {
+                                 "item_id":  "baptism_of_pure_thought",
+                                 "rarity":  5,
+                                 "is_best":  false
+                             },
+                             {
+                                 "item_id":  "worrisome_blissful",
+                                 "rarity":  5,
+                                 "is_best":  false
+                             },
+                             {
+                                 "item_id":  "cruising_in_the_stellar_sea",
+                                 "rarity":  5,
+                                 "is_best":  false
+                             }
+                         ],
+    "best_relics":  [
+                        "the_ashblazing_grand_duke",
+                        "pioneer_diver_of_dead_waters"
+                    ],
+    "best_ornaments":  [
+                           "duran_dynasty_of_running_wolves",
+                           "city_of_converging_stars",
+                           "the_wondrous_bananamusement_park"
+                       ],
+    "relic_stats":  {
+                        "body":  [
+                                     {
+                                         "id":  "crit_rate"
+                                     }
+                                 ],
+                        "feet":  [
+                                     {
+                                         "id":  "atk_percent",
+                                         "sep":  "\u003e="
+                                     },
+                                     {
+                                         "id":  "speed"
+                                     }
+                                 ],
+                        "sphere":  [
+                                       {
+                                           "id":  "lightning_dmg",
+                                           "sep":  "\u003e"
+                                       },
+                                       {
+                                           "id":  "atk_percent"
+                                       }
+                                   ],
+                        "rope":  [
+                                     {
+                                         "id":  "atk_percent",
+                                         "sep":  "\u003e"
+                                     },
+                                     {
+                                         "id":  "energy_regen"
+                                     }
+                                 ]
+                    },
+    "best_substats":  [
+                          {
+                              "id":  "crit_rate",
+                              "sep":  "="
+                          },
+                          {
+                              "id":  "crit_dmg",
+                              "sep":  "\u003e"
+                          },
+                          {
+                              "id":  "atk_percent",
+                              "sep":  "\u003e"
+                          },
+                          {
+                              "id":  "speed",
+                              "sep":  ""
+                          }
+                      ],
+    "synergy":  [
+                    "feixiao",
+                    "mortenax_blade",
+                    "tribbie",
+                    "dan_heng_permansor_terrae"
+                ]
+}

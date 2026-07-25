@@ -1,0 +1,33 @@
+{
+  "id": "the_hell_where_ideals_burn",
+  "name": {
+    "en": "The Hell Where Ideals Burn",
+    "uk": "Пекло, де горять ідеали",
+    "ru": "Ад, где горят идеалы"
+  },
+  "rarity": 5,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 16-32%. When entering battle and if the allies' Skill Points max limit is 6 or higher, increases the wearer's ATK by 40-80%. After the wearer uses a Skill, increases their ATK by 10-20%, stacking up to 4 time(s).",
+    "uk": "Підвищує крит. шанс власника на 16-32%. На початку бою, якщо макс. кількість очок навичок союзників становить 6 або більше, сила атаки власника підвищується на 40-80%. Після використання навички сила атаки власника підвищується на 10-20%, до 4 рівнів.",
+    "ru": "Крит. шанс владельца повышается на 16-32%. В начале боя, если макс. количество очков навыков союзников равно 6 или выше, сила атаки владельца повышается на 40-80%. После использования владельцем навыка его сила атаки повышается на 10-20%, может складываться до 4 раз."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Прыжок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/the_hell_where_ideals_burn/art.png"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "an_instant_before_a_gaze",
+  "name": {
+    "en": "An Instant Before A Gaze",
+    "uk": "Мить перед поглядом",
+    "ru": "Мгновение перед взглядом"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 36-60%. When the wearer uses Ultimate, increases the wearer's Ultimate DMG based on their Max Energy. Each point of Energy increases Ultimate DMG by 0.36-0.60%, up to 180 Energy.",
+    "uk": "Підвищує крит. шкоду власника на 36-60%. Після використання надздібності шкода надздібності підвищується залежно від макс. енергії: кожна одиниця енергії підвищує її на 0,36-0,60%, але враховується не більш як 180 од. енергії.",
+    "ru": "Повышает крит. урон владельца на 36-60%. После использования сверхспособности урон сверхспособности владельца повышается в зависимости от его макс. энергии: каждая единица энергии повышает урон на 0,36-0,60%, но учитывается не более 180 ед. энергии."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Прыжок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/an_instant_before_a_gaze/art.png"
+  }
+}

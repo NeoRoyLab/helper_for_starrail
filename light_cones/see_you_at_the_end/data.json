@@ -1,0 +1,33 @@
+{
+  "id": "see_you_at_the_end",
+  "name": {
+    "en": "See You at the End",
+    "uk": "Побачимось наприкінці",
+    "ru": "Увидимся в конце"
+  },
+  "rarity": 4,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 24-40%. The Skill DMG and Follow-up ATK DMG dealt by the wearer increase by 24-40%.",
+    "uk": "Підвищує крит. шкоду власника на 24-40%. Шкода навички та бонус-атаки власника підвищується на 24-40%.",
+    "ru": "Крит. урон владельца повышается на 24-40%. Наносимый владельцем урон навыка и бонус-атаки повышается на 24-40%."
+  },
+  "sources": [
+    {
+      "en": "Nameless Glory",
+      "uk": "Честь Безіменних",
+      "ru": "Честь Безымянных"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/see_you_at_the_end/art.png"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cruising_in_the_stellar_sea",
+  "name": {
+    "en": "Cruising in the Stellar Sea",
+    "uk": "Круїз по галактиці",
+    "ru": "Круиз по галактике"
+  },
+  "rarity": 5,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 8-16%, and increases their CRIT Rate against enemies with HP less than or equal to 50% by an extra 8-16%. When the wearer defeats an enemy, their ATK is increased by 20-40% for 2 turn(s).",
+    "uk": "Підвищує крит. шанс власника на 8-16%, а проти противників з НР 50% або нижче додатково підвищує крит. шанс на 8-16%. Після перемоги над противником сила атаки власника підвищується на 20-40% на 2 ходи.",
+    "ru": "Крит. шанс владельца повышается на 8-16%, а против врагов с НР ниже или равным 50% крит. шанс дополнительно повышается на 8-16%. После победы над противником сила атаки владельца повышается на 20-40% на 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Herta's Store",
+      "uk": "Магазин Герти",
+      "ru": "Магазин Герты"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/cruising_in_the_stellar_sea/art.png"
+  }
+}

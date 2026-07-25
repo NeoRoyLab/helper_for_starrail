@@ -1,0 +1,33 @@
+{
+  "id": "only_silence_remains",
+  "name": {
+    "en": "Only Silence Remains",
+    "uk": "Залишається лише тиша",
+    "ru": "Остаётся лишь тишина"
+  },
+  "rarity": 4,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases ATK of its wearer by 16-32%. If there are 2 or fewer enemies on the field, increases the wearer's CRIT Rate by 12-24%.",
+    "uk": "Сила атаки власника підвищується на 16-32%. Якщо на полі бою 2 або менше противників, крит. шанс власника підвищується на 12-24%.",
+    "ru": "Сила атаки владельца повышается на 16-32%. Если на поле боя 2 или меньше противников, крит. шанс владельца повышается на 12-24%."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/only_silence_remains/art.png"
+  }
+}

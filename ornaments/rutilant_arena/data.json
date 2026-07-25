@@ -1,0 +1,25 @@
+{
+  "id": "rutilant_arena",
+  "name": {
+    "en": "Rutilant Arena",
+    "uk": "Арена Рутиланта",
+    "ru": "Арена Рутиланта"
+  },
+  "set_bonus": {
+    "2pc": {
+      "en": "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 70% or higher, the wearer's Basic ATK and Skill DMG increase by 20%.",
+      "uk": "Підвищує крит. шанс власника на 8%. Коли поточний крит. шанс власника досягає 70% або вище, шкода його базової атаки та навички підвищується на 20%.",
+      "ru": "Повышает крит. шанс владельца на 8%. Когда текущий крит. шанс владельца достигает 70% или выше, урон его базовой атаки и навыка повышается на 20%."
+    }
+  },
+  "sources": [
+    {
+      "en": "Simulated Universe: World 7",
+      "uk": "Віртуальний всесвіт: Світ 7",
+      "ru": "Виртуальная вселенная: Мир 7"
+    }
+  ],
+  "assets": {
+    "icon": "ornaments/rutilant_arena/icon.png"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "asta",
+  "name": {
+    "en": "Asta",
+    "uk": "Аста",
+    "ru": "Аста"
+  },
+  "rarity": 4,
+  "element": "fire",
+  "path": "the_harmony",
+  "description": {
+    "en": "A fiercely inquisitive and energetic young girl, she is the lead researcher of Herta Space Station. Whether it is managing opinionated staff, or courteously but firmly responding to the Intelligentsia Guild, Asta handles it all effortlessly. After all... commanding a space station is much easier than taking over a family business!",
+    "uk": "Енергійна й допитлива Аста — провідна дослідниця космічної станції «Герта». Ця юна дівчина легко дає раду будь-яким труднощам — чи то впертий персонал, чи то ввічлива, але рішуча відповідь під час переговорів із Гільдією ерудитів. Зрештою... керувати космічною станцією значно простіше, ніж родинним бізнесом.",
+    "ru": "Энергичная и любознательная Аста — ведущий исследователь космической станции «Герта». Эта юная девушка без труда справляется с любыми трудностями, будь то упрямый персонал или вежливый, но решительный ответ на переговорах с Гильдией эрудитов. В конце концов... управлять космической станцией куда проще, чем семейным бизнесом."
+  },
+  "assets": {
+    "portrait": "characters/asta/portrait.png",
+    "thumbnail": "characters/asta/thumb.png"
+  },
+  "stats": {
+    "hp": 1023,
+    "atk": 511,
+    "def": 463,
+    "spd": 106,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "silvermane_badge",
+    "ascension_unique": "endotherm_chitin",
+    "trace_group": "harmonic_tune",
+    "trace_unique": "destroyers_final_road"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "dance_dance_dance",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "meshing_cogs",
+      "rarity": 3,
+      "is_best": false
+    },
+    {
+      "item_id": "but_the_battle_isnt_over",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "planetary_rendezvous",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "messenger_traversing_hackerspace",
+    "eagle_of_twilight_line",
+    "watchmaker_master_of_dream_machinations"
+  ],
+  "best_ornaments": [
+    "sprightly_vonwacq",
+    "fleet_of_the_ageless",
+    "broken_keel"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "hp_percent",
+        "sep": ">"
+      },
+      {
+        "id": "def_percent"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "fire_dmg",
+        "sep": ">="
+      },
+      {
+        "id": "hp_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "energy_regen"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "hp_percent",
+      "sep": "="
+    },
+    {
+      "id": "def_percent",
+      "sep": ">"
+    },
+    {
+      "id": "effect_res",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "silver_wolf_lv999",
+    "kafka",
+    "black_swan",
+    "firefly"
+  ]
+}

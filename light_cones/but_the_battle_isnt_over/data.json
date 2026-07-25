@@ -1,0 +1,33 @@
+{
+  "id": "but_the_battle_isnt_over",
+  "name": {
+    "en": "But the Battle Isn't Over",
+    "uk": "Але битва ще не закінчена",
+    "ru": "Битва не окончена"
+  },
+  "rarity": 5,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's Energy Regeneration Rate by 10-18% and regenerates 1 Skill Point when the wearer uses their Ultimate on an ally. This effect can be triggered once after every 2 uses of the wearer's Ultimate. When the wearer uses their Skill, the next ally taking action (except the wearer) deals 30-50% more DMG for 1 turn(s).",
+    "uk": "Підвищує швидкість відновлення енергії власника на 10-18% і відновлює 1 очко навичок, коли власник використовує надздібність на союзнику. Ефект спрацьовує один раз за кожні 2 використання надздібності. Після використання навички наступний союзник, який діє (крім власника), завдає на 30-50% більше шкоди протягом 1 ходу.",
+    "ru": "Скорость восстановления энергии владельца повышается на 10-18%, и он восстанавливает 1 очко навыков, когда использует сверхспособность на союзнике. Этот эффект может сработать один раз за каждые 2 использования сверхспособности владельца. Когда владелец использует навык, урон следующего совершающего действие союзника (кроме владельца) повышается на 30-50% на 1 ход."
+  },
+  "sources": [
+    {
+      "en": "Stellar Warp / Starlight Exchange",
+      "uk": "Зоряний стрибок / Злиття зоряного світла",
+      "ru": "Звёздный прыжок / Неугасаемый звёздный свет"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/but_the_battle_isnt_over/art.png"
+  }
+}

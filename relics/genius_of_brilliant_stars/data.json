@@ -1,0 +1,30 @@
+{
+  "id": "genius_of_brilliant_stars",
+  "name": {
+    "en": "Genius of Brilliant Stars",
+    "uk": "Геній діамантових зірок",
+    "ru": "Гений бриллиантовых звёзд"
+  },
+  "set_bonus": {
+    "2pc": {
+      "en": "Increases Quantum DMG by 10%.",
+      "uk": "Підвищує квантову шкоду на 10%.",
+      "ru": "Повышает квантовый урон на 10%."
+    },
+    "4pc": {
+      "en": "When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF.",
+      "uk": "Коли власник завдає шкоди противнику, ігнорується 10% його захисту. Якщо противник має квантову уразливість, додатково ігнорується 10% захисту.",
+      "ru": "Когда владелец наносит урон противнику, игнорируется 10% его защиты. Если противник имеет квантовую уязвимость, дополнительно игнорируется 10% защиты."
+    }
+  },
+  "sources": [
+    {
+      "en": "Cavern of Corrosion: Path of Providence",
+      "uk": "Печера корозії: Шлях провидіння",
+      "ru": "Пещера коррозии: Путь провидения"
+    }
+  ],
+  "assets": {
+    "icon": "relics/genius_of_brilliant_stars/icon.png"
+  }
+}

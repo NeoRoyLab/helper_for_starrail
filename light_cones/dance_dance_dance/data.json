@@ -1,0 +1,33 @@
+{
+  "id": "dance_dance_dance",
+  "name": {
+    "en": "Dance! Dance! Dance!",
+    "uk": "Танцюй! Танцюй! Танцюй!",
+    "ru": "Танцуй! Танцуй! Танцуй!"
+  },
+  "rarity": 4,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "When the wearer uses their Ultimate, all allies' actions are Advanced Forward by 16-24%.",
+    "uk": "Коли власник використовує надздібність, дії всіх союзників просуваються вперед на 16-24%.",
+    "ru": "Когда владелец использует сверхспособность, действия всех союзников продвигаются вперёд на 16-24%."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибок",
+      "ru": "Прыжок"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/dance_dance_dance/art.png"
+  }
+}

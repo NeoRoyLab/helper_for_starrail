@@ -1,0 +1,33 @@
+{
+  "id": "on_the_fall_of_an_aeon",
+  "name": {
+    "en": "On the Fall of an Aeon",
+    "uk": "Про падіння еона",
+    "ru": "О падении Эона"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Whenever the wearer attacks, increases their ATK by 8-16%, stacking up to 4 times. When the wearer inflicts Weakness Break on enemies, the wearer's DMG increases by 12-24% for 2 turn(s).",
+    "uk": "Коли власник атакує, його сила атаки підвищується на 8-16%, до 4 рівнів. Після пробиття уразливості шкода підвищується на 12-24% на 2 ходи.",
+    "ru": "Когда владелец атакует, его сила атаки повышается на 8-16%, может складываться до 4 раз. После пробития уязвимости урон повышается на 12-24% на 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Herta's Store",
+      "uk": "Магазин Герти",
+      "ru": "Магазин Герты"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/on_the_fall_of_an_aeon/art.png"
+  }
+}

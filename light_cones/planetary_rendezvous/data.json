@@ -1,0 +1,33 @@
+{
+  "id": "planetary_rendezvous",
+  "name": {
+    "en": "Planetary Rendezvous",
+    "uk": "Зустріч із зірками",
+    "ru": "Свидание со звёздами"
+  },
+  "rarity": 4,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "After entering battle, if an ally deals the same DMG Type as the wearer, DMG dealt increases by 12-24%.",
+    "uk": "Після початку бою, якщо союзник завдає шкоди того самого типу, що й власник, завдана шкода підвищується на 12-24%.",
+    "ru": "В начале боя, если союзник наносит урон того же типа, что и владелец, наносимый урон повышается на 12-24%."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибок",
+      "ru": "Прыжок"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/planetary_rendezvous/art.png"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "night_on_the_milky_way",
+  "name": {
+    "en": "Night on the Milky Way",
+    "uk": "Ніч на Чумацькому Шляху",
+    "ru": "Ночь на Млечном Пути"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "For every enemy on the field, increases the wearer's ATK by 9-15%, up to 5 stack(s). When an enemy is inflicted with Weakness Break, the wearer's DMG increases by 30-50% for 1 turn(s).",
+    "uk": "За кожного противника на полі сила атаки власника підвищується на 9-15%, до 5 рівнів. Коли противнику накладається пробиття уразливості, шкода власника підвищується на 30-50% на 1 хід.",
+    "ru": "За каждого противника на поле боя сила атаки владельца повышается на 9-15%, может складываться до 5 раз. Когда противнику накладывается пробитие уязвимости, урон владельца повышается на 30-50% на 1 ход."
+  },
+  "sources": [
+    {
+      "en": "Stellar Warp",
+      "uk": "Зоряний стрибок",
+      "ru": "Звёздный прыжок"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/night_on_the_milky_way/art.png"
+  }
+}

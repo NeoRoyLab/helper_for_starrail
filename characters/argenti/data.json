@@ -1,0 +1,119 @@
+{
+  "id": "argenti",
+  "name": {
+    "en": "Argenti",
+    "uk": "Аргенти",
+    "ru": "Аргенти"
+  },
+  "rarity": 5,
+  "element": "physical",
+  "path": "the_erudition",
+  "description": {
+    "en": "A knight of the Knights of Beauty, wandering the cosmos in search of the missing Aeon Idrila. He is pious, sincere, and devoted to spreading beauty throughout the universe.",
+    "uk": "Лицар Лицарів Краси, який мандрує космосом у пошуках зниклої Еона Ідріли. Він побожний, щирий і присвятив себе поширенню краси у всесвіті.",
+    "ru": "Рыцарь Рыцарей Красоты, странствующий по космосу в поисках пропавшего Эона Идрилы. Он благочестив, искренен и посвятил себя распространению красоты во вселенной."
+  },
+  "assets": {
+    "portrait": "characters/argenti/portrait.png",
+    "thumbnail": "characters/argenti/thumb.png"
+  },
+  "stats": {
+    "hp": 1047,
+    "atk": 737,
+    "def": 363,
+    "spd": 103,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "netherworld_token",
+    "trace_group": "key_of_inspiration",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "into_the_unreachable_veil",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "an_instant_before_a_gaze",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "todays_good_luck",
+      "rarity": 4,
+      "is_best": false
+    },
+    {
+      "item_id": "night_on_the_milky_way",
+      "rarity": 5,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_rate",
+        "sep": ">="
+      },
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "atk_percent",
+        "sep": ">="
+      },
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "physical_dmg",
+        "sep": "="
+      },
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "atk_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "the_herta",
+    "sunday",
+    "tribbie",
+    "tingyun"
+  ]
+}

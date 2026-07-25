@@ -1,0 +1,33 @@
+{
+    "id":  "the_finale_of_a_lie",
+    "name":  {
+                 "en":  "The Finale of a Lie",
+                 "uk":  "Фінал брехні",
+                 "ru":  "Эпилог лжи"
+             },
+    "rarity":  5,
+    "path":  "hunt",
+    "stats":  {
+                  "hp_min":  38,
+                  "hp_max":  846,
+                  "atk_min":  28,
+                  "atk_max":  635,
+                  "def_min":  24,
+                  "def_max":  529
+              },
+    "description":  {
+                        "en":  "Increases the wearer\u0027s CRIT Rate by 18-30%. At the start of battle or for every 4 instance(s) of Follow-Up ATK the wearer uses, the wearer gains \"Umbra Devourer,\" lasting for 3 turn(s). While the wearer holds \"Umbra Devourer,\" increases ATK by 40-80% and increases the DMG taken by all enemies by 20-30%. Effects of the same type cannot stack.",
+                        "uk":  "Підвищує крит. шанс власника на 18-30%. На початку бою або після кожних 4 бонус-атак власник отримує статус «Укус тіні» на 3 ходи. Поки власник має статус «Укус тіні», його сила атаки підвищується на 40-80%, а отримувана всіма противниками шкода — на 20-30%. Ефекти одного типу не складаються.",
+                        "ru":  "Крит. шанс владельца повышается на 18-30%. В начале боя или каждый раз, когда владелец выполняет 4 бонус-атаки, владелец получает статус Укус тени, который длится 3 хода. Пока владелец обладает статусом Укус тени, его сила атаки повышается на 40-80%, а получаемый всеми противниками урон повышается на 20-30%. Эффекты подобного типа не могут складываться."
+                    },
+    "sources":  [
+                    {
+                        "en":  "Event Warp: Light Cone",
+                        "uk":  "Стрибок події: Світловий конус",
+                        "ru":  "Прыжок события: Световой конус"
+                    }
+                ],
+    "assets":  {
+                   "art":  "light_cones/the_finale_of_a_lie/art.png"
+               }
+}

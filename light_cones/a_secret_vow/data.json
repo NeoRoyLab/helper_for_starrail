@@ -1,0 +1,33 @@
+{
+  "id": "a_secret_vow",
+  "name": {
+    "en": "A Secret Vow",
+    "uk": "Таємна клятва",
+    "ru": "Тайная клятва"
+  },
+  "rarity": 4,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 12,
+    "def_max": 264
+  },
+  "description": {
+    "en": "Increases DMG dealt by the wearer by 20-40%. The wearer also deals an extra 20-40% DMG to enemies with a higher current HP percentage than the wearer.",
+    "uk": "Підвищує завдану власником шкоду на 20-40%. Власник також завдає на 20-40% більше шкоди противникам, чий поточний відсоток НР вищий, ніж у власника.",
+    "ru": "Повышает наносимый владельцем урон на 20-40%. Владелец также наносит на 20-40% больше урона противникам, чей текущий процент НР выше, чем у владельца."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/a_secret_vow/art.png"
+  }
+}

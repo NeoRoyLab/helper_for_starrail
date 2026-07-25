@@ -1,0 +1,106 @@
+{
+  "id": "arlan",
+  "name": {
+    "en": "Arlan",
+    "uk": "Арлан",
+    "ru": "Арлан"
+  },
+  "rarity": 4,
+  "element": "lightning",
+  "path": "the_destruction",
+  "description": {
+    "en": "The inarticulate head of Herta Space Station's Security Department. Arlan is willing to risk his life to protect the staff who value research so very much.",
+    "uk": "Небагатослівний очільник служби безпеки космічної станції Герти, готовий ризикнути життям заради її працівників.",
+    "ru": "Неразговорчивый глава отдела безопасности космической станции Герты. Арлан готов рискнуть жизнью, чтобы защитить сотрудников, так высоко ценящих исследования."
+  },
+  "assets": {
+    "portrait": "characters/arlan/portrait.png",
+    "thumbnail": "characters/arlan/thumb.png"
+  },
+  "stats": {
+    "hp": 1199,
+    "atk": 599,
+    "def": 330,
+    "spd": 102,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "lightning_crown_of_the_past_shadow",
+    "trace_group": "shattered_blade",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "on_the_fall_of_an_aeon",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "the_unreachable_side",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "a_secret_vow",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "rutilant_arena"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_rate",
+        "sep": ">="
+      },
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "lightning_dmg"
+      }
+    ],
+    "rope": [
+      {
+        "id": "atk_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ">"
+    },
+    {
+      "id": "speed",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "fu_xuan",
+    "aventurine",
+    "tingyun",
+    "sparkle"
+  ]
+}

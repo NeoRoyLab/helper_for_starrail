@@ -1,0 +1,33 @@
+{
+    "id":  "worrisome_blissful",
+    "name":  {
+                 "en":  "Worrisome, Blissful",
+                 "uk":  "Тривога і блаженство",
+                 "ru":  "Тревога и блаженство"
+             },
+    "rarity":  5,
+    "path":  "hunt",
+    "stats":  {
+                  "hp_min":  48,
+                  "hp_max":  1058,
+                  "atk_min":  26,
+                  "atk_max":  582,
+                  "def_min":  21,
+                  "def_max":  463
+              },
+    "description":  {
+                        "en":  "Increases the wearer\u0027s CRIT Rate by 18-30% and increases DMG dealt by follow-up attack by 30-50%. After the wearer uses a follow-up attack, inflicts the target with the Tame state, stacking up to 2 time(s). When allies hit enemy targets under the Tame state, each Tame stack increases the CRIT DMG dealt by 12-20%.",
+                        "uk":  "Підвищує крит. шанс власника на 18-30%, а шкоду бонус-атаки — на 30-50%. Після бонус-атаки накладає на ціль статус «Приборкання», який складається до 2 разів. Коли союзники атакують противника зі статусом «Приборкання», кожен рівень статусу підвищує завдану крит. шкоду на 12-20%.",
+                        "ru":  "Крит. шанс владельца повышается на 18-30%, а урон от бонус-атаки — на 30-50%. После выполнения бонус-атаки накладывает на цель статус Приручение, который может складываться до 2 раз. Когда союзник поражает противника со статусом Приручение, каждый уровень этого статуса повышает наносимый крит. урон на 12-20%."
+                    },
+    "sources":  [
+                    {
+                        "en":  "Event Warp: Light Cone / Starlight Exchange",
+                        "uk":  "Стрибок події: Світловий конус / Зоряне злиття",
+                        "ru":  "Прыжок события: Световой конус / Слияние звёзд"
+                    }
+                ],
+    "assets":  {
+                   "art":  "light_cones/worrisome_blissful/art.png"
+               }
+}
