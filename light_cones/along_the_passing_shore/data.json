@@ -1,0 +1,14 @@
+{
+  "id": "along_the_passing_shore",
+  "name": { "en": "Along the Passing Shore", "uk": "Вздовж берега, що зникає", "ru": "Вдоль уходящего берега" },
+  "rarity": 5,
+  "path": "nihility",
+  "stats": { "hp_min": 48, "hp_max": 1058, "atk_min": 28, "atk_max": 635, "def_min": 18, "def_max": 396 },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 36-60%. When the wearer attacks, inflicts Mirage Fizzle on the enemy, lasting for 1 turn. Each time the wearer uses an attack, this effect can only trigger once on each target. The wearer deals 24-40% increased DMG to targets afflicted with Mirage Fizzle, and the DMG dealt by Ultimate additionally increases by 24-40%.",
+    "uk": "Підвищує крит. шкоду власника на 36-60%. Коли власник атакує, накладає на ворога ефект «Згасання міражу» на 1 хід. За одну атаку ефект може спрацювати лише 1 раз для кожної цілі. Шкода по цілях із цим ефектом підвищується на 24-40%, а шкода Надздібності додатково підвищується на 24-40%.",
+    "ru": "Повышает крит. урон владельца на 36-60%. Когда владелец атакует, накладывает на противника эффект «Угасание миража» на 1 ход. За одну атаку эффект может сработать только 1 раз для каждой цели. Урон по целям с этим эффектом повышается на 24-40%, а урон сверхспособности дополнительно повышается на 24-40%."
+  },
+  "sources": [{ "en": "Event Warp (Limited)", "uk": "Прыжок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }],
+  "assets": { "art": "light_cones/along_the_passing_shore/art.png" }
+}

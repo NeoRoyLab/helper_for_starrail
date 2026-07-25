@@ -1,0 +1,14 @@
+{
+  "id": "boundless_choreo",
+  "name": { "en": "Boundless Choreo", "uk": "Безмежна хореографія", "ru": "Безграничная хореография" },
+  "rarity": 4,
+  "path": "nihility",
+  "stats": { "hp_min": 43, "hp_max": 952, "atk_min": 21, "atk_max": 476, "def_min": 15, "def_max": 330 },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 8-16%. The wearer deals 24-48% more CRIT DMG to enemies that are currently Slowed or have reduced DEF.",
+    "uk": "Підвищує крит. шанс власника на 8-16%. Крит. шкода власника по ворогах зі Сповільненням або зниженим захистом підвищується на 24-48%.",
+    "ru": "Повышает шанс крит. попадания владельца на 8-16%. Крит. урон владельца по противникам с Замедлением или пониженной защитой повышается на 24-48%."
+  },
+  "sources": [{ "en": "Warp", "uk": "Стрибок", "ru": "Прыжок" }],
+  "assets": { "art": "light_cones/boundless_choreo/art.png" }
+}
