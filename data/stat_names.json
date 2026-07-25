@@ -1,11 +1,46 @@
 {
   "stats": [
-    { "id": "crit_rate",     "en": "CRIT Rate",     "uk": "Крит. шанс",      "ru": "Шанс крита" },
-    { "id": "crit_dmg",      "en": "CRIT DMG",      "uk": "Крит. шкода",     "ru": "Крит. урон" },
-    { "id": "atk_percent",   "en": "ATK%",          "uk": "АТК%",            "ru": "АТК%" },
-    { "id": "hp_percent",    "en": "HP%",           "uk": "HP%",             "ru": "HP%" },
-    { "id": "def_percent",   "en": "DEF%",          "uk": "DEF%",            "ru": "DEF%" },
-    { "id": "energy_regen",  "en": "Energy Regen",  "uk": "Відновл. енергії","ru": "Восст. энергии" },
-    { "id": "effect_hit",    "en": "Effect Hit Rate","uk": "Шанс ефекту",    "ru": "Шанс эффекта" }
+    {
+      "id": "crit_rate",
+      "en": "CRIT Rate",
+      "uk": "Крит. шанс",
+      "ru": "Шанс крита"
+    },
+    {
+      "id": "crit_dmg",
+      "en": "CRIT DMG",
+      "uk": "Крит. шкода",
+      "ru": "Крит. урон"
+    },
+    {
+      "id": "atk_percent",
+      "en": "ATK%",
+      "uk": "АТК%",
+      "ru": "АТК%"
+    },
+    {
+      "id": "hp_percent",
+      "en": "HP%",
+      "uk": "HP%",
+      "ru": "HP%"
+    },
+    {
+      "id": "def_percent",
+      "en": "DEF%",
+      "uk": "DEF%",
+      "ru": "DEF%"
+    },
+    {
+      "id": "energy_regen",
+      "en": "Energy Regen",
+      "uk": "Відновл. енергії",
+      "ru": "Восст. энергии"
+    },
+    {
+      "id": "effect_hit",
+      "en": "Effect Hit Rate",
+      "uk": "Шанс ефекту",
+      "ru": "Шанс эффекта"
+    }
   ]
 }

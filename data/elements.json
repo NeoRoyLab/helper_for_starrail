@@ -1,11 +1,46 @@
 {
   "elements": [
-    { "id": "fire",      "en": "Fire",      "uk": "Вогонь",  "ru": "Огонь" },
-    { "id": "ice",       "en": "Ice",       "uk": "Лід",     "ru": "Лёд" },
-    { "id": "wind",      "en": "Wind",      "uk": "Вітер",   "ru": "Ветер" },
-    { "id": "lightning", "en": "Lightning", "uk": "Блискавка","ru": "Молния" },
-    { "id": "imaginary", "en": "Imaginary", "uk": "Уява",    "ru": "Воображение" },
-    { "id": "quantum",   "en": "Quantum",   "uk": "Квант",   "ru": "Квант" },
-    { "id": "physical",  "en": "Physical",  "uk": "Фізичний","ru": "Физический" }
+    {
+      "id": "fire",
+      "en": "Fire",
+      "uk": "Вогонь",
+      "ru": "Огонь"
+    },
+    {
+      "id": "ice",
+      "en": "Ice",
+      "uk": "Лід",
+      "ru": "Лёд"
+    },
+    {
+      "id": "wind",
+      "en": "Wind",
+      "uk": "Вітер",
+      "ru": "Ветер"
+    },
+    {
+      "id": "lightning",
+      "en": "Lightning",
+      "uk": "Блискавка",
+      "ru": "Молния"
+    },
+    {
+      "id": "imaginary",
+      "en": "Imaginary",
+      "uk": "Уява",
+      "ru": "Воображение"
+    },
+    {
+      "id": "quantum",
+      "en": "Quantum",
+      "uk": "Квант",
+      "ru": "Квант"
+    },
+    {
+      "id": "physical",
+      "en": "Physical",
+      "uk": "Фізичний",
+      "ru": "Физический"
+    }
   ]
 }

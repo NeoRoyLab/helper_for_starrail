@@ -14,7 +14,7 @@
     "ru": "Добро пожаловать, Космический бейсболист, на стрим! Я твой добрый друг Искра. Давай начнём день, наполненный дофамином? И в этом ярком мире сегодня мы будем сиять искрами~"
   },
   "assets": {
-    "portrait":  "characters/sparxie/portrait.png",
+    "portrait": "characters/sparxie/portrait.png",
     "thumbnail": "characters/sparxie/thumb.png"
   },
   "stats": {
@@ -25,28 +25,72 @@
     "taunt": 100
   },
   "materials": {
-    "ascension_group":  "whimsy_wax",
+    "ascension_group": "whimsy_wax",
     "ascension_unique": "radiant_prominence",
-    "trace_group":      "the_fluffy_hand-drawn_storyboards",
-    "trace_unique":     "vanquished_flows_reticence"
+    "trace_group": "the_fluffy_hand-drawn_storyboards",
+    "trace_unique": "vanquished_flows_reticence"
   },
   "best_light_cones": [
-    { "item_id": "dazzled_flowery",  "rarity": 5, "is_best": true },
-    { "item_id": "todays_good_luck", "rarity": 4, "is_best": true },
-    { "item_id": "mushy_shroomys_adventures", "rarity": 4, "is_best": false }
+    {
+      "item_id": "dazzled_flowery",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "todays_good_luck",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "mushy_shroomys_adventures",
+      "rarity": 4,
+      "is_best": false
+    }
   ],
-  "best_relics":    ["ever_glorious_magical_girl"],
-  "best_ornaments": ["tengoku_livestream"],
+  "best_relics": [
+    "ever_glorious_magical_girl"
+  ],
+  "best_ornaments": [
+    "tengoku_livestream"
+  ],
   "relic_stats": {
-    "body": "crit_rate",
-    "feet": "atk_percent",
-    "sphere": "atk_percent",
-    "rope": "energy_regen"
+    "body": [
+      {
+        "id": "crit_rate"
+      }
+    ],
+    "feet": [
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "energy_regen"
+      }
+    ]
   },
   "best_substats": [
-    { "id": "atk_percent", "sep": ">" },
-    { "id": "crit_rate", "sep": "=" },
-    { "id": "crit_dmg", "sep": "" }
+    {
+      "id": "atk_percent",
+      "sep": ">"
+    },
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ""
+    }
   ],
-  "synergy": ["yao_guang", "sparkle"]
+  "synergy": [
+    "yao_guang",
+    "sparkle"
+  ]
 }

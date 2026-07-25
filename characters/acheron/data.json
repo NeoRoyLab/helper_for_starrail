@@ -1,84 +1,112 @@
 {
-    "id":  "acheron",
-    "name":  {
-                 "en":  "Acheron",
-                 "uk":  "Ахерон",
-                 "ru":  "Ахерон"
-             },
-    "rarity":  5,
-    "element":  "lightning",
-    "path":  "the_nihility",
-    "description":  {
-                        "en":  "A drifter claiming to be a Galaxy Ranger, though she is later revealed to be a Self-Annihilator. She walks the cosmos alone, carrying with her a long sword. Though aloof and taciturn, her blade flicks out like lashing lightning. And yet, she always strikes with her scabbard, never drawing the sword free.",
-                        "uk":  "Мандрівниця, яка називає себе Галактичним рейнджером. Її справжнє ім\u0027я невідоме. Вона самотньо подорожує космосом, несучи довгий меч. Хоча вона відсторонена й небагатослівна, її клинок мерехтить небесною блискавкою.",
-                        "ru":  "Странница, именующая себя Галактическим рейнджером, чьё настоящее имя неизвестно. Вооружённая длинным мечом, она в одиночку скитается по вселенной. Она сдержанна и немногословна. Её меч быстр и резок, как молния, но она всегда наносит удары ножнами, не обнажая лезвие."
-                    },
-    "assets":  {
-                   "portrait":  "characters/acheron/portrait.png",
-                   "thumbnail":  "characters/acheron/thumb.png"
-               },
-    "stats":  {
-                  "hp":  1125,
-                  "atk":  698,
-                  "def":  436,
-                  "spd":  101,
-                  "taunt":  100
-              },
-    "materials":  {
-                      "ascension_group":  "dream_collection_component",
-                      "ascension_unique":  "shape_shifters_lightning_staff",
-                      "trace_group":  "fiery_spirit",
-                      "trace_unique":  "past_evils_of_the_borehole_planet_disaster"
-                  },
-    "best_light_cones":  [
-                             {
-                                 "is_best":  true,
-                                 "rarity":  5,
-                                 "item_id":  "along_the_passing_shore"
-                             },
-                             {
-                                 "is_best":  false,
-                                 "rarity":  4,
-                                 "item_id":  "good_night_and_sleep_well"
-                             },
-                             {
-                                 "is_best":  false,
-                                 "rarity":  4,
-                                 "item_id":  "boundless_choreo"
-                             }
-                         ],
-    "best_relics":  [
-                        "pioneer_diver_of_dead_waters",
-                        "scholar_lost_in_erudition"
-                    ],
-    "best_ornaments":  [
-                           "izumo_gensei_and_takama_divine_realm",
-                           "inert_salsotto"
-                       ],
-    "relic_stats":  {
-                        "body":  "crit_rate",
-                        "feet":  "atk_percent",
-                        "sphere":  "atk_percent",
-                        "rope":  "atk_percent"
-                    },
-    "best_substats":  [
-                          {
-                              "id":  "crit_rate",
-                              "sep":  "="
-                          },
-                          {
-                              "id":  "crit_dmg",
-                              "sep":  "\u003e"
-                          },
-                          {
-                              "id":  "atk_percent",
-                              "sep":  ""
-                          }
-                      ],
-    "synergy":  [
-                    "jiaoqiu",
-                    "silver_wolf",
-                    "pela",
-                    "fu_xuan"
-                ]
+  "id": "acheron",
+  "name": {
+    "en": "Acheron",
+    "uk": "Ахерон",
+    "ru": "Ахерон"
+  },
+  "rarity": 5,
+  "element": "lightning",
+  "path": "the_nihility",
+  "description": {
+    "en": "A drifter claiming to be a Galaxy Ranger, though she is later revealed to be a Self-Annihilator. She walks the cosmos alone, carrying with her a long sword. Though aloof and taciturn, her blade flicks out like lashing lightning. And yet, she always strikes with her scabbard, never drawing the sword free.",
+    "uk": "Мандрівниця, яка називає себе Галактичним рейнджером. Її справжнє ім'я невідоме. Вона самотньо подорожує космосом, несучи довгий меч. Хоча вона відсторонена й небагатослівна, її клинок мерехтить небесною блискавкою.",
+    "ru": "Странница, именующая себя Галактическим рейнджером, чьё настоящее имя неизвестно. Вооружённая длинным мечом, она в одиночку скитается по вселенной. Она сдержанна и немногословна. Её меч быстр и резок, как молния, но она всегда наносит удары ножнами, не обнажая лезвие."
+  },
+  "assets": {
+    "portrait": "characters/acheron/portrait.png",
+    "thumbnail": "characters/acheron/thumb.png"
+  },
+  "stats": {
+    "hp": 1125,
+    "atk": 698,
+    "def": 436,
+    "spd": 101,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "dream_collection_component",
+    "ascension_unique": "shape_shifters_lightning_staff",
+    "trace_group": "fiery_spirit",
+    "trace_unique": "past_evils_of_the_borehole_planet_disaster"
+  },
+  "best_light_cones": [
+    {
+      "is_best": true,
+      "rarity": 5,
+      "item_id": "along_the_passing_shore"
+    },
+    {
+      "is_best": false,
+      "rarity": 4,
+      "item_id": "good_night_and_sleep_well"
+    },
+    {
+      "is_best": false,
+      "rarity": 4,
+      "item_id": "boundless_choreo"
+    }
+  ],
+  "best_relics": [
+    "pioneer_diver_of_dead_waters",
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "izumo_gensei_and_takama_divine_realm",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_rate",
+        "sep": ">="
+      },
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "atk_percent",
+        "sep": ">"
+      },
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "atk_percent",
+        "sep": ">"
+      },
+      {
+        "id": "lightning_dmg"
+      }
+    ],
+    "rope": [
+      {
+        "id": "atk_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "jiaoqiu",
+    "silver_wolf",
+    "pela",
+    "fu_xuan"
+  ]
 }

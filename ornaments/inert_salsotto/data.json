@@ -1,8 +1,8 @@
 {
-    "id":  "inert_salsotto",
-    "name":  {
-                 "en":  "Inert Salsotto",
-                 "uk":  "Завмерле Салсотто",
-                 "ru":  "Замершее Салсотто"
-             }
+  "id": "inert_salsotto",
+  "name": {
+    "en": "Inert Salsotto",
+    "uk": "Завмерле Салсотто",
+    "ru": "Замершее Салсотто"
+  }
 }

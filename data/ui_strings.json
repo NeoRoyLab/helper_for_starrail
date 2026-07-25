@@ -1,88 +1,88 @@
 {
-    "strings":  [
-                    {
-                        "id":  "ascension_materials",
-                        "en":  "Ascension Materials",
-                        "uk":  "Матеріали підвищення",
-                        "ru":  "Материалы возвышения"
-                    },
-                    {
-                        "id":  "trace_materials",
-                        "en":  "Trace Materials",
-                        "uk":  "Матеріали слідів",
-                        "ru":  "Материалы следов"
-                    },
-                    {
-                        "id":  "tab_profile",
-                        "en":  "Profile",
-                        "uk":  "Профіль",
-                        "ru":  "Профиль"
-                    },
-                    {
-                        "id":  "tab_build",
-                        "en":  "Build",
-                        "uk":  "Білд",
-                        "ru":  "Билд"
-                    },
-                    {
-                        "id":  "best_light_cones",
-                        "en":  "Best Light Cones",
-                        "uk":  "Найкращі світлові конуси",
-                        "ru":  "Лучшие световые конусы"
-                    },
-                    {
-                        "id":  "other_good_cones",
-                        "en":  "Other Good Cones",
-                        "uk":  "Інші хороші конуси",
-                        "ru":  "Другие хорошие конусы"
-                    },
-                    {
-                        "id":  "best_relics",
-                        "en":  "Best Relics",
-                        "uk":  "Найкращі реліквії",
-                        "ru":  "Лучшие реликвии"
-                    },
-                    {
-                        "id":  "best_ornaments",
-                        "en":  "Best Ornaments",
-                        "uk":  "Найкращі орнаменти",
-                        "ru":  "Лучшие орнаменты"
-                    },
-                    {
-                        "id":  "best_relic_stats",
-                        "en":  "Best Relic Stats",
-                        "uk":  "Найкращі стати реліквій",
-                        "ru":  "Лучшие статы реликвий"
-                    },
-                    {
-                        "id":  "substats_priority",
-                        "en":  "Substats Priority",
-                        "uk":  "Пріоритет субстатів",
-                        "ru":  "Приоритет субстатов"
-                    },
-                    {
-                        "id":  "synergy",
-                        "en":  "Synergy",
-                        "uk":  "Синергія",
-                        "ru":  "Синергия"
-                    },
-                    {
-                        "id":  "source",
-                        "en":  "Source",
-                        "uk":  "Джерело",
-                        "ru":  "Источник"
-                    },
-                    {
-                        "id":  "loading",
-                        "en":  "Loading...",
-                        "uk":  "Завантаження...",
-                        "ru":  "Загрузка..."
-                    },
-                    {
-                        "id":  "loading_error",
-                        "en":  "Failed to load character data. Tap to retry.",
-                        "uk":  "Не вдалося завантажити дані персонажа. Натисніть, щоб повторити.",
-                        "ru":  "Не удалось загрузить данные персонажа. Нажмите, чтобы повторить."
-                    }
-                ]
+  "strings": [
+    {
+      "id": "ascension_materials",
+      "en": "Ascension Materials",
+      "uk": "Матеріали підвищення",
+      "ru": "Материалы возвышения"
+    },
+    {
+      "id": "trace_materials",
+      "en": "Trace Materials",
+      "uk": "Матеріали слідів",
+      "ru": "Материалы следов"
+    },
+    {
+      "id": "tab_profile",
+      "en": "Profile",
+      "uk": "Профіль",
+      "ru": "Профиль"
+    },
+    {
+      "id": "tab_build",
+      "en": "Build",
+      "uk": "Білд",
+      "ru": "Билд"
+    },
+    {
+      "id": "best_light_cones",
+      "en": "Best Light Cones",
+      "uk": "Найкращі світлові конуси",
+      "ru": "Лучшие световые конусы"
+    },
+    {
+      "id": "other_good_cones",
+      "en": "Other Good Cones",
+      "uk": "Інші хороші конуси",
+      "ru": "Другие хорошие конусы"
+    },
+    {
+      "id": "best_relics",
+      "en": "Best Relics",
+      "uk": "Найкращі реліквії",
+      "ru": "Лучшие реликвии"
+    },
+    {
+      "id": "best_ornaments",
+      "en": "Best Ornaments",
+      "uk": "Найкращі орнаменти",
+      "ru": "Лучшие орнаменты"
+    },
+    {
+      "id": "best_relic_stats",
+      "en": "Best Relic Stats",
+      "uk": "Найкращі стати реліквій",
+      "ru": "Лучшие статы реликвий"
+    },
+    {
+      "id": "substats_priority",
+      "en": "Substats Priority",
+      "uk": "Пріоритет субстатів",
+      "ru": "Приоритет субстатов"
+    },
+    {
+      "id": "synergy",
+      "en": "Synergy",
+      "uk": "Синергія",
+      "ru": "Синергия"
+    },
+    {
+      "id": "source",
+      "en": "Source",
+      "uk": "Джерело",
+      "ru": "Источник"
+    },
+    {
+      "id": "loading",
+      "en": "Loading...",
+      "uk": "Завантаження...",
+      "ru": "Загрузка..."
+    },
+    {
+      "id": "loading_error",
+      "en": "Failed to load character data. Tap to retry.",
+      "uk": "Не вдалося завантажити дані персонажа. Натисніть, щоб повторити.",
+      "ru": "Не удалось загрузить данные персонажа. Нажмите, чтобы повторить."
+    }
+  ]
 }

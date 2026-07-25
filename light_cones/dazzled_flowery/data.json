@@ -8,9 +8,12 @@
   "rarity": 5,
   "path": "elation",
   "stats": {
-    "hp_min": 48,  "hp_max": 1058,
-    "atk_min": 26, "atk_max": 582,
-    "def_min": 21, "def_max": 463
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 21,
+    "def_max": 463
   },
   "description": {
     "en": "Increases the wearer's CRIT DMG by 48-80%. While the wearer is on the field, for every Elation character on the team, increases the Skill Point upper limit by 1, up to a max increase of 3. For every 1 Skill Point the wearer consumes, ignores 5-9% of enemy targets' DEF when this unit deals Elation DMG, stacking up to 4 times. If 4 or more Skill Points are consumed in the same turn, the wearer gains \"Stream Promo,\" which increases all allies' Elation by 20-36%. Light Cone effects of the same type cannot stack.",

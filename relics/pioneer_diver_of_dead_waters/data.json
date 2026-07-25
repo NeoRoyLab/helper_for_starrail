@@ -1,4 +1,8 @@
 {
   "id": "pioneer_diver_of_dead_waters",
-  "name": { "en": "Pioneer Diver of Dead Waters", "uk": "Першовідкривач мертвих вод", "ru": "Первооткрыватель мёртвых вод" }
+  "name": {
+    "en": "Pioneer Diver of Dead Waters",
+    "uk": "Першовідкривач мертвих вод",
+    "ru": "Первооткрыватель мёртвых вод"
+  }
 }

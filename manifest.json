@@ -1,20 +1,20 @@
 {
-    "manifests":  [
-                      {
-                          "key":  "characters",
-                          "version":  22
-                      },
-                      {
-                          "key":  "light_cones",
-                          "version":  9
-                      },
-                      {
-                          "key":  "relics",
-                          "version":  7
-                      },
-                      {
-                          "key":  "ornaments",
-                          "version":  7
-                      }
-                  ]
+  "manifests": [
+    {
+      "key": "characters",
+      "version": 24
+    },
+    {
+      "key": "light_cones",
+      "version": 9
+    },
+    {
+      "key": "relics",
+      "version": 7
+    },
+    {
+      "key": "ornaments",
+      "version": 7
+    }
+  ]
 }
