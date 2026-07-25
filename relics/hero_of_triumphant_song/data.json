@@ -1,0 +1,30 @@
+{
+  "id": "hero_of_triumphant_song",
+  "name": {
+    "en": "Hero of Triumphant Song",
+    "uk": "Герой тріумфальної пісні",
+    "ru": "Воспетый эпосом герой"
+  },
+  "set_bonus": {
+    "2pc": {
+      "en": "Increases ATK by 12%.",
+      "uk": "Підвищує силу атаки на 12%.",
+      "ru": "Повышает силу атаки на 12%."
+    },
+    "4pc": {
+      "en": "While the wearer's memosprite is on the field, increases the wearer's SPD by 6%. When the wearer's memosprite attacks, increases the wearer's and memosprite's CRIT DMG by 30% for 2 turn(s).",
+      "uk": "Поки дух пам'яті власника перебуває на полі, швидкість власника підвищується на 6%. Коли дух пам'яті власника атакує, крит. шкода власника та його духа пам'яті підвищується на 30% на 2 ходи.",
+      "ru": "Пока дух памяти владельца находится на поле боя, скорость владельца повышается на 6%. Когда дух памяти владельца атакует, крит. урон владельца и его духа памяти повышается на 30% на 2 хода."
+    }
+  },
+  "sources": [
+    {
+      "en": "Cavern of Corrosion: Path of Aria",
+      "uk": "Печера корозії: Шлях арії",
+      "ru": "Пещера коррозии: Путь арии"
+    }
+  ],
+  "assets": {
+    "icon": "relics/hero_of_triumphant_song/icon.png"
+  }
+}

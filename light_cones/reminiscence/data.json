@@ -1,0 +1,33 @@
+{
+  "id": "reminiscence",
+  "name": {
+    "en": "Reminiscence",
+    "uk": "Образ минулого",
+    "ru": "Образ прошлого"
+  },
+  "rarity": 3,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 28,
+    "hp_max": 635,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 12,
+    "def_max": 264
+  },
+  "description": {
+    "en": "When the memosprite's turn starts, the wearer and memosprite each gain 1 stack of \"Commemoration.\" Each stack increases DMG dealt by 8-12%, stacking up to 4 time(s). When the memosprite disappears, removes \"Commemoration\" from the wearer and memosprite.",
+    "uk": "На початку ходу духа пам'яті власник і дух пам'яті отримують по 1 рівню статусу «Вшанування». Кожен рівень підвищує завдану шкоду на 8-12%, до 4 рівнів. Коли дух пам'яті зникає, статус «Вшанування» знімається з власника та духа пам'яті.",
+    "ru": "В начале хода духа памяти владелец и дух памяти получают по 1 ур. статуса Почтение. Каждый уровень повышает наносимый урон на 8-12%, может складываться до 4 раз. Когда дух памяти исчезает, статус Почтение снимается с владельца и духа памяти."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/reminiscence/art.png"
+  }
+}

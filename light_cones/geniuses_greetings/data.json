@@ -1,0 +1,33 @@
+{
+  "id": "geniuses_greetings",
+  "name": {
+    "en": "Geniuses' Greetings",
+    "uk": "Привіт від геніїв",
+    "ru": "Привет от гениев"
+  },
+  "rarity": 4,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 28-44%. After the wearer uses Ultimate, increases the Basic ATK DMG dealt by the wearer and their memosprite by 35-55% for 3 turn(s).",
+    "uk": "Підвищує силу атаки власника на 28-44%. Після використання надздібності шкода базової атаки власника та його духа пам'яті підвищується на 35-55% на 3 ходи.",
+    "ru": "Сила атаки владельца повышается на 28-44%. После того как владелец использует сверхспособность, наносимый базовыми атаками владельца и духа памяти урон повышается на 35-55% на 3 хода."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/geniuses_greetings/art.png"
+  }
+}

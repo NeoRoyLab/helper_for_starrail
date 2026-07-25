@@ -1,0 +1,33 @@
+{
+  "id": "sweat_now_cry_less",
+  "name": {
+    "en": "Sweat Now, Cry Less",
+    "uk": "Більше поту, менше сліз",
+    "ru": "Больше пота, меньше слёз"
+  },
+  "rarity": 4,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 9,
+    "def_max": 198
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 12-20%. When the wearer's memosprite is on the field, increases the DMG dealt by the wearer and their memosprite by 24-36%.",
+    "uk": "Підвищує крит. шанс власника на 12-20%. Коли дух пам'яті власника перебуває на полі, шкода власника та його духа пам'яті підвищується на 24-36%.",
+    "ru": "Повышает крит. шанс владельца на 12-20%. Когда дух памяти владельца находится на поле боя, наносимый владельцем и его духом памяти урон повышается на 24-36%."
+  },
+  "sources": [
+    {
+      "en": "Nameless Honor",
+      "uk": "Честь Безіменних",
+      "ru": "Честь Безымянных"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/sweat_now_cry_less/art.png"
+  }
+}

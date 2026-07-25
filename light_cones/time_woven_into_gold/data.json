@@ -1,0 +1,33 @@
+{
+  "id": "time_woven_into_gold",
+  "name": {
+    "en": "Time Woven Into Gold",
+    "uk": "Час, вплетений у золото",
+    "ru": "Вплетённое в золото время"
+  },
+  "rarity": 5,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's base SPD by 12-20. After the wearer and the wearer's memosprite attacks, the wearer gains 1 stack of \"Brocade.\" Each stack of \"Brocade\" increases the wearer's and their memosprite's CRIT DMG by 9.0-15.0%, stacking up to 6 time(s). When reaching maximum stacks, each \"Brocade\" stack additionally increases Basic ATK DMG dealt by 9.0-15.0%.",
+    "uk": "Підвищує базову швидкість власника на 12-20. Після атаки власника або його духа пам'яті власник отримує 1 рівень статусу «Парча». Кожен рівень «Парчі» підвищує крит. шкоду власника та його духа пам'яті на 9,0-15,0%, до 6 рівнів. За максимальної кількості рівнів кожен рівень «Парчі» також підвищує шкоду базової атаки на 9,0-15,0%.",
+    "ru": "Повышает базовую скорость владельца на 12-20. После того как владелец или его дух памяти выполняет атаку, владелец получает 1 ур. статуса Парча. Каждый уровень Парчи повышает крит. урон владельца и его духа памяти на 9-15%, может складываться до 6 раз. При достижении макс. количества уровней каждый уровень Парчи дополнительно повышает урон базовой атаки на 9-15%."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Прыжок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/time_woven_into_gold/art.png"
+  }
+}

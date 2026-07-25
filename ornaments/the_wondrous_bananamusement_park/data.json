@@ -1,0 +1,25 @@
+{
+  "id": "the_wondrous_bananamusement_park",
+  "name": {
+    "en": "The Wondrous BananAmusement Park",
+    "uk": "Дивовижний банановий парк",
+    "ru": "Чудесный банановый рай"
+  },
+  "set_bonus": {
+    "2pc": {
+      "en": "Increases the wearer's CRIT DMG by 16%. When a target summoned by the wearer is on the field, CRIT DMG additionally increases by 32%.",
+      "uk": "Підвищує крит. шкоду власника на 16%. Коли призвана власником ціль перебуває на полі, крит. шкода додатково підвищується на 32%.",
+      "ru": "Повышает крит. урон владельца на 16%. Когда призванная владельцем цель находится на поле боя, крит. урон дополнительно повышается на 32%."
+    }
+  },
+  "sources": [
+    {
+      "en": "Divergent Universe: Famished Worker",
+      "uk": "Розбіжний всесвіт: Голодний працівник",
+      "ru": "Расходящаяся вселенная: Голодный работник"
+    }
+  ],
+  "assets": {
+    "icon": "ornaments/the_wondrous_bananamusement_park/icon.png"
+  }
+}
