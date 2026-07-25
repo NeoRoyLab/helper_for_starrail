@@ -42,9 +42,9 @@
       "is_best": false
     },
     {
-      "item_id": "todays_good_luck",
+      "item_id": "today_is_another_peaceful_day",
       "rarity": 4,
-      "is_best": false
+      "is_best": true
     },
     {
       "item_id": "night_on_the_milky_way",

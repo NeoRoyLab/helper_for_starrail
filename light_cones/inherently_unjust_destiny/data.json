@@ -1,0 +1,33 @@
+{
+  "id": "inherently_unjust_destiny",
+  "name": {
+    "en": "Inherently Unjust Destiny",
+    "uk": "Несправедлива доля",
+    "ru": "Несправедливая судьба"
+  },
+  "rarity": 5,
+  "path": "preservation",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 30,
+    "def_max": 661
+  },
+  "description": {
+    "en": "Increases the wearer's DEF by 40-64%. When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by 40-64%, lasting for 2 turn(s). When the wearer's follow-up attack hits an enemy target, there is a 100-160% base chance to increase the DMG taken by the attacked enemy target by 10.0-16.0%, lasting for 2 turn(s).",
+    "uk": "Підвищує захист власника на 40-64%. Коли власник накладає щит на союзника, його крит. шкода підвищується на 40-64% на 2 ходи. Коли бонус-атака власника влучає у противника, вона має базовий шанс 100-160% підвищити отримувану цією ціллю шкоду на 10,0-16,0% на 2 ходи.",
+    "ru": "Защита владельца повышается на 40-64%. Когда владелец накладывает Щит на союзника, крит. урон владельца повышается на 40-64% на 2 хода. Когда бонус-атака владельца поражает противника, имеется базовый шанс 100-160% повысить получаемый атакованным противником урон на 10,0-16,0% на 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Стрибок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/inherently_unjust_destiny/art.png"
+  }
+}

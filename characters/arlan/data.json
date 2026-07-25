@@ -44,7 +44,7 @@
     {
       "item_id": "a_secret_vow",
       "rarity": 4,
-      "is_best": false
+      "is_best": true
     }
   ],
   "best_relics": [

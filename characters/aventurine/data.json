@@ -1,0 +1,127 @@
+{
+  "id": "aventurine",
+  "name": {
+    "en": "Aventurine",
+    "uk": "Авантюрин",
+    "ru": "Авантюрин"
+  },
+  "rarity": 5,
+  "element": "imaginary",
+  "path": "the_preservation",
+  "description": {
+    "en": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. His Cornerstone is the \"Aventurine of Stratagems.\" He possesses an air of frivolity and does not shy away from taking risks. His constant smile makes it difficult for people to discern his true feelings. He won his current position by wagering against fate itself. He views life as a high-stakes, high-return investment, and he plays this particular gamble with masterful ease.",
+    "uk": "Топменеджер відділу стратегічних інвестицій КММ і один із Десяти кам’яних сердець, відомий своїм наріжним каменем — авантюрином хитрощів. Приховує справжні наміри за незмінною усмішкою й не боїться ризикувати. Він здобув нинішнє становище, обігравши саму долю. Вважає людське життя інвестицією з високим ризиком і великою прибутковістю, і в цій грі йому немає рівних.",
+    "ru": "Топ-менеджер отдела стратегических инвестиций КММ и один из Десяти каменных сердец, известен своим опорным камнем — авантюрином хитрости. Скрывает свои истинные намерения за неизменной улыбкой и живёт по принципу «кто не рискует, тот не пьёт шампанского». Он получил нынешнее положение, обыграв саму судьбу. Считает человеческую жизнь инвестицией с высокой степенью риска и хорошей доходностью. И в этом деле ему нет равных."
+  },
+  "assets": {
+    "portrait": "characters/aventurine/portrait.png",
+    "thumbnail": "characters/aventurine/thumb.png"
+  },
+  "stats": {
+    "hp": 1203,
+    "atk": 446,
+    "def": 654,
+    "spd": 106,
+    "taunt": 150
+  },
+  "materials": {
+    "ascension_group": "tatters_of_thought",
+    "ascension_unique": "suppressing_edict",
+    "trace_group": "scattered_stardust",
+    "trace_unique": "past_evils_of_the_borehole_planet_disaster"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "inherently_unjust_destiny",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "journey_forever_peaceful",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "moment_of_victory",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "day_one_of_my_new_life",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "self_enshrouded_recluse",
+    "knight_of_purity_palace",
+    "pioneer_diver_of_dead_waters"
+  ],
+  "best_ornaments": [
+    "broken_keel",
+    "fleet_of_the_ageless",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "def_percent",
+        "sep": "="
+      },
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed",
+        "sep": ">="
+      },
+      {
+        "id": "def_percent"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "def_percent",
+        "sep": "="
+      },
+      {
+        "id": "imaginary_dmg"
+      }
+    ],
+    "rope": [
+      {
+        "id": "def_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "def_percent",
+      "sep": ">="
+    },
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "crit_rate",
+      "sep": ">"
+    },
+    {
+      "id": "effect_res",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "feixiao",
+    "dr_ratio",
+    "topaz_numby",
+    "robin"
+  ]
+}

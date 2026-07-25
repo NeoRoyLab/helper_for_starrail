@@ -44,7 +44,7 @@
     {
       "item_id": "but_the_battle_isnt_over",
       "rarity": 5,
-      "is_best": false
+      "is_best": true
     },
     {
       "item_id": "planetary_rendezvous",

@@ -39,7 +39,7 @@
     {
       "item_id": "sweat_now_cry_less",
       "rarity": 4,
-      "is_best": false
+      "is_best": true
     },
     {
       "item_id": "reminiscence",

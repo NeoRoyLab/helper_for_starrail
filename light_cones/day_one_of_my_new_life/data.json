@@ -1,0 +1,33 @@
+{
+  "id": "day_one_of_my_new_life",
+  "name": {
+    "en": "Day One of My New Life",
+    "uk": "Перший день мого нового життя",
+    "ru": "Первый день моей новой жизни"
+  },
+  "rarity": 4,
+  "path": "preservation",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 16,
+    "atk_max": 370,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's DEF by 16-24%. After entering battle, increases All-Type RES of all allies by 8-12%. Abilities of the same type cannot stack.",
+    "uk": "Підвищує захист власника на 16-24%. Після початку бою підвищує опір усім типам шкоди всіх союзників на 8-12%. Ефекти такого типу не складаються.",
+    "ru": "Защита владельца повышается на 16-24%. В начале боя все типы сопротивления всех союзников повышаются на 8-12%. Этот эффект не может складываться с эффектами подобного типа."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибок",
+      "ru": "Прыжок"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/day_one_of_my_new_life/art.png"
+  }
+}

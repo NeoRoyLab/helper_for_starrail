@@ -1,0 +1,33 @@
+{
+  "id": "journey_forever_peaceful",
+  "name": {
+    "en": "Journey, Forever Peaceful",
+    "uk": "Нехай твій шлях завжди буде мирним",
+    "ru": "Пусть твой путь всегда будет мирным"
+  },
+  "rarity": 4,
+  "path": "preservation",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 16,
+    "atk_max": 370,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's provided Shield Effect by 12-24%. While an ally target has a Shield, their DMG dealt increases by 12-20%.",
+    "uk": "Підвищує міцність щита, накладеного власником, на 12-24%. Поки союзник має щит, завдана ним шкода підвищується на 12-20%.",
+    "ru": "Прочность накладываемого владельцем Щита повышается на 12-24%. Пока союзник имеет Щит, наносимый им урон повышается на 12-20%."
+  },
+  "sources": [
+    {
+      "en": "Nameless Honor",
+      "uk": "Честь Безіменних",
+      "ru": "Честь Безымянных"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/journey_forever_peaceful/art.png"
+  }
+}

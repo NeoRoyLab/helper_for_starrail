@@ -44,7 +44,7 @@
     {
       "item_id": "the_great_cosmic_enterprise",
       "rarity": 4,
-      "is_best": false
+      "is_best": true
     },
     {
       "item_id": "today_is_another_peaceful_day",

@@ -44,7 +44,7 @@
     {
       "item_id": "see_you_at_the_end",
       "rarity": 4,
-      "is_best": false
+      "is_best": true
     },
     {
       "item_id": "only_silence_remains",

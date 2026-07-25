@@ -37,7 +37,7 @@
       "item_id": "along_the_passing_shore"
     },
     {
-      "is_best": false,
+      "is_best": true,
       "rarity": 4,
       "item_id": "good_night_and_sleep_well"
     },

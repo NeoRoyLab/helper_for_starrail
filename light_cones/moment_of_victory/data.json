@@ -1,0 +1,33 @@
+{
+  "id": "moment_of_victory",
+  "name": {
+    "en": "Moment of Victory",
+    "uk": "Мить перемоги",
+    "ru": "Момент победы"
+  },
+  "rarity": 5,
+  "path": "preservation",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 27,
+    "def_max": 595
+  },
+  "description": {
+    "en": "Increases the wearer's DEF by 24-40% and Effect Hit Rate by 24-40%. Increases the chance for the wearer to be attacked by enemies. When the wearer is attacked, increases their DEF by an extra 24-40% until the end of the wearer's turn.",
+    "uk": "Підвищує захист власника на 24-40% і шанс влучання ефектів на 24-40%. Також підвищує ймовірність бути атакованим противниками. Після отримання атаки захист власника додатково підвищується на 24-40% до кінця його ходу.",
+    "ru": "Защита владельца повышается на 24-40%, а шанс попадания эффектов — на 24-40%. Также повышается вероятность быть атакованным противниками. После получения атаки защита владельца дополнительно повышается на 24-40% до конца его хода."
+  },
+  "sources": [
+    {
+      "en": "Stellar Warp / Starlight Exchange",
+      "uk": "Зоряний стрибок / Злиття зоряного світла",
+      "ru": "Звёздный прыжок / Неугасаемый звёздный свет"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/moment_of_victory/art.png"
+  }
+}
