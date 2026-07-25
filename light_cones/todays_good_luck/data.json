@@ -2,9 +2,31 @@
   "id": "todays_good_luck",
   "name": {
     "en": "Today's Good Luck",
-    "uk": "Сьогоднішня удача",
-    "ru": "Сегодняшняя удача"
+    "uk": "Щасливий день",
+    "ru": "Благоприятный день"
   },
+  "rarity": 4,
+  "path": "elation",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 12-20%. When the wearer uses an Elation Skill, increases Elation by 12-20%, stacking up to 2 times.",
+    "uk": "Підвищує крит. шанс власника на 12-20%. Коли власник використовує навичку Радості, Радість підвищується на 12-20%. Ефект може складатися до 2 разів.",
+    "ru": "Повышает крит. шанс владельца на 12-20%. Когда владелец использует навык Радости, Радость повышается на 12-20%. Эффект может складываться до 2 раз."
+  },
+  "sources": [
+    {
+      "en": "Nameless Honor",
+      "uk": "Безіменна честь",
+      "ru": "Безымянная честь"
+    }
+  ],
   "assets": {
     "art": "light_cones/todays_good_luck/art.png"
   }
