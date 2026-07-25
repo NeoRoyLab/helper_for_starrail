@@ -1,0 +1,36 @@
+{
+  "id": "aglaea",
+  "name": { "en": "Aglaea", "uk": "Аглая", "ru": "Аглая" },
+  "rarity": 5,
+  "element": "lightning",
+  "path": "the_remembrance",
+  "description": {
+    "en": "In that holy city kissed by the dawn, the weaver caresses the golden thread and connects destinies. Aglaea, the \"Golden Thread,\" is one of the Chrysos Heirs who must gather the heroes of this world and lead them on a long journey once more — to topple the gods, reclaim the divine flame, and grant rebirth to the nearly fallen Amphoreus.",
+    "uk": "У священному місті, оповитому світанком, ткач ніжно торкається золотих ниток і пов'язує долі. Аглая, «Золота пряжа», одна зі Златиусів, має зібрати героїв цього світу й знову вирушити з ними у довгу подорож: скинути богів, повернути божественне полум'я та відродити майже загиблий Амфореус.",
+    "ru": "В этом священном городе, рассветом укутанном, ткач нежно поглаживает золотые нити, связывая судьбы. Аглая «Золотая пряжа», одна из Золотых потомков, чьё ядро пламени — Романтика. Нужно собрать героев этого мира и вновь отправиться с ними в бесконечное путешествие. Они свергнут богов, вернут священное пламя и возродят умирающий Амфореус."
+  },
+  "assets": { "portrait": "characters/aglaea/portrait.png", "thumbnail": "characters/aglaea/thumb.png" },
+  "stats": { "hp": 1241, "atk": 698, "def": 485, "spd": 102, "taunt": 100 },
+  "materials": { "ascension_group": "fear_stomped_flesh", "ascension_unique": "nail_of_the_beast_coffin", "trace_group": "bija_of_consciousness", "trace_unique": "auspice_sliver" },
+  "best_light_cones": [
+    { "item_id": "time_woven_into_gold", "rarity": 5, "is_best": true },
+    { "item_id": "sweat_now_cry_less", "rarity": 4, "is_best": false },
+    { "item_id": "reminiscence", "rarity": 5, "is_best": false },
+    { "item_id": "geniuses_greetings", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": ["hero_of_triumphant_song"],
+  "best_ornaments": ["the_wondrous_bananamusement_park"],
+  "relic_stats": {
+    "body": [{ "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg" }],
+    "feet": [{ "id": "atk_percent", "sep": "=" }, { "id": "speed" }],
+    "sphere": [{ "id": "lightning_dmg" }],
+    "rope": [{ "id": "energy_regen", "sep": ">" }, { "id": "atk_percent" }]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": ["sunday", "cyrene", "robin"]
+}
