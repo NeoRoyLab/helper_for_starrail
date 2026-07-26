@@ -1,0 +1,29 @@
+{
+  "id": "lies_dance_on_the_breeze",
+  "name": {
+    "en": "Lies Dance on the Breeze",
+    "uk": "Брехня, що летить за вітром",
+    "ru": "Летящая по ветру ложь"
+  },
+  "rarity": 5,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's SPD by 18-30%. After the wearer attacks, there is a 120% base chance to inflict Bamboozle on every enemy, decreasing their DEF by 16-24% for 2 turns. If the wearer's SPD is 170 or higher, there is a 120% base chance to inflict Theft on every enemy, decreasing their DEF by 8-12% for 2 turns. When Bamboozle or Theft is repeatedly inflicted, only the most recent instance takes effect.",
+    "uk": "Підвищує швидкість власника на 18-30%. Після атаки власник має базовий шанс 120% накласти на кожного ворога статус «Обманка», який знижує захист на 16-24% на 2 ходи. Якщо швидкість власника не нижча за 170, він має базовий шанс 120% накласти на кожного ворога статус «Обкрадений», який знижує захист на 8-12% на 2 ходи. Під час повторного накладання цих статусів діє лише останній накладений ефект.",
+    "ru": "Скорость владельца повышается на 18-30%. После атаки владелец имеет базовый шанс 120% наложить на каждого противника статус Обманка, который понижает защиту на 16-24% на 2 хода. Если скорость владельца выше или равна 170, он имеет базовый шанс 120% наложить на каждого противника статус Обкраден, который понижает защиту на 8-12% на 2 хода. Когда эти статусы накладываются повторно, остаётся активным только последний наложенный эффект."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/lies_dance_on_the_breeze/art.png"
+  }
+}

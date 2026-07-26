@@ -1,0 +1,29 @@
+{
+  "id": "long_may_rainbows_adorn_the_sky",
+  "name": {
+    "en": "Long May Rainbows Adorn the Sky",
+    "uk": "Нехай веселка сяє вічно",
+    "ru": "Пусть радуга сияет вечно"
+  },
+  "rarity": 5,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's SPD by 18-30%. When the wearer uses Basic ATK, Skill, or Ultimate, consumes all allies' HP equal to 1-2% of their current HP and additionally deals 1 instance of Additional DMG of the wearer's memosprite Type equal to 250-500% of the total consumed HP to the attacked target after the next attack launched by the wearer's memosprite. The total HP consumed is then reset. When the wearer's memosprite uses Memosprite Skill, increases the DMG taken by all enemies by 18-36% for 2 turn(s). Effects of the same type cannot stack.",
+    "uk": "Підвищує швидкість власника на 18-30%. Коли власник використовує базову атаку, навичку або надздібність, він витрачає 1-2% поточного HP усіх союзників і дає наступній атаці свого духа пам'яті змогу додатково завдати атакованій цілі шкоди відповідного типу, що дорівнює 250-500% від загальної кількості витраченого HP, після чого ця кількість скидається. Коли дух пам'яті власника використовує свою навичку, отримувана всіма ворогами шкода підвищується на 18-36% на 2 ходи. Ефекти однакового типу не складаються.",
+    "ru": "Скорость владельца повышается на 18-30%. Когда владелец использует базовую атаку, навык или сверхспособность, он расходует 1-2% от текущего HP всех союзников и позволяет следующей атаке своего духа памяти нанести атакованной цели соответствующий типу духа памяти дополнительный урон, равный 250-500% от общего количества израсходованного HP, после чего это количество сбрасывается. Когда дух памяти владельца использует свой навык, получаемый всеми противниками урон повышается на 18-36% на 2 хода. Эффекты подобного типа не могут складываться."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/long_may_rainbows_adorn_the_sky/art.png"
+  }
+}

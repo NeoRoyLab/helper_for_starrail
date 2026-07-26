@@ -1,0 +1,29 @@
+{
+  "id": "resolution_shines_as_pearls_of_sweat",
+  "name": {
+    "en": "Resolution Shines As Pearls of Sweat",
+    "uk": "Рішучість сяє перлинами поту",
+    "ru": "Решимость блестит подобно жемчужинам пота"
+  },
+  "rarity": 4,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "When the wearer hits an enemy that is not already Ensnared, there is a 60-100% base chance to Ensnare it. Ensnared enemies' DEF decreases by 12-16% for 1 turn.",
+    "uk": "Коли власник влучає по ворогу, який ще не має статусу «Пастка», він має базовий шанс 60-100% накласти цей статус. Захист ворога зі статусом «Пастка» знижується на 12-16% на 1 хід.",
+    "ru": "Когда владелец попадает по противнику, который ещё не имеет статуса Пойман, он имеет базовый шанс 60-100% наложить этот статус. Защита противника со статусом Пойман понижается на 12-16% на 1 ход."
+  },
+  "sources": [
+    { "en": "Warp", "uk": "Стрибок", "ru": "Прыжок" }
+  ],
+  "assets": {
+    "art": "light_cones/resolution_shines_as_pearls_of_sweat/art.png"
+  }
+}

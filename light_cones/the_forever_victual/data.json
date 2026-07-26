@@ -1,0 +1,29 @@
+{
+  "id": "the_forever_victual",
+  "name": {
+    "en": "The Forever Victual",
+    "uk": "Вічна трапеза лабіринту",
+    "ru": "Вечный ресторан лабиринта"
+  },
+  "rarity": 4,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 16-32%. After the wearer uses Skill, increases ATK by 8-16%, stacking up to 3 times.",
+    "uk": "Підвищує силу атаки власника на 16-32%. Після використання навички сила атаки підвищується на 8-16%. Ефект складається до 3 разів.",
+    "ru": "Повышает силу атаки владельца на 16-32%. После использования навыка сила атаки повышается на 8-16%. Эффект складывается до 3 раз."
+  },
+  "sources": [
+    { "en": "Chrysos Maze Grand Restaurant Event", "uk": "Подія «Великий ресторан лабіринту златіусів»", "ru": "Событие «Большой ресторан лабиринта златиусов»" }
+  ],
+  "assets": {
+    "art": "light_cones/the_forever_victual/art.png"
+  }
+}

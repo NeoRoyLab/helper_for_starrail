@@ -1,0 +1,29 @@
+{
+  "id": "victory_in_a_blink",
+  "name": {
+    "en": "Victory In a Blink",
+    "uk": "Перемога за мить",
+    "ru": "Скорая победа"
+  },
+  "rarity": 4,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 12-24%. When the wearer's memosprite uses an ability on an ally target, increases the DMG dealt by all allies by 8-16%, lasting for 3 turn(s).",
+    "uk": "Підвищує крит. шкоду власника на 12-24%. Коли дух пам'яті власника використовує вміння на союзнику, завдавана всіма союзниками шкода підвищується на 8-16% на 3 ходи.",
+    "ru": "Крит. урон владельца повышается на 12-24%. Когда дух памяти владельца использует умение на союзнике, наносимый всеми союзниками урон повышается на 8-16% на 3 хода."
+  },
+  "sources": [
+    { "en": "Light Cone Manifest", "uk": "Маніфест Світлових конусів", "ru": "Манифест Световых конусов" }
+  ],
+  "assets": {
+    "art": "light_cones/victory_in_a_blink/art.png"
+  }
+}

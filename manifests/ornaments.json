@@ -1,20 +1,25 @@
 {
-  "ornaments": [
-    "tengoku_livestream",
-    "izumo_gensei_and_takama_divine_realm",
-    "inert_salsotto",
-    "the_wondrous_bananamusement_park",
-    "rutilant_arena",
-    "duran_dynasty_of_running_wolves",
-    "city_of_converging_stars",
-    "sprightly_vonwacq",
-    "fleet_of_the_ageless",
-    "broken_keel",
-    "penacony_land_of_the_dreams",
-    "revelry_by_the_sea",
-    "pan_cosmic_commercial_enterprise",
-    "bone_collections_serene_demesne",
-    "talia_kingdom_of_banditry",
-    "forge_of_the_kalpagni_lantern"
-  ]
+    "ornaments":  [
+                      "tengoku_livestream",
+                      "izumo_gensei_and_takama_divine_realm",
+                      "inert_salsotto",
+                      "the_wondrous_bananamusement_park",
+                      "rutilant_arena",
+                      "duran_dynasty_of_running_wolves",
+                      "city_of_converging_stars",
+                      "sprightly_vonwacq",
+                      "fleet_of_the_ageless",
+                      "broken_keel",
+                      "penacony_land_of_the_dreams",
+                      "revelry_by_the_sea",
+                      "pan_cosmic_commercial_enterprise",
+                      "bone_collections_serene_demesne",
+                      "talia_kingdom_of_banditry",
+                      "forge_of_the_kalpagni_lantern",
+                      "lushaka_the_sunken_seas",
+                      "arcadia_of_woven_dreams",
+                      "amphoreus_the_eternal_land",
+                      "firmament_frontline_glamoth",
+                      "space_sealing_station"
+                  ]
 }

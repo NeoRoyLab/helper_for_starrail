@@ -1,0 +1,77 @@
+{
+  "id": "cyrene",
+  "name": {
+    "en": "Cyrene",
+    "uk": "Кірена",
+    "ru": "Кирена"
+  },
+  "rarity": 5,
+  "element": "ice",
+  "path": "the_remembrance",
+  "description": {
+    "en": "A meteor streaks across the night sky, sending ripples through the river of life, gleaming in thirteen hues. Daughter of Aedes Elysiae, Chrysos Heir who nourishes \"██,\" sow the Seed of Memory, so that flowers of the past may bloom in tomorrow. — \"And together, we shall write a verse unlike any before ♪\"",
+    "uk": "Метеор розтинає нічне небо, здіймаючи брижі на ріці життя, що сяє тринадцятьма відтінками. Донько Елісії Едес, златіусе, що вирощує «██», посій насіння Пам'яті, аби квіти минулого розквітли в прийдешньому дні. «А тепер нумо разом напишемо вірші, подібних до яких ще не було ♪»",
+    "ru": "Метеор рассекает ночное небо, рисуя рябь на сверкающей тринадцатью оттенками реке жизни. Дочь Элизии Эйдес, златиус, взращивающая «██», посади семена Памяти, чтобы цветы прошлого расцвели в грядущем дне. «А теперь давай вместе напишем стихи, подобным которым ещё не было ♪»"
+  },
+  "assets": {
+    "portrait": "characters/cyrene/portrait.png",
+    "thumbnail": "characters/cyrene/thumb.png"
+  },
+  "stats": {
+    "hp": 1397,
+    "atk": 446,
+    "def": 582,
+    "spd": 101,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "fear_stomped_flesh",
+    "ascension_unique": "sea_sirens_torn_fin",
+    "trace_group": "bija_of_consciousness",
+    "trace_unique": "daythunder_anamnesis"
+  },
+  "best_light_cones": [
+    { "item_id": "this_love_forever", "rarity": 5, "is_best": true },
+    { "item_id": "victory_in_a_blink", "rarity": 4, "is_best": true },
+    { "item_id": "long_may_rainbows_adorn_the_sky", "rarity": 5, "is_best": false },
+    { "item_id": "memorys_curtain_never_falls", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "messenger_traversing_hackerspace",
+    "world_remaking_deliverer",
+    "sacerdos_relived_ordeal"
+  ],
+  "best_ornaments": [
+    "sprightly_vonwacq",
+    "amphoreus_the_eternal_land"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "ice_dmg" }
+    ],
+    "rope": [
+      { "id": "hp_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": ">" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "hp_percent", "sep": "" }
+  ],
+  "synergy": [
+    "castorice",
+    "aglaea",
+    "anaxa",
+    "cipher",
+    "cerydra"
+  ]
+}

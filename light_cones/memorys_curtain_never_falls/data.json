@@ -1,0 +1,29 @@
+{
+  "id": "memorys_curtain_never_falls",
+  "name": {
+    "en": "Memory's Curtain Never Falls",
+    "uk": "Завіса пам'яті не впаде",
+    "ru": "Не падёт занавес памяти"
+  },
+  "rarity": 5,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's SPD by 6-12%. After the wearer uses Skill, increases the DMG dealt by all allies by 8-16%, lasting for 3 turn(s).",
+    "uk": "Підвищує швидкість власника на 6-12%. Після використання власником навички завдавана всіма союзниками шкода підвищується на 8-16% на 3 ходи.",
+    "ru": "Скорость владельца повышается на 6-12%. После того как владелец использует навык, наносимый всеми союзниками урон повышается на 8-16% на 3 хода."
+  },
+  "sources": [
+    { "en": "Herta's Store", "uk": "Магазин Герти", "ru": "Магазин Герты" }
+  ],
+  "assets": {
+    "art": "light_cones/memorys_curtain_never_falls/art.png"
+  }
+}

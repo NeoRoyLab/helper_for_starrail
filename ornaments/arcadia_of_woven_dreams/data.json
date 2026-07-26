@@ -1,0 +1,17 @@
+{
+  "id": "arcadia_of_woven_dreams",
+  "name": {
+    "en": "Arcadia of Woven Dreams",
+    "uk": "Чарівна країна фей",
+    "ru": "Волшебная страна фей"
+  },
+  "rarity": 5,
+  "description": {
+    "en": "2-Pc: When there are currently more or less than 4 ally targets in battle, each additional/missing ally target increases the wearer and their memosprite's DMG by 9%/12%, up to a maximum of 4/3 stacks.",
+    "uk": "2 предмети: Якщо під час бою кількість союзних цілей більша або менша за 4, кожна додаткова або відсутня союзна ціль підвищує шкоду власника та його духа пам'яті на 9%/12%. Ефект складається до 4/3 разів.",
+    "ru": "2 предмета: Если во время боя количество союзных целей больше или меньше 4, каждая дополнительная или отсутствующая союзная цель повышает урон владельца и его духа памяти на 9%/12%. Эффект складывается до 4/3 раз."
+  },
+  "assets": {
+    "icon": "ornaments/arcadia_of_woven_dreams/icon.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "the_flower_remembers",
+  "name": {
+    "en": "The Flower Remembers",
+    "uk": "Квіти не забувають",
+    "ru": "Цветы не забывают"
+  },
+  "rarity": 4,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 24-40%. The CRIT DMG dealt by the wearer's memosprite increases by 24-40%.",
+    "uk": "Підвищує крит. шкоду власника на 24-40%. Крит. шкода духа пам'яті власника підвищується на 24-40%.",
+    "ru": "Повышает крит. урон владельца на 24-40%. Крит. урон духа памяти владельца повышается на 24-40%."
+  },
+  "sources": [
+    { "en": "Nameless Honor", "uk": "Честь Безіменних", "ru": "Честь Безымянных" }
+  ],
+  "assets": {
+    "art": "light_cones/the_flower_remembers/art.png"
+  }
+}

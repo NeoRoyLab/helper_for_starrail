@@ -1,0 +1,29 @@
+{
+  "id": "earthly_escapade",
+  "name": {
+    "en": "Earthly Escapade",
+    "uk": "Земні витівки",
+    "ru": "Мирские шалости"
+  },
+  "rarity": 5,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 32-60%. At the start of battle, the wearer gains Mask for 3 turns. While the wearer has Mask, allies' CRIT Rate increases by 10-14% and CRIT DMG by 28-56%. For every 1 Skill Point recovered, the wearer gains 1 stack of Radiant Flame. At 4 stacks, all stacks are removed and the wearer gains Mask for 4 turns.",
+    "uk": "Підвищує крит. шкоду власника на 32-60%. На початку бою власник отримує Маску на 3 ходи. Поки Маска активна, крит. шанс союзників підвищується на 10-14%, а крит. шкода — на 28-56%. За кожне відновлене очко навичок власник отримує 1 рівень Сяйного полум'я. На 4 рівнях усі рівні знімаються, а власник отримує Маску на 4 ходи.",
+    "ru": "Повышает крит. урон владельца на 32-60%. В начале боя владелец получает Маску на 3 хода. Пока Маска активна, крит. шанс союзников повышается на 10-14%, а крит. урон — на 28-56%. За каждое восстановленное очко навыков владелец получает 1 уровень Сияющего пламени. При 4 уровнях все уровни снимаются, а владелец получает Маску на 4 хода."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/earthly_escapade/art.png"
+  }
+}

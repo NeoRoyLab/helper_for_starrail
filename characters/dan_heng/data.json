@@ -1,0 +1,76 @@
+{
+  "id": "dan_heng",
+  "name": {
+    "en": "Dan Heng",
+    "uk": "Дань Хен",
+    "ru": "Дань Хэн"
+  },
+  "rarity": 4,
+  "element": "wind",
+  "path": "the_hunt",
+  "description": {
+    "en": "A cold and reserved young man who wields a spear known as Cloud-Piercer. He acts as the train's guard on its long Trailblaze journey. Dan Heng never talks much about his past. In fact, he joined the crew of the Express to escape from it. But will the Express really be able to take him far away from his past?",
+    "uk": "Мовчазний і стриманий юнак служить охоронцем експреса під час його тривалої першопрохідницької експедиції. Він озброєний списом, відомим як «Пронизувач хмар». Дань Хен не любить говорити про своє минуле. Ба більше, він приєднався до екіпажу експреса, сподіваючись утекти від нього. Та чи зможе експрес справді відвезти його далеко від минулого?",
+    "ru": "Этот тихий, сдержанный юноша служит стражем экспресса в его долгой первопроходческой экспедиции. Он вооружён копьём, известным как «Пронзающий облака». Дань Хэн не любит говорить о своём прошлом. Более того, он присоединился к экипажу экспресса в надежде спастись от былого. Но поможет ли ему в этом экспресс?"
+  },
+  "assets": {
+    "portrait": "characters/dan_heng/portrait.png",
+    "thumbnail": "characters/dan_heng/thumb.png"
+  },
+  "stats": {
+    "hp": 882,
+    "atk": 546,
+    "def": 396,
+    "spd": 110,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "storm_eye",
+    "trace_group": "arrow_of_the_beast_hunter",
+    "trace_unique": "destroyers_final_road"
+  },
+  "best_light_cones": [
+    { "item_id": "in_the_night", "rarity": 5, "is_best": true },
+    { "item_id": "swordplay", "rarity": 4, "is_best": true },
+    { "item_id": "only_silence_remains", "rarity": 4, "is_best": false },
+    { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false },
+    { "item_id": "sleep_like_the_dead", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "pioneer_diver_of_dead_waters",
+    "scholar_lost_in_erudition",
+    "eagle_of_twilight_line"
+  ],
+  "best_ornaments": [
+    "rutilant_arena",
+    "firmament_frontline_glamoth",
+    "space_sealing_station"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "wind_dmg", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "bronya"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "epoch_etched_in_golden_blood",
+  "name": {
+    "en": "Epoch Etched in Golden Blood",
+    "uk": "Епоха, викарбувана золотою кров'ю",
+    "ru": "Эпоха золотой крови"
+  },
+  "rarity": 5,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 64-128%. After using Ultimate to attack, recovers 1 Skill Point. After the wearer uses their Skill on one ally character, increases the Skill DMG dealt by the target by 54-108% for 3 turns.",
+    "uk": "Підвищує силу атаки власника на 64-128%. Після використання надздібності для атаки відновлює 1 очко навичок. Після використання навички на одному союзнику шкода навички цієї цілі підвищується на 54-108% на 3 ходи.",
+    "ru": "Повышает силу атаки владельца на 64-128%. После использования сверхспособности для атаки восстанавливает 1 очко навыков. После использования навыка на одном союзнике урон навыка этой цели повышается на 54-108% на 3 хода."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/epoch_etched_in_golden_blood/art.png"
+  }
+}

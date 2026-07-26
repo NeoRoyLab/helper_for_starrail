@@ -1,0 +1,77 @@
+{
+  "id": "cerydra",
+  "name": {
+    "en": "Cerydra",
+    "uk": "Керідра",
+    "ru": "Керидра"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_harmony",
+  "description": {
+    "en": "The Northern Empire, a lost dynasty, where frozen lands burn with ambitions of conquest. Sovereign Cerydra, Chrysos Heir who wields the Coreflame of \"Law\", you shall set your pieces, challenge the gods, pass judgment upon the faithless, and carve the path of Flame-Chase into the fate of this world. \"This is no end. The path of Amphoreus shall blaze across the stars!\"",
+    "uk": "Північна імперія, втрачена династія, у крижаних землях якої палає жага до завоювань. Володарко Керідро, златіусе, що володіє ядром полум'я «Закону», ти маєш розставити фігури, кинути виклик богам, винести вирок невірним і прокласти шлях Полум'яного переслідування в долі цього світу. «Це не кінець. Шлях Амфореуса простягнеться до зірок!»",
+    "ru": "Северная империя, утраченная династия, в холодных землях которой пылает жажда завоеваний. Владычица Керидра, златиус, обладающая ядром пламени «Правосудия», ты должна расставить фигуры, сыграть партию с богами, вынести приговор отступникам и заложить основу для Преследующих пламя. «Это не конец. Путь Амфореуса лежит к звёздам!»"
+  },
+  "assets": {
+    "portrait": "characters/cerydra/portrait.png",
+    "thumbnail": "characters/cerydra/thumb.png"
+  },
+  "stats": {
+    "hp": 1358,
+    "atk": 620,
+    "def": 485,
+    "spd": 99,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "ethereal_omen",
+    "ascension_unique": "charred_bud_of_twilight",
+    "trace_group": "firmament_note",
+    "trace_unique": "daythunder_anamnesis"
+  },
+  "best_light_cones": [
+    { "item_id": "epoch_etched_in_golden_blood", "rarity": 5, "is_best": true },
+    { "item_id": "the_forever_victual", "rarity": 4, "is_best": true },
+    { "item_id": "flowing_nightglow", "rarity": 5, "is_best": false },
+    { "item_id": "earthly_escapade", "rarity": 5, "is_best": false },
+    { "item_id": "planetary_rendezvous", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "sacerdos_relived_ordeal",
+    "messenger_traversing_hackerspace",
+    "eagle_of_twilight_line"
+  ],
+  "best_ornaments": [
+    "lushaka_the_sunken_seas",
+    "penacony_land_of_the_dreams",
+    "broken_keel"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "atk_percent" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen", "sep": ">" },
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "atk_percent", "sep": ">" },
+    { "id": "atk", "sep": ">" },
+    { "id": "hp_percent", "sep": "=" },
+    { "id": "def_percent", "sep": "" }
+  ],
+  "synergy": [
+    "anaxa",
+    "archer"
+  ]
+}

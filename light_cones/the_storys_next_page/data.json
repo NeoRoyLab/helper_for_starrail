@@ -1,0 +1,29 @@
+{
+  "id": "the_storys_next_page",
+  "name": {
+    "en": "The Story's Next Page",
+    "uk": "Наступна сторінка історії",
+    "ru": "Следующая страница истории"
+  },
+  "rarity": 4,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 16,
+    "atk_max": 370,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Max HP by 16-32%. After the wearer's memosprite attacks, the Outgoing Healing of the wearer and their memosprite increases by 12-24%, lasting for 1 turn(s).",
+    "uk": "Збільшує максимальне HP власника на 16-32%. Після атаки духа пам'яті власника вихідне зцілення власника та його духа пам'яті підвищується на 12-24% на 1 хід.",
+    "ru": "Повышает макс. HP владельца на 16-32%. После атаки духа памяти владельца исходящее исцеление владельца и его духа памяти повышается на 12-24% на 1 ход."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/the_storys_next_page/art.png"
+  }
+}

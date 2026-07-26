@@ -1,0 +1,29 @@
+{
+  "id": "dance_at_sunset",
+  "name": {
+    "en": "Dance at Sunset",
+    "uk": "Танець на заході сонця",
+    "ru": "Танец на закате"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Greatly increases the wearer's chance of getting attacked and increases CRIT DMG by 36-60%. After the wearer uses Ultimate, gains 1 stack of Firedance for 2 turns, stacking up to 2 times. Each stack increases the DMG dealt by the wearer's follow-up attacks by 36-60%.",
+    "uk": "Значно підвищує ймовірність того, що власник буде атакований, і підвищує його крит. шкоду на 36-60%. Після використання надздібності власник отримує 1 рівень Вогняного танцю на 2 ходи. Ефект складається до 2 разів. Кожен рівень підвищує шкоду бонус-атак власника на 36-60%.",
+    "ru": "Значительно повышает вероятность того, что владелец будет атакован, и повышает его крит. урон на 36-60%. После использования сверхспособности владелец получает 1 уровень Огненного танца на 2 хода. Эффект складывается до 2 раз. Каждый уровень повышает урон бонус-атак владельца на 36-60%."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/dance_at_sunset/art.png"
+  }
+}

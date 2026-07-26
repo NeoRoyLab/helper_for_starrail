@@ -1,0 +1,17 @@
+{
+  "id": "champion_of_streetwise_boxing",
+  "name": {
+    "en": "Champion of Streetwise Boxing",
+    "uk": "Чемпіон вуличного боксу",
+    "ru": "Чемпион уличного бокса"
+  },
+  "rarity": 5,
+  "description": {
+    "en": "2-Pc: Increases Physical DMG by 10%. 4-Pc: After the wearer attacks or is hit, their ATK increases by 5% for the rest of the battle. This effect stacks up to 5 times.",
+    "uk": "2 предмети: Підвищує фізичну шкоду на 10%. 4 предмети: Після атаки власника або отримання ним удару його сила атаки підвищується на 5% до кінця бою. Ефект складається до 5 разів.",
+    "ru": "2 предмета: Повышает физический урон на 10%. 4 предмета: После атаки владельца или получения им удара его сила атаки повышается на 5% до конца боя. Эффект складывается до 5 раз."
+  },
+  "assets": {
+    "icon": "relics/champion_of_streetwise_boxing/icon.png"
+  }
+}

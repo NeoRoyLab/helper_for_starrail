@@ -1,0 +1,29 @@
+{
+  "id": "flowing_nightglow",
+  "name": {
+    "en": "Flowing Nightglow",
+    "uk": "Плинне сяйво ночі",
+    "ru": "Мимолётные ночные огни"
+  },
+  "rarity": 5,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Every time an ally attacks, the wearer gains 1 stack of Cantillation. Each stack increases the wearer's Energy Regeneration Rate by 3-5%, stacking up to 5 times. When the wearer uses their Ultimate, removes Cantillation and gains Cadenza. Cadenza increases the wearer's ATK by 48-96% and all allies' DMG by 24-40% for 1 turn.",
+    "uk": "Щоразу, коли союзник атакує, власник отримує 1 рівень статусу Кантиляція. Кожен рівень підвищує відновлення енергії власника на 3-5% і складається до 5 разів. Після використання надздібності Кантиляція знімається, а власник отримує Каденцію, яка підвищує його силу атаки на 48-96% і шкоду всіх союзників на 24-40% на 1 хід.",
+    "ru": "Каждый раз, когда союзник атакует, владелец получает 1 уровень статуса Кантилляция. Каждый уровень повышает восстановление энергии владельца на 3-5% и складывается до 5 раз. После использования сверхспособности Кантилляция снимается, а владелец получает Каденцию, которая повышает его силу атаки на 48-96% и урон всех союзников на 24-40% на 1 ход."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/flowing_nightglow/art.png"
+  }
+}

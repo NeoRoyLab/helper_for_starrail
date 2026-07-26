@@ -1,0 +1,77 @@
+{
+  "id": "cipher",
+  "name": {
+    "en": "Cipher",
+    "uk": "Цифер",
+    "ru": "Цифер"
+  },
+  "rarity": 5,
+  "element": "quantum",
+  "path": "the_nihility",
+  "description": {
+    "en": "The lost city of rogues, Dolos, where 300 Rogues revel in their games, answering to no one. Race onward, fleet-Footed Thief Star Cifera, Chrysos Heir of the \"Trickery\" Coreflame, and may your web of lies spread with the breeze throughout all lands.",
+    "uk": "Загублене місто розбійників Долос, де триста пройдисвітів тішаться своїми витівками й нікому не підкоряються. Мчи вперед, швидконога Зірко злодіїв Циферо, златіусе ядра полум'я «Підступності», і нехай павутиння твоєї брехні розлетиться з вітром усіма землями.",
+    "ru": "Затерянный город разбойников Долос, где триста благородных разбойников предаются своим играм и никому не подчиняются. Мчись вперёд, быстроногая Звезда воровства Цифера, златиус ядра пламени «Коварства», и пусть паутина твоей лжи разнесётся ветром по всем землям."
+  },
+  "assets": {
+    "portrait": "characters/cipher/portrait.png",
+    "thumbnail": "characters/cipher/thumb.png"
+  },
+  "stats": {
+    "hp": 931,
+    "atk": 640,
+    "def": 509,
+    "spd": 106,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "ethereal_omen",
+    "ascension_unique": "darkveil_moonlight",
+    "trace_group": "fiery_spirit",
+    "trace_unique": "daythunder_anamnesis"
+  },
+  "best_light_cones": [
+    { "item_id": "lies_dance_on_the_breeze", "rarity": 5, "is_best": true },
+    { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": true }
+  ],
+  "best_relics": [
+    "messenger_traversing_hackerspace",
+    "pioneer_diver_of_dead_waters",
+    "genius_of_brilliant_stars"
+  ],
+  "best_ornaments": [
+    "lushaka_the_sunken_seas",
+    "penacony_land_of_the_dreams",
+    "fleet_of_the_ageless"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "effect_hit", "sep": "=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "quantum_dmg", "sep": "=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen", "sep": "=" },
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "effect_hit", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "acheron",
+    "castorice",
+    "aglaea",
+    "ashveil"
+  ]
+}

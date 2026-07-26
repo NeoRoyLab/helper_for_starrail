@@ -1,0 +1,29 @@
+{
+  "id": "sleep_like_the_dead",
+  "name": {
+    "en": "Sleep Like the Dead",
+    "uk": "Спати як мертвий",
+    "ru": "Мертвецкий сон"
+  },
+  "rarity": 5,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 30-50%. When the wearer's Basic ATK or Skill DMG does not result in a CRIT Hit, increases their CRIT Rate by 36-60%, lasting for 1 turn. This effect can only trigger once every 3 turns.",
+    "uk": "Підвищує крит. шкоду власника на 30-50%. Якщо шкода базової атаки або навички власника не стає критичною, його крит. шанс підвищується на 36-60% на 1 хід. Цей ефект може спрацювати лише 1 раз на 3 ходи.",
+    "ru": "Крит. урон владельца повышается на 30-50%. Если урон базовой атаки или навыка владельца не становится критическим, его крит. шанс повышается на 36-60% на 1 ход. Этот эффект может сработать только 1 раз в 3 хода."
+  },
+  "sources": [
+    { "en": "Stellar Warp", "uk": "Зоряний стрибок", "ru": "Звёздный прыжок" }
+  ],
+  "assets": {
+    "art": "light_cones/sleep_like_the_dead/art.png"
+  }
+}

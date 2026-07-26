@@ -1,0 +1,75 @@
+{
+  "id": "castorice",
+  "name": {
+    "en": "Castorice",
+    "uk": "Касторія",
+    "ru": "Кастория"
+  },
+  "rarity": 5,
+  "element": "quantum",
+  "path": "the_remembrance",
+  "description": {
+    "en": "The land that reveres death, Aidonia, where snow falls endlessly, has today drifted into a sweet slumber. Castorice, daughter of the River of Souls, Chrysos Heir in search of \"Death\" Coreflame, sets forth. You must guard the lament of souls and embrace the solitude of destiny. Life and death are but a journey. When butterfly alights on the branch, what withers will bloom anew.",
+    "uk": "Край, що схиляється перед смертю, Айдонія, де безупинно падає сніг, нині поринув у солодкий сон. Касторія, дочка Ріки душ, златіус, яка шукає ядро полум'я «Смерті», вирушає в путь. Ти маєш берегти плач душ і прийняти самотність долі. Життя і смерть — лише подорож. Коли метелик сідає на гілку, зів'яле розквітає знову.",
+    "ru": "Край, преклоняющийся перед смертью, Айдония, где вечно кружится снег, ныне погружён в сладостный покой. Дочь Реки душ Кастория, златиус, ищущий ядро пламени «Смерти», отправляется в путь. Ты должна хранить скорбь душ и принять одиночество судьбы. Жизнь и смерть — лишь путешествие. Когда бабочка опускается на ветвь, увядшее вновь расцветает."
+  },
+  "assets": {
+    "portrait": "characters/castorice/portrait.png",
+    "thumbnail": "characters/castorice/thumb.png"
+  },
+  "stats": {
+    "hp": 1629,
+    "atk": 523,
+    "def": 485,
+    "spd": 95,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "ethereal_omen",
+    "ascension_unique": "darkveil_moonlight",
+    "trace_group": "bija_of_consciousness",
+    "trace_unique": "auspice_sliver"
+  },
+  "best_light_cones": [
+    { "item_id": "make_farewells_more_beautiful", "rarity": 5, "is_best": true },
+    { "item_id": "the_flower_remembers", "rarity": 4, "is_best": true },
+    { "item_id": "sweat_now_cry_less", "rarity": 4, "is_best": false },
+    { "item_id": "time_waits_for_no_one", "rarity": 5, "is_best": false },
+    { "item_id": "the_storys_next_page", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "poet_of_mourning_collapse",
+    "scholar_lost_in_erudition",
+    "longevous_disciple"
+  ],
+  "best_ornaments": [
+    "bone_collections_serene_demesne",
+    "arcadia_of_woven_dreams",
+    "the_wondrous_bananamusement_park"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_dmg", "sep": ">" },
+      { "id": "hp_percent" }
+    ],
+    "feet": [
+      { "id": "hp_percent" }
+    ],
+    "sphere": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "quantum_dmg" }
+    ],
+    "rope": [
+      { "id": "hp_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "crit_dmg", "sep": "=" },
+    { "id": "crit_rate", "sep": ">" },
+    { "id": "hp_percent", "sep": ">" },
+    { "id": "speed", "sep": "" }
+  ],
+  "synergy": [
+    "cyrene"
+  ]
+}

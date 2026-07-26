@@ -1,0 +1,75 @@
+{
+  "id": "clara",
+  "name": {
+    "en": "Clara",
+    "uk": "Клара",
+    "ru": "Клара"
+  },
+  "rarity": 5,
+  "element": "physical",
+  "path": "the_destruction",
+  "description": {
+    "en": "A young girl raised by a robot. Her perceptiveness and tenacity are far beyond her years. For Clara, Svarog's logical calculations are law and infallible truth. That is, until she realized that the results from the calculations don't always bring joy to everyone. The usually timid little girl then decided to cast aside her timidness.",
+    "uk": "Дівчина, яку виховав робот. Вона має неймовірну наполегливість і проникливість, зовсім не властиві її віку. Для Клари логічні розрахунки Сварога — закон і непогрішна істина. Так було, доки вона не зрозуміла, що результати розрахунків не завжди приносять людям радість. Тоді сором'язлива дівчина вирішила позбутися своєї боязкості.",
+    "ru": "Девочка, которую вырастил робот. Обладает невероятной настойчивостью и проницательностью, совершенно несвойственной её возрасту. Для Клары логические расчёты Сварога — это закон и непогрешимая истина. И так было до тех пор, пока она не поняла, что результаты расчётов не всегда приносят радость людям. Именно тогда некогда застенчивая девочка решила избавиться от своей робости."
+  },
+  "assets": {
+    "portrait": "characters/clara/portrait.png",
+    "thumbnail": "characters/clara/thumb.png"
+  },
+  "stats": {
+    "hp": 1319,
+    "atk": 737,
+    "def": 485,
+    "spd": 90,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "ancient_part",
+    "ascension_unique": "broken_teeth_of_iron_wolf",
+    "trace_group": "shattered_blade",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": true },
+    { "item_id": "a_secret_vow", "rarity": 4, "is_best": true },
+    { "item_id": "dance_at_sunset", "rarity": 5, "is_best": false },
+    { "item_id": "something_irreplaceable", "rarity": 5, "is_best": false },
+    { "item_id": "the_unreachable_side", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "poet_of_mourning_collapse",
+    "champion_of_streetwise_boxing",
+    "longevous_disciple"
+  ],
+  "best_ornaments": [
+    "duran_dynasty_of_running_wolves",
+    "inert_salsotto",
+    "rutilant_arena"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "physical_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "bronya"
+  ]
+}

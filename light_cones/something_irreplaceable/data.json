@@ -1,0 +1,29 @@
+{
+  "id": "something_irreplaceable",
+  "name": {
+    "en": "Something Irreplaceable",
+    "uk": "Щось незамінне",
+    "ru": "Что-то незаменимое"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 24-40%. When the wearer defeats an enemy or is hit, immediately restores HP equal to 8-12% of the wearer's ATK and increases the wearer's DMG by 24-40% until the end of their next turn. This effect cannot stack and can trigger only once per turn.",
+    "uk": "Підвищує силу атаки власника на 24-40%. Коли власник перемагає ворога або отримує удар, він негайно відновлює HP у розмірі 8-12% своєї сили атаки, а його шкода підвищується на 24-40% до кінця наступного ходу. Ефект не складається і може спрацювати лише 1 раз за хід.",
+    "ru": "Повышает силу атаки владельца на 24-40%. Когда владелец побеждает противника или получает удар, он немедленно восстанавливает HP в размере 8-12% своей силы атаки, а его урон повышается на 24-40% до конца следующего хода. Эффект не складывается и может сработать только 1 раз за ход."
+  },
+  "sources": [
+    { "en": "Stellar Warp", "uk": "Зоряний стрибок", "ru": "Звёздный прыжок" }
+  ],
+  "assets": {
+    "art": "light_cones/something_irreplaceable/art.png"
+  }
+}

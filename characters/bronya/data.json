@@ -1,0 +1,117 @@
+{
+  "id": "bronya",
+  "name": {
+    "en": "Bronya",
+    "uk": "Р‘СЂРѕРЅСЏ",
+    "ru": "Р‘СЂРѕРЅСЏ"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_harmony",
+  "description": {
+    "en": "Heir to the Supreme Guardian of Belobog, she is the young and capable commander of the Silvermane Guards. Bronya received rigorous education from an early age, and possesses the grace and affinity as expected of an heir. However, after witnessing the abysmal conditions in the Underworld, seeds of doubt began growing in Belobog's future leader's mind. \"Can all the training I've received really help me lead the people to the lives they want?\"",
+    "uk": "РЎРїР°РґРєРѕС”РјРёС†СЏ Р’РµСЂС…РѕРІРЅРѕС— С…СЂР°РЅРёС‚РµР»СЊРєРё Р‘С–Р»РѕР±РѕРіР°, СЋРЅР° Р№ Р·РґС–Р±РЅР° РєРѕРјР°РЅРґРёСЂРєР° РЎСЂС–Р±РЅРѕРіСЂРёРІРёС… РІР°СЂС‚РѕРІРёС…. Р— СЂР°РЅРЅС–С… СЂРѕРєС–РІ Р‘СЂРѕРЅСЏ Р·РґРѕР±СѓРІР°Р»Р° СЃСѓРІРѕСЂСѓ РѕСЃРІС–С‚Сѓ, С‚РѕРјСѓ РјР°С” РІРёС‚РѕРЅС‡РµРЅС–СЃС‚СЊ С– С‡Р°СЂС–РІРЅС–СЃС‚СЊ, РЅР°Р»РµР¶РЅС– СЃРїР°РґРєРѕС”РјРёС†С–. РџСЂРѕС‚Рµ, РїРѕР±Р°С‡РёРІС€Рё С‚СЏР¶РєС– СѓРјРѕРІРё РџС–РґР·РµРј'СЏ, РјР°Р№Р±СѓС‚РЅСЏ РїСЂР°РІРёС‚РµР»СЊРєР° Р‘С–Р»РѕР±РѕРіР° РїРѕС‡Р°Р»Р° СЃСѓРјРЅС–РІР°С‚РёСЃСЏ. В«Р§Рё СЃРїСЂР°РІРґС– РІСЃРµ, С‡РѕРіРѕ РјРµРЅРµ РЅР°РІС‡Р°Р»Рё, РґРѕРїРѕРјРѕР¶Рµ РїСЂРёРІРµСЃС‚Рё Р»СЋРґРµР№ РґРѕ РєСЂР°С‰РѕРіРѕ Р¶РёС‚С‚СЏ?В»",
+    "ru": "Р‘СЂРѕРЅСЏ вЂ” СЋРЅР°СЏ РїСЂРµРµРјРЅРёС†Р° Р’РµСЂС…РѕРІРЅРѕР№ С…СЂР°РЅРёС‚РµР»СЊРЅРёС†С‹ Р‘РµР»РѕР±РѕРіР°, С‚Р°Р»Р°РЅС‚Р»РёРІС‹Р№ РєРѕРјР°РЅРґРёСЂ РЎСЂРµР±СЂРѕРіСЂРёРІС‹С… РЎС‚СЂР°Р¶РµР№. РЎ СЂР°РЅРЅРёС… Р»РµС‚ РѕРЅР° РїРѕР»СѓС‡РёР»Р° СЃС‚СЂРѕРіРѕРµ РѕР±СЂР°Р·РѕРІР°РЅРёРµ Рё РѕР±Р»Р°РґР°РµС‚ РёР·СЏС‰РµСЃС‚РІРѕРј Рё РѕР±Р°СЏРЅРёРµРј, РїРѕРґРѕР±Р°СЋС‰РёРјРё РЅР°СЃР»РµРґРЅРёС†Рµ. РћРґРЅР°РєРѕ, СѓРІРёРґРµРІ С‚СЏР¶С‘Р»С‹Рµ СѓСЃР»РѕРІРёСЏ РџРѕРґР·РµРјСЊСЏ, Р±СѓРґСѓС‰Р°СЏ РїСЂР°РІРёС‚РµР»СЊРЅРёС†Р° Р‘РµР»РѕР±РѕРіР° РЅР°С‡Р°Р»Р° СЃРѕРјРЅРµРІР°С‚СЊСЃСЏ. В«Р Р°Р·РІРµ РІСЃС‘, С‡РµРјСѓ РјРµРЅСЏ СѓС‡РёР»Рё, РїРѕРјРѕР¶РµС‚ РїСЂРёРІРµСЃС‚Рё Р»СЋРґРµР№ Рє Р»СѓС‡С€РµР№ Р¶РёР·РЅРё?В»"
+  },
+  "assets": {
+    "portrait": "characters/bronya/portrait.png",
+    "thumbnail": "characters/bronya/thumb.png"
+  },
+  "stats": {
+    "hp": 1241,
+    "atk": 582,
+    "def": 533,
+    "spd": 99,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "silvermane_badge",
+    "ascension_unique": "storm_eye",
+    "trace_group": "harmonic_tune",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "a_grounded_ascent",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "past_and_future",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "but_the_battle_isnt_over",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "dance_dance_dance",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "sacerdos_relived_ordeal",
+    "messenger_traversing_hackerspace",
+    "eagle_of_twilight_line"
+  ],
+  "best_ornaments": [
+    "broken_keel",
+    "fleet_of_the_ageless",
+    "lushaka_the_sunken_seas"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "hp_percent",
+        "sep": ">"
+      },
+      {
+        "id": "def_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "energy_regen"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "hp_percent",
+      "sep": "="
+    },
+    {
+      "id": "def_percent",
+      "sep": ">"
+    },
+    {
+      "id": "effect_res",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "blade",
+    "boothill"
+  ]
+}

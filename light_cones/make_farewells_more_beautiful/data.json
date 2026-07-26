@@ -1,0 +1,29 @@
+{
+  "id": "make_farewells_more_beautiful",
+  "name": {
+    "en": "Make Farewells More Beautiful",
+    "uk": "Нехай прощання буде прекрасним",
+    "ru": "Пусть прощание будет прекрасным"
+  },
+  "rarity": 5,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 57,
+    "hp_max": 1270,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Max HP by 30-60%. When the wearer or their memosprite loses HP during their own turn, the wearer gains \"Death Flower.\" \"Death Flower\" allows the wearer and their memosprite to ignore 30-50% of the target's DEF when dealing DMG, lasting for 2 turn(s). When the wearer's memosprite disappears, advances the wearer's action by 12-24%. This effect can only trigger up to 1 time, and the trigger count resets every time the wearer uses Ultimate.",
+    "uk": "Збільшує максимальне HP власника на 30-60%. Коли власник або його дух пам'яті втрачає HP під час власного ходу, власник отримує статус «Квітка смерті». Цей статус дає власнику та його духу пам'яті змогу ігнорувати 30-50% захисту цілі під час завдання шкоди протягом 2 ходів. Коли дух пам'яті власника зникає, дія власника просувається вперед на 12-24%. Ефект може спрацювати лише 1 раз, а кількість спрацьовувань скидається щоразу, коли власник використовує надздібність.",
+    "ru": "Повышает макс. HP владельца на 30-60%. Когда владелец или его дух памяти теряет HP во время своего хода, владелец получает статус «Цветок смерти». Этот статус позволяет владельцу и его духу памяти игнорировать 30-50% защиты цели при нанесении урона в течение 2 ходов. Когда дух памяти владельца исчезает, действие владельца продвигается вперёд на 12-24%. Этот эффект может сработать только 1 раз, а количество срабатываний сбрасывается каждый раз, когда владелец использует сверхспособность."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/make_farewells_more_beautiful/art.png"
+  }
+}

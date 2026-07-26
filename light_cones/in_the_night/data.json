@@ -1,0 +1,29 @@
+{
+  "id": "in_the_night",
+  "name": {
+    "en": "In the Night",
+    "uk": "Уночі",
+    "ru": "В ночи"
+  },
+  "rarity": 5,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 18-30%. While the wearer is in battle, for every 10 SPD that exceeds 100, increases DMG dealt by Basic ATK and Skill by 6-10%. At the same time, increases the CRIT DMG of Ultimate by 12-20%. This effect can stack up to 6 times.",
+    "uk": "Підвищує крит. шанс власника на 18-30%. Під час бою за кожні 10 од. швидкості понад 100 шкода базової атаки й навички власника підвищується на 6-10%, а крит. шкода надздібності — на 12-20%. Цей ефект може складатися до 6 разів.",
+    "ru": "Крит. шанс владельца повышается на 18-30%. Если скорость владельца во время боя выше 100, за каждые дополнительные 10 ед. скорости урон базовой атаки и навыка владельца повышается на 6-10%, а крит. урон сверхспособности — на 12-20%. Этот эффект может складываться до 6 раз."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/in_the_night/art.png"
+  }
+}

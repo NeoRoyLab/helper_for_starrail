@@ -1,23 +1,27 @@
 {
-  "relics": [
-    "ever_glorious_magical_girl",
-    "pioneer_diver_of_dead_waters",
-    "scholar_lost_in_erudition",
-    "hero_of_triumphant_song",
-    "as_navigator_isee_sees_it",
-    "genius_of_brilliant_stars",
-    "the_ashblazing_grand_duke",
-    "messenger_traversing_hackerspace",
-    "eagle_of_twilight_line",
-    "watchmaker_master_of_dream_machinations",
-    "self_enshrouded_recluse",
-    "knight_of_purity_palace",
-    "warrior_goddess_of_sun_and_thunder",
-    "passerby_of_wandering_cloud",
-    "prisoner_in_deep_confinement",
-    "musketeer_of_wild_wheat",
-    "longevous_disciple",
-    "iron_cavalry_against_the_scourge",
-    "thief_of_shooting_meteor"
-  ]
+    "relics":  [
+                   "ever_glorious_magical_girl",
+                   "pioneer_diver_of_dead_waters",
+                   "scholar_lost_in_erudition",
+                   "hero_of_triumphant_song",
+                   "as_navigator_isee_sees_it",
+                   "genius_of_brilliant_stars",
+                   "the_ashblazing_grand_duke",
+                   "messenger_traversing_hackerspace",
+                   "eagle_of_twilight_line",
+                   "watchmaker_master_of_dream_machinations",
+                   "self_enshrouded_recluse",
+                   "knight_of_purity_palace",
+                   "warrior_goddess_of_sun_and_thunder",
+                   "passerby_of_wandering_cloud",
+                   "prisoner_in_deep_confinement",
+                   "musketeer_of_wild_wheat",
+                   "longevous_disciple",
+                   "iron_cavalry_against_the_scourge",
+                   "thief_of_shooting_meteor",
+                   "sacerdos_relived_ordeal",
+                   "poet_of_mourning_collapse",
+                   "champion_of_streetwise_boxing",
+                   "world_remaking_deliverer"
+               ]
 }
