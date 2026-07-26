@@ -1,0 +1,74 @@
+{
+  "id": "himeko_nova",
+  "name": {
+    "en": "Himeko • Nova",
+    "uk": "Хімеко • Нова",
+    "ru": "Химеко: Нова"
+  },
+  "rarity": 5,
+  "element": "fire",
+  "path": "the_erudition",
+  "description": {
+    "en": "Some fight by your side, while others watch over you. The Trailblaze is never a solitary voyage. She paints a trailblazing miracle. The silver rail stretches on, and the Nameless set sail once more, illuminating the galaxy's eternal night. At the end of the line, she looks back once again. The dream of setting forth has never run aground.",
+    "uk": "Одні йдуть пліч-о-пліч, інші стоять на варті. Освоєння ніколи не було самотньою подорожжю. Вона намалювала диво освоєння зірок: срібні рейки простягаються вдалечінь, а Безіменні знову вирушають у путь, осяваючи довгу ніч всесвіту. Наприкінці шляху вона знову озирається назад. Мрія про мандри ніколи не згасне.",
+    "ru": "Одни идут плечом к плечу, другие стоят на страже. Освоение никогда не было одиноким плаванием. Она нарисовала чудо освоения звёзд: Серебряные рельсы тянутся вдаль, Безымянные вновь отправляются в путь, озаряя долгую ночь вселенной. В конце пути она снова оглядывается назад. Мечта о странствиях никогда не угаснет."
+  },
+  "assets": {
+    "portrait": "characters/himeko_nova/portrait.png",
+    "thumbnail": "characters/himeko_nova/thumb.png"
+  },
+  "stats": {
+    "hp": 1124,
+    "atk": 756,
+    "def": 485,
+    "spd": 98,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "whimsy_wax",
+    "ascension_unique": "radiant_prominence",
+    "trace_group": "celestial_globe",
+    "trace_unique": "vanquished_flows_reticence"
+  },
+  "best_light_cones": [
+    { "item_id": "a_star_that_lights_the_night", "rarity": 5, "is_best": true },
+    { "item_id": "today_is_another_peaceful_day", "rarity": 4, "is_best": true },
+    { "item_id": "into_the_unreachable_veil", "rarity": 5, "is_best": false },
+    { "item_id": "night_on_the_milky_way", "rarity": 5, "is_best": false },
+    { "item_id": "the_day_the_cosmos_fell", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "as_navigator_isee_sees_it",
+    "scholar_lost_in_erudition",
+    "wavestrider_captain"
+  ],
+  "best_ornaments": [
+    "fallen_star_anchorage",
+    "the_wondrous_bananamusement_park",
+    "rutilant_arena"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "atk_percent", "sep": ">" },
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "atk_percent", "sep": ">=" },
+      { "id": "fire_dmg" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": ">" },
+    { "id": "speed", "sep": "" }
+  ],
+  "synergy": ["dan_heng"]
+}

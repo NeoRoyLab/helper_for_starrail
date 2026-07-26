@@ -1,0 +1,33 @@
+{
+  "id": "indelible_promise",
+  "name": {
+    "en": "Indelible Promise",
+    "uk": "Незгладима обіцянка",
+    "ru": "Хранящееся в сердце обещание"
+  },
+  "rarity": 4,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 28-56%. When the wearer uses their Ultimate, increases CRIT Rate by 15-30%, lasting for 2 turns.",
+    "uk": "Підвищує ефект пробиття власника на 28-56%. Коли власник використовує надздібність, його крит. шанс підвищується на 15-30% на 2 ходи.",
+    "ru": "Эффект пробития владельца повышается на 28-56%. Когда владелец использует сверхспособность, его крит. шанс повышается на 15-30% на 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/indelible_promise/art.png"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "himeko",
+  "name": {
+    "en": "Himeko",
+    "uk": "Хімеко",
+    "ru": "Химеко"
+  },
+  "rarity": 5,
+  "element": "fire",
+  "path": "the_erudition",
+  "description": {
+    "en": "An adventurous scientist who encountered the Astral Express as a child when it got stranded in her home world. At that time, some existence in the Express revealed to this young girl a whole world outside of her own — the universe. Years later, Himeko finally repaired the train and began her journey to the stars, but she realized that this was only the beginning. On the Trailblaze path, she would need many more companions... Even though such companions may have different destinations in mind, they all gaze at the same starry sky.",
+    "uk": "Підприємлива вчена, яка ще в дитинстві зустріла Зоряний експрес, що застряг у її рідному світі. Тоді дещо всередині Експреса відкрило юній дівчині цілий світ за межами її власного — всесвіт. Через багато років Хімеко нарешті відремонтувала потяг і вирушила в подорож до зірок, але зрозуміла, що це лише початок. На шляху Освоєння їй знадобиться ще багато супутників... І хоча вони можуть прямувати до різних місць, усі вони дивляться на те саме зоряне небо.",
+    "ru": "Предприимчивая учёная, которая ещё в детстве встретила Звёздный экспресс, застрявший в её родном мире. Тогда нечто внутри Экспресса открыло юной девушке целый мир за пределами её собственного — вселенную. Спустя много лет Химеко наконец отремонтировала поезд и отправилась в путешествие к звёздам, но поняла, что это только начало. На пути Освоения ей понадобится ещё много спутников... И хотя они могут направляться в разные места, все они смотрят на одно и то же звёздное небо."
+  },
+  "assets": {
+    "portrait": "characters/himeko/portrait.png",
+    "thumbnail": "characters/himeko/thumb.png"
+  },
+  "stats": {
+    "hp": 1047,
+    "atk": 756,
+    "def": 436,
+    "spd": 96,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "endotherm_chitin",
+    "trace_group": "key_of_inspiration",
+    "trace_unique": "destroyers_final_road"
+  },
+  "best_light_cones": [
+    { "item_id": "before_dawn", "rarity": 5, "is_best": true },
+    { "item_id": "geniuses_repose", "rarity": 4, "is_best": true },
+    { "item_id": "night_on_the_milky_way", "rarity": 5, "is_best": false },
+    { "item_id": "eternal_calculus", "rarity": 5, "is_best": false },
+    { "item_id": "today_is_another_peaceful_day", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "the_ashblazing_grand_duke",
+    "scholar_lost_in_erudition",
+    "firesmith_of_lava_forging"
+  ],
+  "best_ornaments": [
+    "sigonia_the_unclaimed_desolation",
+    "duran_dynasty_of_running_wolves",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "fire_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": []
+}

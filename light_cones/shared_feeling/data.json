@@ -1,0 +1,33 @@
+{
+  "id": "shared_feeling",
+  "name": {
+    "en": "Shared Feeling",
+    "uk": "Спільні почуття",
+    "ru": "Общие чувства"
+  },
+  "rarity": 4,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Outgoing Healing by 10-20%. When using Skill, regenerates 2-4 Energy for all allies.",
+    "uk": "Підвищує вихідне зцілення власника на 10-20%. Використання навички відновлює всім союзникам 2-4 од. енергії.",
+    "ru": "Повышает исходящее исцеление владельца на 10-20%. Использование навыка восстанавливает всем союзникам 2-4 ед. энергии."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/shared_feeling/art.png"
+  }
+}

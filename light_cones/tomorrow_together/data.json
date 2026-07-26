@@ -1,0 +1,33 @@
+{
+  "id": "tomorrow_together",
+  "name": {
+    "en": "Tomorrow, Together",
+    "uk": "Майбутнє разом",
+    "ru": "Будущее вместе"
+  },
+  "rarity": 4,
+  "path": "elation",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 12-24%. After the wearer uses their Ultimate, increases the Elation of all allies by 8-12%, lasting for 1 turn.",
+    "uk": "Підвищує крит. шкоду власника на 12-24%. Після того як власник використовує надздібність, рівень Радості всіх союзників підвищується на 8-12% на 1 хід.",
+    "ru": "Крит. урон владельца повышается на 12-24%. После того как владелец использует сверхспособность, уровень Радости всех союзников повышается на 8-12% на 1 ход."
+  },
+  "sources": [
+    {
+      "en": "Cosmic Data Roaming Event (Limited)",
+      "uk": "Подія «Мандри космічного сигналу» (Тимчасовий)",
+      "ru": "Событие «Блуждания космического сигнала» (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/tomorrow_together/art.png"
+  }
+}

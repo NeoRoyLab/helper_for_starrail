@@ -1,0 +1,76 @@
+{
+  "id": "fu_xuan",
+  "name": {
+    "en": "Fu Xuan",
+    "uk": "Фу Сюань",
+    "ru": "Фу Сюань"
+  },
+  "rarity": 5,
+  "element": "quantum",
+  "path": "the_preservation",
+  "description": {
+    "en": "The head of the Xianzhou Luofu's Divination Commission and a confident, no-nonsense sage. Using her third eye and the Matrix of Prescience, Fu Xuan calculates the Xianzhou's navigational route and predicts the fortune of future events. She firmly believes that everything she does is the \"best solution\" for the situation. Fu Xuan is waiting for the general's promised \"abdication.\" However, that day still seems... very far away.",
+    "uk": "Мудра, впевнена в собі та прямолінійна голова Комісії з передбачень на Лофу. Використовуючи третє око й Матрицю передбачення, Фу Сюань визначає маршрут Сяньчжоу та результат майбутніх подій. Вона твердо вірить, що все, що робить, є найкращим рішенням у поточній ситуації. Фу Сюань чекає на обіцяну генералом відставку. Однак цей день усе ще здається таким... далеким.",
+    "ru": "Мудрая, уверенная в себе и прямолинейная глава Комиссии по предсказаниям на Лофу. Используя третий глаз и Матрицу предвидения, Фу Сюань предсказывает маршрут Сяньчжоу и исход событий. Она твёрдо верит, что всё, что она делает, является лучшим решением в сложившейся ситуации. Фу Сюань ждёт обещанной генералом отставки. Однако этот день всё ещё кажется таким... далёким."
+  },
+  "assets": {
+    "portrait": "characters/fu_xuan/portrait.png",
+    "thumbnail": "characters/fu_xuan/thumb.png"
+  },
+  "stats": {
+    "hp": 1474,
+    "atk": 465,
+    "def": 606,
+    "spd": 100,
+    "taunt": 150
+  },
+  "materials": {
+    "ascension_group": "artifexs_module",
+    "ascension_unique": "nail_of_the_ape",
+    "trace_group": "endurance_of_bronze",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "she_already_shut_her_eyes", "rarity": 5, "is_best": true },
+    { "item_id": "day_one_of_my_new_life", "rarity": 4, "is_best": true },
+    { "item_id": "moment_of_victory", "rarity": 5, "is_best": false },
+    { "item_id": "texture_of_memories", "rarity": 5, "is_best": false },
+    { "item_id": "landaus_choice", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "warrior_goddess_of_sun_and_thunder",
+    "longevous_disciple",
+    "guard_of_wuthering_snow"
+  ],
+  "best_ornaments": [
+    "broken_keel",
+    "fleet_of_the_ageless",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "def_percent" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">" },
+      { "id": "hp_percent" }
+    ],
+    "sphere": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "def_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "hp_percent", "sep": ">=" },
+    { "id": "def_percent", "sep": ">" },
+    { "id": "effect_res", "sep": "" }
+  ],
+  "synergy": [
+    "acheron"
+  ]
+}

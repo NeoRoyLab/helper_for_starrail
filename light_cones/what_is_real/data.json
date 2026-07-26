@@ -1,0 +1,33 @@
+{
+  "id": "what_is_real",
+  "name": {
+    "en": "What Is Real?",
+    "uk": "Що є реальністю?",
+    "ru": "Что есть реальность?"
+  },
+  "rarity": 4,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 24-48%. After using Basic ATK, restores the wearer's HP by an amount equal to 2-4% of Max HP plus 800.",
+    "uk": "Підвищує ефект пробиття власника на 24-48%. Після використання базової атаки відновлює HP власника в розмірі 2-4% від його макс. HP плюс 800 од.",
+    "ru": "Эффект пробития владельца повышается на 24-48%. Базовые атаки владельца восстанавливают 2-4% его HP плюс 800 ед."
+  },
+  "sources": [
+    {
+      "en": "Light Cone Manifest",
+      "uk": "Пасаж Світлових конусів",
+      "ru": "Пассаж Световых конусов"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/what_is_real/art.png"
+  }
+}

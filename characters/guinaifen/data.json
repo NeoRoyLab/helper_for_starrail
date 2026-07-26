@@ -1,0 +1,77 @@
+{
+  "id": "guinaifen",
+  "name": {
+    "en": "Guinaifen",
+    "uk": "Гуйнайфень",
+    "ru": "Гуйнайфэнь"
+  },
+  "rarity": 4,
+  "element": "fire",
+  "path": "the_nihility",
+  "description": {
+    "en": "An outworlder who ended up residing on the Xianzhou by accident. She is now a passionate and vivacious street performer. With her real name being Guinevere, Guinaifen is the Xianzhou name given to her by her good friend Sushang. Faced with a whole new life on the Luofu and relying on her adoration of Xianzhou culture, Guinaifen quickly learned skills that would keep her clothed and fed.",
+    "uk": "Мандрівниця з іншого світу, яка випадково опинилася на Сяньчжоу. Нині вона палка й життєрадісна вулична артистка. Справжнє ім'я Гуйнайфень — Гвіневра, а ім'я на манер Сяньчжоу їй дала добра подруга Сушан. Зіткнувшись із цілковито новим життям на Лофу, Гуйнайфень завдяки любові до культури Сяньчжоу швидко опанувала навички, що допомагають їй заробляти на їжу й одяг.",
+    "ru": "Иномирка, которая случайно оказалась на Сяньчжоу. Пылкая и жизнерадостная уличная артистка. Гуйнайфэнь, чьё настоящее имя Гвиневра, получила этот псевдоним от своей доброй подруги Сушан. Столкнувшись с совершенно новой жизнью на Лофу, Гуйнайфэнь быстро освоила навыки выживания благодаря своей любви к культуре Сяньчжоу."
+  },
+  "assets": {
+    "portrait": "characters/guinaifen/portrait.png",
+    "thumbnail": "characters/guinaifen/thumb.png"
+  },
+  "stats": {
+    "hp": 882,
+    "atk": 582,
+    "def": 441,
+    "spd": 106,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "artifexs_module",
+    "ascension_unique": "searing_steel_blade",
+    "trace_group": "obsidian_of_dread",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "lies_dance_on_the_breeze", "rarity": 5, "is_best": true },
+    { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": true },
+    { "item_id": "those_many_springs", "rarity": 5, "is_best": false },
+    { "item_id": "eyes_of_the_prey", "rarity": 4, "is_best": false },
+    { "item_id": "solitary_healing", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "messenger_traversing_hackerspace",
+    "sacerdos_relived_ordeal",
+    "prisoner_in_deep_confinement"
+  ],
+  "best_ornaments": [
+    "fleet_of_the_ageless",
+    "broken_keel",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "atk_percent", "sep": ">" },
+      { "id": "effect_hit_rate" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "fire_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "effect_hit_rate", "sep": ">" },
+    { "id": "speed", "sep": ">" },
+    { "id": "atk_percent", "sep": ">" },
+    { "id": "hp_percent", "sep": "=" },
+    { "id": "def_percent", "sep": "=" },
+    { "id": "break_effect", "sep": "" }
+  ],
+  "synergy": [
+    "acheron"
+  ]
+}

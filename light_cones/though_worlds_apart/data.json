@@ -1,0 +1,33 @@
+{
+  "id": "though_worlds_apart",
+  "name": {
+    "en": "Though Worlds Apart",
+    "uk": "Хай простір буде безкраїм",
+    "ru": "Пусть простор бескраен"
+  },
+  "rarity": 5,
+  "path": "preservation",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 64-128%. When the wearer uses Ultimate, restores HP equal to 10-20% of the wearer's ATK for all allies, additionally restores HP equal to 10-20% of the wearer's ATK for the character with the lowest current HP, and grants \"Redoubt\" to all allies for 3 turns. Targets with \"Redoubt\" deal 24-48% increased DMG, which further increases by 12-24% if the targets have summons.",
+    "uk": "Підвищує силу атаки власника на 64-128%. Коли власник використовує надздібність, він відновлює всім союзникам HP у розмірі 10-20% від своєї сили атаки, додатково відновлює HP у розмірі 10-20% від своєї сили атаки персонажу з найнижчим поточним HP та накладає на всіх союзників статус «Дозор» на 3 ходи. Шкода цілей зі статусом «Дозор» підвищується на 24-48%, а якщо ціль має призвану істоту — ще на 12-24%.",
+    "ru": "Сила атаки владельца повышается на 64-128%. Когда владелец использует сверхспособность, он восстанавливает всем союзникам HP, равное 10-20% от своей силы атаки, а также восстанавливает HP, равное 10-20% от своей силы атаки, персонажу с наименьшим текущим HP и накладывает на всех союзников статус «Дозор» на 3 хода. Наносимый целью со статусом «Дозор» урон повышается на 24-48%. Если эта цель имеет призванное существо, то наносимый ею урон дополнительно повышается на 12-24%."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/though_worlds_apart/art.png"
+  }
+}

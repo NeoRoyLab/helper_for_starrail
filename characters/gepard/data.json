@@ -1,0 +1,72 @@
+{
+  "id": "gepard",
+  "name": {
+    "en": "Gepard",
+    "uk": "Гепард",
+    "ru": "Гепард"
+  },
+  "rarity": 5,
+  "element": "ice",
+  "path": "the_preservation",
+  "description": {
+    "en": "An upright and noble captain of the Silvermane Guards who bears the name of the age-old Gepard family. In the blizzard-battered city of Belobog, defense is much more challenging than attack. Gepard and the Silvermane Guards he leads serve as the unbreakable iron defense of the Union in this hostile world. With Gepard's protection, the city can carry on with its ordinary daily routine.",
+    "uk": "Чесний і шляхетний командувач Срібногривої Варти носить ім'я шанованої родини Ландау. У скутому кригою Білобозі життя йде своєю чергою... І все це завдяки зусиллям Гепарда та його Варти, які охороняють мир у місті.",
+    "ru": "Честный и благородный командующий Среброгривых Стражей носит имя уважаемой семьи Ландау. В скованном льдом Белобоге жизнь идёт своим чередом... И всё это благодаря стараниям Гепарда и его Стражей, что охраняют мир в городе."
+  },
+  "assets": {
+    "portrait": "characters/gepard/portrait.png",
+    "thumbnail": "characters/gepard/thumb.png"
+  },
+  "stats": {
+    "hp": 1397,
+    "atk": 543,
+    "def": 654,
+    "spd": 92,
+    "taunt": 150
+  },
+  "materials": {
+    "ascension_group": "silvermane_badge",
+    "ascension_unique": "horn_of_snow",
+    "trace_group": "endurance_of_bronze",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "moment_of_victory", "rarity": 5, "is_best": true },
+    { "item_id": "journey_forever_peaceful", "rarity": 4, "is_best": true },
+    { "item_id": "day_one_of_my_new_life", "rarity": 4, "is_best": false },
+    { "item_id": "landaus_choice", "rarity": 4, "is_best": false },
+    { "item_id": "texture_of_memories", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "self_enshrouded_recluse",
+    "knight_of_purity_palace"
+  ],
+  "best_ornaments": [
+    "broken_keel",
+    "fleet_of_the_ageless",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "def_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "def_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "def_percent", "sep": ">" },
+    { "id": "hp_percent", "sep": "=" },
+    { "id": "effect_res", "sep": "" }
+  ],
+  "synergy": [
+    "acheron"
+  ]
+}

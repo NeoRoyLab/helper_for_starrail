@@ -1,0 +1,33 @@
+{
+  "id": "she_already_shut_her_eyes",
+  "name": {
+    "en": "She Already Shut Her Eyes",
+    "uk": "Вона вже заплющила очі",
+    "ru": "Она закрыла глаза"
+  },
+  "rarity": 5,
+  "path": "preservation",
+  "stats": {
+    "hp_min": 57,
+    "hp_max": 1270,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's Max HP by 24-40% and Energy Regeneration Rate by 12-20%. When the wearer's HP is reduced, all allies' DMG dealt increases by 9-15%, lasting for 2 turns. At the start of every wave, restores HP to all allies by an amount equal to 80-100% of their respective lost HP.",
+    "uk": "Підвищує макс. HP власника на 24-40% і швидкість відновлення енергії на 12-20%. Коли HP власника знижується, завдана всіма союзниками шкода підвищується на 9-15% на 2 ходи. На початку кожної хвилі відновлює всім союзникам HP у розмірі 80-100% від втраченого ними HP.",
+    "ru": "Повышает макс. HP владельца на 24-40% и скорость восстановления энергии на 12-20%. Когда HP владельца понижается, наносимый всеми союзниками урон повышается на 9-15% на 2 хода. В начале каждой волны восстанавливает всем союзникам HP, равное 80-100% от потерянного ими HP."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/she_already_shut_her_eyes/art.png"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "herta",
+  "name": {
+    "en": "Herta",
+    "uk": "Герта",
+    "ru": "Герта"
+  },
+  "rarity": 4,
+  "element": "ice",
+  "path": "the_erudition",
+  "description": {
+    "en": "Herta Space Station's true master. As the human with the highest IQ on The Blue, she only does what she's interested in, dropping projects the moment she loses interest — the best example being the space station. She typically appears in the form of a remote-controlled puppet. \"It's about seventy percent similar to how I looked as a child.\" — Herta",
+    "uk": "Справжня господиня космічної станції «Герта». Людина з найвищим інтелектом на Блакитній, вона займається лише тим, що її цікавить, і кидає будь-який проєкт, щойно втрачає до нього інтерес. Найкращий приклад — сама космічна станція. Зазвичай вона з'являється у вигляді дистанційно керованої ляльки. «Вона приблизно на сімдесят відсотків схожа на мене в дитинстві». — Герта",
+    "ru": "Настоящая хозяйка космической станции «Герта». Будучи человеком с самым высоким интеллектом на Голубом, она занимается только тем, что ей интересно, и бросает любой проект, как только теряет к нему интерес. Лучший тому пример — сама космическая станция. Обычно она появляется в виде дистанционно управляемой куклы. «Она примерно на семьдесят процентов похожа на меня в детстве». — Герта"
+  },
+  "assets": {
+    "portrait": "characters/herta/portrait.png",
+    "thumbnail": "characters/herta/thumb.png"
+  },
+  "stats": {
+    "hp": 952,
+    "atk": 582,
+    "def": 396,
+    "spd": 100,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "horn_of_snow",
+    "trace_group": "key_of_inspiration",
+    "trace_unique": "destroyers_final_road"
+  },
+  "best_light_cones": [
+    { "item_id": "before_dawn", "rarity": 5, "is_best": true },
+    { "item_id": "geniuses_repose", "rarity": 4, "is_best": true },
+    { "item_id": "night_on_the_milky_way", "rarity": 5, "is_best": false },
+    { "item_id": "eternal_calculus", "rarity": 5, "is_best": false },
+    { "item_id": "today_is_another_peaceful_day", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "the_ashblazing_grand_duke",
+    "scholar_lost_in_erudition",
+    "hunter_of_glacial_forest"
+  ],
+  "best_ornaments": [
+    "sigonia_the_unclaimed_desolation",
+    "duran_dynasty_of_running_wolves",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "atk_percent", "sep": ">" },
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "ice_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": []
+}

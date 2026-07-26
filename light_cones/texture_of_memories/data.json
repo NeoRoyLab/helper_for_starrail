@@ -1,0 +1,33 @@
+{
+  "id": "texture_of_memories",
+  "name": {
+    "en": "Texture of Memories",
+    "uk": "Матерія пам'яті",
+    "ru": "Материя памяти"
+  },
+  "rarity": 5,
+  "path": "preservation",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's Effect RES by 8-16%. If the wearer is attacked and has no Shield, they gain a Shield equal to 16-32% of their Max HP for 2 turns. This effect can only be triggered once every 3 turns. If the wearer has a Shield when attacked, the DMG they receive decreases by 12-24%.",
+    "uk": "Підвищує опір ефектам власника на 8-16%. Якщо власника атаковано й він не має щита, він отримує щит, міцність якого дорівнює 16-32% від його макс. HP, на 2 ходи. Цей ефект може спрацювати лише один раз на 3 ходи. Якщо під час атаки власник має щит, отримана ним шкода знижується на 12-24%.",
+    "ru": "Сопротивление эффектам владельца повышается на 8-16%. Если владелец атакован и у него нет Щита, то он получает Щит, равный 16-32% от его макс. HP, на 2 хода. Этот эффект может сработать только один раз каждые 3 хода. Если при атаке у владельца есть Щит, то получаемый им урон понижается на 12-24%."
+  },
+  "sources": [
+    {
+      "en": "Herta's Store",
+      "uk": "Магазин Герти",
+      "ru": "Магазин Герты"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/texture_of_memories/art.png"
+  }
+}

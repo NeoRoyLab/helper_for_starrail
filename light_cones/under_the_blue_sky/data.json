@@ -1,0 +1,29 @@
+{
+  "id": "under_the_blue_sky",
+  "name": {
+    "en": "Under the Blue Sky",
+    "uk": "Під блакитним небом",
+    "ru": "Под голубым небом"
+  },
+  "rarity": 4,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 16-32%. When the wearer defeats an enemy, the wearer's CRIT Rate increases by 12-24% for 3 turns.",
+    "uk": "Підвищує силу атаки власника на 16-32%. Коли власник перемагає ворога, його крит. шанс підвищується на 12-24% на 3 ходи.",
+    "ru": "Сила атаки владельца повышается на 16-32%. Когда владелец побеждает противника, его крит. шанс повышается на 12-24% на 3 хода."
+  },
+  "sources": [
+    { "en": "Warp", "uk": "Стрибок", "ru": "Прыжок" }
+  ],
+  "assets": {
+    "art": "light_cones/under_the_blue_sky/art.png"
+  }
+}

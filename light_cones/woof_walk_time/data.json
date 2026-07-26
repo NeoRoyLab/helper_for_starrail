@@ -1,0 +1,33 @@
+{
+  "id": "woof_walk_time",
+  "name": {
+    "en": "Woof! Walk Time!",
+    "uk": "Гав! Час прогулянки!",
+    "ru": "Гав! Время прогулок!"
+  },
+  "rarity": 4,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 10-20%, and increases their DMG to enemies afflicted with Burn or Bleed by 16-32%. This also applies to DoT.",
+    "uk": "Підвищує силу атаки власника на 10-20%, а його шкоду противникам зі статусами Горіння або Кровотеча — на 16-32%. Цей ефект також поширюється на періодичну шкоду.",
+    "ru": "Повышает силу атаки владельца на 10-20%, а его урон противникам со статусами Горение или Кровотечение — на 16-32%. Этот эффект также распространяется на периодический урон."
+  },
+  "sources": [
+    {
+      "en": "Light Cone Manifest",
+      "uk": "Маніфест Світлових конусів",
+      "ru": "Манифест Световых конусов"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/woof_walk_time/art.png"
+  }
+}

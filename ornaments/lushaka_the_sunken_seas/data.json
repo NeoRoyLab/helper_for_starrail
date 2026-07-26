@@ -1,8 +1,8 @@
 {
-  "id": "lushaka_the_sunken_seas",
-  "name": {
-    "en": "Lushaka, the Sunken Seas",
-    "uk": "Р СѓСЃР°Р»РєР°, Р·Р°С‚РѕРїР»РµРЅС– Р±РµСЂРµРіРё",
-    "ru": "Р СѓСЃР°Р»РєР°, Р·Р°С‚РѕРїР»РµРЅРЅС‹Рµ Р±РµСЂРµРіР°"
-  }
+    "id":  "lushaka_the_sunken_seas",
+    "name":  {
+                 "en":  "Lushaka, the Sunken Seas",
+                 "uk":  "Русалка, затоплені береги",
+                 "ru":  "Русалка, затопленные берега"
+             }
 }

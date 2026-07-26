@@ -1,0 +1,76 @@
+{
+  "id": "gallagher",
+  "name": {
+    "en": "Gallagher",
+    "uk": "Галлахер",
+    "ru": "Галлахер"
+  },
+  "rarity": 4,
+  "element": "fire",
+  "path": "the_abundance",
+  "description": {
+    "en": "A security officer from the Bloodhound Family in Penacony. He is also a slovenly and indolent drinksmith. Though unorganized in apparel and casual in how he makes his drinks, he is always courteous toward visiting guests but keeps his vigilance about him. He seems to carry a weight of a complicated past, yet he never voluntarily divulges any details.",
+    "uk": "Офіцер безпеки із Сім'ї Гончих на Пенаконії. Також неохайний і лінивий майстер напоїв. Попри недбале вбрання та невимушений підхід до приготування напоїв, він завжди ввічливий із гостями, але не втрачає пильності. Здається, за ним тягнеться складне минуле, однак він ніколи добровільно не розкриває подробиць.",
+    "ru": "Офицер безопасности Семьи Гончих на Пенаконии. Также неряшливый и ленивый мастер напитков. Несмотря на неопрятный внешний вид и небрежное отношение к приготовлению напитков, он всегда вежлив с гостями, но не теряет бдительности. Кажется, за ним тянется сложное прошлое, однако он никогда добровольно не раскрывает подробностей."
+  },
+  "assets": {
+    "portrait": "characters/gallagher/portrait.png",
+    "thumbnail": "characters/gallagher/thumb.png"
+  },
+  "stats": {
+    "hp": 1305,
+    "atk": 529,
+    "def": 441,
+    "spd": 98,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "dream_collection_component",
+    "ascension_unique": "raging_heart",
+    "trace_group": "alien_tree_seed",
+    "trace_unique": "past_evils_of_the_borehole_planet_disaster"
+  },
+  "best_light_cones": [
+    { "item_id": "scent_alone_stays_true", "rarity": 5, "is_best": true },
+    { "item_id": "quid_pro_quo", "rarity": 4, "is_best": true },
+    { "item_id": "post_op_conversation", "rarity": 4, "is_best": false },
+    { "item_id": "what_is_real", "rarity": 4, "is_best": false },
+    { "item_id": "unto_tomorrows_morrow", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "warrior_goddess_of_sun_and_thunder",
+    "messenger_traversing_hackerspace",
+    "iron_cavalry_against_the_scourge"
+  ],
+  "best_ornaments": [
+    "forge_of_the_kalpagni_lantern",
+    "talia_kingdom_of_banditry",
+    "fleet_of_the_ageless"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "outgoing_healing" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "hp_percent", "sep": ">=" },
+      { "id": "def_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "break_effect", "sep": ">" },
+    { "id": "effect_res", "sep": ">" },
+    { "id": "hp_percent", "sep": "=" },
+    { "id": "def_percent", "sep": "" }
+  ],
+  "synergy": [
+    "castorice",
+    "acheron"
+  ]
+}

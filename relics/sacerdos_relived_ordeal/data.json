@@ -1,8 +1,8 @@
 {
-  "id": "sacerdos_relived_ordeal",
-  "name": {
-    "en": "Sacerdos' Relived Ordeal",
-    "uk": "РўРµСЂРЅРёСЃС‚РёР№ С€Р»СЏС… СЃРІСЏС‰РµРЅРЅРёРєР°",
-    "ru": "РўРµСЂРЅРёСЃС‚С‹Р№ РїСѓС‚СЊ СЃРІСЏС‰РµРЅРЅРёРєР°"
-  }
+    "id":  "sacerdos_relived_ordeal",
+    "name":  {
+                 "en":  "Sacerdos\u0027 Relived Ordeal",
+                 "uk":  "Тернистий шлях священника",
+                 "ru":  "Тернистый путь священника"
+             }
 }

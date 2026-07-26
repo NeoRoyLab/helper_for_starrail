@@ -1,0 +1,74 @@
+{
+  "id": "hysilens",
+  "name": {
+    "en": "Hysilens",
+    "uk": "Гісиленса",
+    "ru": "Гисиленса"
+  },
+  "rarity": 5,
+  "element": "physical",
+  "path": "the_nihility",
+  "description": {
+    "en": "Styxia, the coastal city of intoxication and dreams, where echoes of old songs still drift among the waves. Helektra, Daughter of the Sea, Chrysos Heir who cleanses the Ocean's Coreflame, dispels the murky undercurrents and orchestrates a banquet of revelry for the heroes beyond the sky. The show must go on. Even if hope is as fragile as bubbles, the waves will keep surging forward.",
+    "uk": "Стіксія — прибережне місто сп'яніння та мрій, де серед хвиль і досі лунає відлуння давніх пісень. Гелектра, Дочка Моря, златіус, що очищує ядро полум'я Океану, розсіює каламутні підводні течії та влаштовує бенкет веселощів для героїв з-поза небес. Вистава має тривати. Навіть якщо надія крихка, мов бульбашки, хвилі й далі нестимуться вперед.",
+    "ru": "Стиксия — прибрежный город опьянения и грёз, где среди волн по-прежнему звучит эхо старых песен. Гелектра, Дочь Моря, златиус, очищающая ядро пламени Океана, рассеивает мутные подводные течения и устраивает пиршество для героев из-за пределов небес. Шоу должно продолжаться. Даже если надежда хрупка, словно пузырьки, волны продолжат нестись вперёд."
+  },
+  "assets": {
+    "portrait": "characters/hysilens/portrait.png",
+    "thumbnail": "characters/hysilens/thumb.png"
+  },
+  "stats": {
+    "hp": 1203,
+    "atk": 601,
+    "def": 485,
+    "spd": 102,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "fear_stomped_flesh",
+    "ascension_unique": "invasive_clot",
+    "trace_group": "fiery_spirit",
+    "trace_unique": "daythunder_anamnesis"
+  },
+  "best_light_cones": [
+    { "item_id": "why_does_the_ocean_sing", "rarity": 5, "is_best": true },
+    { "item_id": "eyes_of_the_prey", "rarity": 4, "is_best": true },
+    { "item_id": "reforged_remembrance", "rarity": 5, "is_best": false },
+    { "item_id": "those_many_springs", "rarity": 5, "is_best": false },
+    { "item_id": "patience_is_all_you_need", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "prisoner_in_deep_confinement",
+    "champion_of_streetwise_boxing",
+    "pioneer_diver_of_dead_waters"
+  ],
+  "best_ornaments": [
+    "revelry_by_the_sea",
+    "pan_cosmic_commercial_enterprise",
+    "firmament_frontline_glamoth"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "effect_hit_rate", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "feet": [
+      { "id": "atk_percent", "sep": ">=" },
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "physical_dmg", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent", "sep": ">" },
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "effect_hit_rate", "sep": "=" },
+    { "id": "speed", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": ["black_swan"]
+}

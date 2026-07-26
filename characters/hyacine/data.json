@@ -1,0 +1,69 @@
+{
+  "id": "hyacine",
+  "name": {
+    "en": "Hyacine",
+    "uk": "Гіацина",
+    "ru": "Гиацина"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_remembrance",
+  "description": {
+    "en": "The city-state in the clouds crumbled with time, and the Twilight Courtyard opened its gates once more, bringing a glimmer of light into the eternal night. Hyacinthia, the healer and Chrysos Heir who guards the Coreflame of Sky, must inherit the will of her ancestors and mend the rift between dawn and dusk. May rainbow light pour forth, may enmity disappear, and may daybreak return to the earth.",
+    "uk": "Поліс у хмарах зруйнувався з плином часу, а Сутінковий двір знову відчинив свої брами, несучи промінь світла у вічну ніч. Цілителька Гіацинтія, златіус, що береже ядро полум'я неба, має успадкувати волю предків і загоїти розрив між світанком і заходом сонця. Нехай проллється райдужне світло, зникне ворожнеча, а зоря знову повернеться на землю.",
+    "ru": "Полис в облаках разрушился со временем, Сумеречный двор вновь открыл свои врата, принося проблеск света в вечную ночь. Целительница Гиацинтия, златиус, хранящая ядро пламени неба. Тебе предстоит унаследовать волю предков и залатать разрыв между рассветом и закатом. Да прольётся радужный свет, исчезнет вражда, и заря вновь вернётся на землю."
+  },
+  "assets": {
+    "portrait": "characters/hyacine/portrait.png",
+    "thumbnail": "characters/hyacine/thumb.png"
+  },
+  "stats": {
+    "hp": 1087,
+    "atk": 388,
+    "def": 630,
+    "spd": 110,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "fear_stomped_flesh",
+    "ascension_unique": "a_glass_of_the_besotted_era",
+    "trace_group": "bija_of_consciousness",
+    "trace_unique": "daythunder_anamnesis"
+  },
+  "best_light_cones": [
+    { "item_id": "long_may_rainbows_adorn_the_sky", "rarity": 5, "is_best": true },
+    { "item_id": "the_storys_next_page", "rarity": 4, "is_best": true },
+    { "item_id": "memorys_curtain_never_falls", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "warrior_goddess_of_sun_and_thunder",
+    "messenger_traversing_hackerspace",
+    "sacerdos_relived_ordeal"
+  ],
+  "best_ornaments": [
+    "giant_tree_of_rapt_brooding",
+    "amphoreus_the_eternal_land"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "outgoing_healing", "sep": ">" },
+      { "id": "hp_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "hp_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "hp_percent", "sep": ">" },
+    { "id": "crit_dmg", "sep": ">=" },
+    { "id": "effect_res", "sep": "" }
+  ],
+  "synergy": ["castorice", "blade"]
+}

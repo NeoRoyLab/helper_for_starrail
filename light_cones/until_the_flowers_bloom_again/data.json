@@ -1,0 +1,33 @@
+{
+  "id": "until_the_flowers_bloom_again",
+  "name": {
+    "en": "Until the Flowers Bloom Again",
+    "uk": "Поки квіти не розпустяться знову",
+    "ru": "Пока не распустятся цветы"
+  },
+  "rarity": 5,
+  "path": "elation",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 60-120% and Energy Regeneration Rate by 10-16%. When the wearer's Max Energy is greater than 120, for every 10 points of Max Energy that exceeds this amount, further increases Energy Regeneration Rate by 0.3%. Up to a maximum of 360 points of excess Max Energy can be taken into account. When the wearer uses Elation Skill, increases the DMG received by all enemies by 15-30% for 2 turns. Effects of the same type cannot stack.",
+    "uk": "Підвищує крит. шкоду власника на 60-120%, а швидкість відновлення енергії — на 10-16%. Коли макс. енергія власника перевищує 120 од., кожні 10 од. енергії понад це значення додатково підвищують швидкість відновлення енергії на 0,3%. Враховується щонайбільше 360 од. надлишкової макс. енергії. Коли власник використовує навичку Радості, отримувана всіма противниками шкода підвищується на 15-30% на 2 ходи. Ефекти такого типу не складаються.",
+    "ru": "Крит. урон владельца повышается на 60-120%, а скорость восстановления энергии — на 10-16%. Когда макс. энергия владельца превышает 120 ед., каждые 10 ед. энергии сверх максимума повышают скорость восстановления энергии на 0.3%, учитывается максимум 360 ед. Когда владелец использует навык Радости, получаемый всеми противниками урон повышается на 15-30% на 2 хода. Эффекты подобного типа не могут складываться."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/until_the_flowers_bloom_again/art.png"
+  }
+}

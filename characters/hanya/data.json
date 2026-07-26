@@ -1,0 +1,74 @@
+{
+  "id": "hanya",
+  "name": {
+    "en": "Hanya",
+    "uk": "Ханья",
+    "ru": "Ханья"
+  },
+  "rarity": 4,
+  "element": "physical",
+  "path": "the_harmony",
+  "description": {
+    "en": "One of the judges of the Ten-Lords Commission. Of the four duties of a judge — detention, imprisonment, punishment, and interrogation — Hanya is charged with the last task. She specializes in reading the karma and sins of criminals, and records their crimes and punishments with the Oracle Brush. As she spends her days using dreams to predict karmic offenses and has to endure the torrential flood of information regarding the mara-strucks' actions, she has long become dull to all things in the world. Only when she operates with her sister and fellow judge, Xueyi, will Hanya momentarily reveal her true nature.",
+    "uk": "Одна із суддів Комісії десяти владик на Лофу. Серед чотирьох обов'язків суддів — «відшукати, ув'язнити, покарати й допитати» — вона відповідає за допит. Її обов'язок — розглядати провини злочинців і Пензлем оракула записувати призначену кару. Її робота нерозривно пов'язана з віщуванням, тому вона безперервно пропускає крізь себе неймовірні обсяги інформації про уражених Марою та дедалі більше відсторонюється від земних турбот. Лише поруч зі своєю сестрою Сюеї вона інколи відкриває справжні почуття.",
+    "ru": "Принадлежит к числу судей Комиссии десяти владык на Лофу. Среди четырёх судей, которые должны «отыскать, заковать, наказать, допросить», она отвечает за допрос. Её обязанность — рассматривать прегрешения преступника и Кистью оракула делать запись о назначенной каре. Работа её неразрывно связана с прорицанием, а потому она непрерывно пропускает сквозь себя немыслимые объёмы информации, связанной с Марой, и всё больше отрешается от земных забот. Лишь в присутствии Сюэи, её сестры, она порой приоткрывает своё трепетное сердце."
+  },
+  "assets": {
+    "portrait": "characters/hanya/portrait.png",
+    "thumbnail": "characters/hanya/thumb.png"
+  },
+  "stats": {
+    "hp": 917,
+    "atk": 564,
+    "def": 352,
+    "spd": 110,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "artifexs_module",
+    "ascension_unique": "netherworld_token",
+    "trace_group": "harmonic_tune",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "but_the_battle_isnt_over", "rarity": 5, "is_best": true },
+    { "item_id": "dance_dance_dance", "rarity": 4, "is_best": true },
+    { "item_id": "meshing_cogs", "rarity": 3, "is_best": false },
+    { "item_id": "planetary_rendezvous", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "messenger_traversing_hackerspace",
+    "sacerdos_relived_ordeal"
+  ],
+  "best_ornaments": [
+    "broken_keel",
+    "fleet_of_the_ageless",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "def_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "def_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "hp_percent", "sep": "=" },
+    { "id": "def_percent", "sep": ">" },
+    { "id": "break_effect", "sep": "=" },
+    { "id": "effect_res", "sep": "" }
+  ],
+  "synergy": [
+    "argenti"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "dr_ratio",
+  "name": {
+    "en": "Dr. Ratio",
+    "uk": "Доктор Раціо",
+    "ru": "Доктор Рацио"
+  },
+  "rarity": 5,
+  "element": "imaginary",
+  "path": "the_hunt",
+  "description": {
+    "en": "A candid and self-centered Intelligentsia Guild member, who often conceals his appearance with a strange plaster sculpture. He demonstrated unparalleled intelligence and talent since his youth, but now refers to himself as a \"Mundanite.\" He firmly believes that intellect and creativity are not confined to geniuses. He seeks to distribute knowledge to the entire universe to cure the persistent disease named ignorance.",
+    "uk": "Прямолінійний і самозакоханий член Гільдії ерудитів, який часто приховує свою зовнішність за дивною гіпсовою скульптурою. З дитинства він демонстрував видатний талант та інтелект, але тепер називає себе «пересічною особистістю». Щиро вірить, що інтелект і здатність до творчості притаманні не лише геніям. Його мета — поширити знання по всьому всесвіту й позбутися важковиліковної хвороби під назвою «дурість».",
+    "ru": "Прямой и самовлюблённый член Гильдии эрудитов, часто скрывающий свою внешность за странной гипсовой скульптурой. С детства показавший выдающийся талант и интеллект, сейчас он называет себя «заурядной личностью». Искренне верит, что интеллект и способность к творчеству — удел не только гениев. Его цель — распространить знание по всей вселенной и избавиться от трудноизлечимой болезни под названием «глупость»."
+  },
+  "assets": {
+    "portrait": "characters/dr_ratio/portrait.png",
+    "thumbnail": "characters/dr_ratio/thumb.png"
+  },
+  "stats": {
+    "hp": 1047,
+    "atk": 776,
+    "def": 460,
+    "spd": 103,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "thiefs_instinct",
+    "ascension_unique": "suppressing_edict",
+    "trace_group": "arrow_of_the_beast_hunter",
+    "trace_unique": "past_evils_of_the_borehole_planet_disaster"
+  },
+  "best_light_cones": [
+    { "item_id": "baptism_of_pure_thought", "rarity": 5, "is_best": true },
+    { "item_id": "only_silence_remains", "rarity": 4, "is_best": true },
+    { "item_id": "worrisome_blissful", "rarity": 5, "is_best": false },
+    { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false },
+    { "item_id": "in_the_night", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "pioneer_diver_of_dead_waters",
+    "wastelander_of_banditry_desert",
+    "the_ashblazing_grand_duke"
+  ],
+  "best_ornaments": [
+    "duran_dynasty_of_running_wolves",
+    "izumo_gensei_and_takama_divine_realm",
+    "firmament_frontline_glamoth"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "imaginary_dmg", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "aventurine"
+  ]
+}

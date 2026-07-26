@@ -1,0 +1,79 @@
+{
+  "id": "feixiao",
+  "name": {
+    "en": "Feixiao",
+    "uk": "Фейсяо",
+    "ru": "Фэйсяо"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_hunt",
+  "description": {
+    "en": "A former war slave of the borisin, Feixiao is now the Merlin's Claw of the Xianzhou Yaoqing and one of the Seven Arbiter-Generals. Her personality is unrestrained and frank, dashing and straightforward. She is skilled in all forms of martial arts and has honed herself into a supreme weapon. She is widely adored by Xianzhou soldiers and civilians alike as \"The Great General.\" However, she bears the burden of the Moon Rage affliction. If she were to hunt down all the abominations in her limited lifetime — Then the only enemy Feixiao has would be herself.",
+    "uk": "Соколина Міць із Яоціна Сяньчжоу та одна із семи генералів-арбітрів Небесної Дуги. Розкута, чесна, різка й прямолінійна. Опанувала всі види бойових мистецтв і перетворила себе на грізну зброю. Серед воїнів і жителів Сяньчжоу відома як Переможний Генерал. Однак вона страждає від місячного озвіріння. Якщо за своє коротке життя вона встигне вполювати всіх Мерзот, то в неї залишиться лише один ворог — вона сама.",
+    "ru": "Соколиная Мощь с Яоцина Сяньчжоу и одна из семи генералов-арбитров Небесной Дуги. Раскованна, честна, резка и прямолинейна. Овладела всеми видами боевых искусств и превратила себя в грозное оружие. Известна среди воинов и жителей Сяньчжоу как Победоносный Генерал. Однако она страдает от лунного озверения. Если она успеет поймать всех Мерзостей за свою короткую жизнь, то у неё останется один единственный враг — она сама."
+  },
+  "assets": {
+    "portrait": "characters/feixiao/portrait.png",
+    "thumbnail": "characters/feixiao/thumb.png"
+  },
+  "stats": {
+    "hp": 1047,
+    "atk": 601,
+    "def": 388,
+    "spd": 112,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "artifexs_module",
+    "ascension_unique": "a_glass_of_the_besotted_era",
+    "trace_group": "meteoric_bullet",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "i_venture_forth_to_hunt", "rarity": 5, "is_best": true },
+    { "item_id": "swordplay", "rarity": 4, "is_best": true },
+    { "item_id": "baptism_of_pure_thought", "rarity": 5, "is_best": false },
+    { "item_id": "worrisome_blissful", "rarity": 5, "is_best": false },
+    { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "the_wind_soaring_valorous",
+    "the_ashblazing_grand_duke",
+    "pioneer_diver_of_dead_waters"
+  ],
+  "best_ornaments": [
+    "duran_dynasty_of_running_wolves",
+    "izumo_gensei_and_takama_divine_realm",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "atk_percent", "sep": "=" },
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "wind_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "cipher",
+    "aventurine",
+    "ashveil",
+    "bronya"
+  ]
+}

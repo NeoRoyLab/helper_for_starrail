@@ -1,0 +1,18 @@
+{
+  "id": "fallen_star_anchorage",
+  "name": {
+    "en": "Fallen Star Anchorage",
+    "uk": "Якірна стоянка падучої зірки",
+    "ru": "Якорная стоянка павшей звезды"
+  },
+  "set_bonus": {
+    "2pc": {
+      "en": "Increases the wearer's CRIT Rate by 8%. When another Trailblaze Companion character is in the team, increases the wearer's CRIT DMG by 32%.",
+      "uk": "Підвищує крит. шанс власника на 8%. Якщо в загоні є інший персонаж із категорії «Супутники Освоєння», крит. шкода власника підвищується на 32%.",
+      "ru": "Повышает крит. шанс владельца на 8%. Если в отряде есть другой персонаж категории «Спутники Освоения», крит. урон владельца повышается на 32%."
+    }
+  },
+  "assets": {
+    "icon": "ornaments/fallen_star_anchorage/icon.png"
+  }
+}

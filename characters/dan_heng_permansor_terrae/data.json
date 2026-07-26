@@ -1,0 +1,73 @@
+{
+  "id": "dan_heng_permansor_terrae",
+  "name": {
+    "en": "Dan Heng • Permansor Terrae",
+    "uk": "Дань Хен: Визволитель Пусток",
+    "ru": "Дань Хэн: Освободитель Пустошей"
+  },
+  "rarity": 5,
+  "element": "physical",
+  "path": "the_preservation",
+  "description": {
+    "en": "The chest of Georios and the body of walking dragon shoulder the shattered earth, enduring a thousand years of suffering. Nameless Dan Heng, Chrysos Heir who guards the Earth's Coreflame, you must steady the world as it falls, and guide all life across the land to a new home beyond. All rivers flow to the sea, mountains echo in chorus, the path of Permanence shall stretch beyond horizons.",
+    "uk": "Розколота земля тримається на грудях Георіоса й тілі дракона, тисячоліття завдаючи їм страждань. Безіменний Дань Хен, золоте дитя, що оберігає ядро полум’я землі, захисти світ від руйнування та спрямуй усіх живих істот до нового дому. Усі ріки впадають у море, гори відлунюють в унісон, а шлях Постійності простягнеться за обрій.",
+    "ru": "Расколотая земля держится на груди Геориоса и теле дракона, тысячелетие принося им страдания. Безымянный Дань Хэн, златиус, защищающий ядро пламени земли, убереги мир от разрушения и направь земных существ в новый дом. Реки стекаются в море, горы вторят друг другу, а вечный путь простирается на десятки тысяч ли."
+  },
+  "assets": {
+    "portrait": "characters/dan_heng_permansor_terrae/portrait.png",
+    "thumbnail": "characters/dan_heng_permansor_terrae/thumb.png"
+  },
+  "stats": {
+    "hp": 1047,
+    "atk": 582,
+    "def": 776,
+    "spd": 97,
+    "taunt": 150
+  },
+  "materials": {
+    "ascension_group": "fear_stomped_flesh",
+    "ascension_unique": "invasive_clot",
+    "trace_group": "scattered_stardust",
+    "trace_unique": "daythunder_anamnesis"
+  },
+  "best_light_cones": [
+    { "item_id": "though_worlds_apart", "rarity": 5, "is_best": true },
+    { "item_id": "journey_forever_peaceful", "rarity": 4, "is_best": true },
+    { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": false },
+    { "item_id": "day_one_of_my_new_life", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "self_enshrouded_recluse",
+    "warrior_goddess_of_sun_and_thunder",
+    "sacerdos_relived_ordeal"
+  ],
+  "best_ornaments": [
+    "lushaka_the_sunken_seas",
+    "city_of_converging_stars",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "atk_percent" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "atk_percent", "sep": ">" },
+    { "id": "effect_res", "sep": "" }
+  ],
+  "synergy": [
+    "archer",
+    "cyrene"
+  ]
+}

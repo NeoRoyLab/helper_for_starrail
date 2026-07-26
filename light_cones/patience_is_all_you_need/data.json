@@ -1,0 +1,33 @@
+{
+  "id": "patience_is_all_you_need",
+  "name": {
+    "en": "Patience Is All You Need",
+    "uk": "Просто треба почекати",
+    "ru": "Просто надо подождать"
+  },
+  "rarity": 5,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases DMG dealt by the wearer by 24-40%. After every attack launched by the wearer, their SPD increases by 4.8-8%, stacking up to 3 times. If the wearer hits an enemy target that is not afflicted by Erode, there is a 100% base chance to inflict Erode on the target. Enemies afflicted with Erode are also considered to be Shocked and receive Lightning DoT at the start of each turn equal to 60-100% of the wearer's ATK, lasting for 1 turn.",
+    "uk": "Підвищує завдану власником шкоду на 24-40%. Після кожної атаки власника його швидкість підвищується на 4,8-8%. Ефект складається до 3 разів. Якщо власник влучає по противнику без статусу Вивітрювання, є базовий шанс 100% накласти на нього статус Вивітрювання. Противники з цим статусом також вважаються ураженими Шоком і на початку кожного ходу отримують періодичну електричну шкоду, рівну 60-100% сили атаки власника, протягом 1 ходу.",
+    "ru": "Наносимый владельцем урон повышается на 24-40%. После каждой атаки владельца его скорость повышается на 4,8-8%. Этот эффект может складываться до 3 раз. Когда владелец поражает противника без статуса Выветривание, имеется базовый шанс 100% наложить на него статус Выветривание. Противник с этим статусом также считается имеющим статус Шок и в начале каждого хода получает периодический электрический урон, равный 60-100% от силы атаки владельца, в течение 1 хода."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Стрибок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/patience_is_all_you_need/art.png"
+  }
+}

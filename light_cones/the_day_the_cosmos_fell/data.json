@@ -1,0 +1,33 @@
+{
+  "id": "the_day_the_cosmos_fell",
+  "name": {
+    "en": "The Day The Cosmos Fell",
+    "uk": "День падіння всесвіту",
+    "ru": "День падения вселенной"
+  },
+  "rarity": 4,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 16-24%. When the wearer uses an attack and at least 2 attacked enemies have the corresponding Weakness, the wearer's CRIT DMG increases by 20-40%, lasting for 2 turns.",
+    "uk": "Підвищує силу атаки власника на 16-24%. Коли власник атакує і щонайменше 2 уражені противники мають відповідну вразливість, його крит. шкода підвищується на 20-40% на 2 ходи.",
+    "ru": "Повышает силу атаки владельца на 16-24%. Когда владелец атакует и как минимум 2 поражённых противника имеют соответствующую уязвимость, его крит. урон повышается на 20-40% на 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Light Cone Manifest",
+      "uk": "Маніфест Світлових конусів",
+      "ru": "Манифест Световых конусов"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/the_day_the_cosmos_fell/art.png"
+  }
+}

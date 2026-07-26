@@ -1,0 +1,23 @@
+{
+  "id": "wavestrider_captain",
+  "name": {
+    "en": "Wavestrider Captain",
+    "uk": "Капітан, що переслідує хвилі",
+    "ru": "Преследующий волны капитан"
+  },
+  "set_bonus": {
+    "2pc": {
+      "en": "Increases CRIT DMG by 16%.",
+      "uk": "Підвищує крит. шкоду на 16%.",
+      "ru": "Повышает крит. урон на 16%."
+    },
+    "4pc": {
+      "en": "When the wearer becomes the target of another ally's ability, gains 1 stack of \"Help,\" stacking up to 2 times. If there are 2 stacks of \"Help\" when the wearer uses Ultimate, consumes all \"Help\" to increase the wearer's ATK by 48% for 1 turn.",
+      "uk": "Коли власник стає ціллю здібності іншого союзника, він отримує 1 рівень «Допомоги». Ефект складається до 2 разів. Якщо під час використання надздібності є 2 рівні «Допомоги», вони витрачаються, підвищуючи силу атаки власника на 48% на 1 хід.",
+      "ru": "Когда владелец становится целью способности другого союзника, он получает 1 уровень «Помощи». Эффект складывается до 2 раз. Если при использовании сверхспособности имеется 2 уровня «Помощи», они расходуются, повышая силу атаки владельца на 48% на 1 ход."
+    }
+  },
+  "assets": {
+    "icon": "relics/wavestrider_captain/icon.png"
+  }
+}

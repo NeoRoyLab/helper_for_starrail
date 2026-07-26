@@ -1,0 +1,33 @@
+{
+  "id": "geniuses_repose",
+  "name": {
+    "en": "Geniuses' Repose",
+    "uk": "Відпочинок геніїв",
+    "ru": "Отдых гениев"
+  },
+  "rarity": 4,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 16-32%. When the wearer defeats an enemy, the wearer's CRIT DMG increases by 24-48% for 3 turns.",
+    "uk": "Підвищує силу атаки власника на 16-32%. Коли власник перемагає противника, його критична шкода підвищується на 24-48% на 3 ходи.",
+    "ru": "Повышает силу атаки владельца на 16-32%. Когда владелец побеждает противника, его крит. урон повышается на 24-48% на 3 хода."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибок",
+      "ru": "Прыжок"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/geniuses_repose/art.png"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "hook",
+  "name": {
+    "en": "Hook",
+    "uk": "Хук",
+    "ru": "Хук"
+  },
+  "rarity": 4,
+  "element": "fire",
+  "path": "the_destruction",
+  "description": {
+    "en": "The leader of The Moles adventure squad. She calls herself Pitch-Dark Hook the Great. She does not like being called a child and believes she can handle anything without help from adults. Adults seek adventures in the Fragmentum, Sampo seeks adventures on the surface, and patients seek adventures while being treated by Natasha... Under Hook's leadership, children can have adventures of their own!",
+    "uk": "Очільниця загону шукачів пригод «Кроти». Вона називає себе Хук Великий Морок. Не любить, коли її називають дитиною, і вважає, що впорається з усім сама, без допомоги дорослих. Дорослі шукають пригод у Фрагментумі, Сампо — на поверхні, а пацієнти — під час лікування в Наташі... Під проводом Хук і діти можуть мати власні пригоди!",
+    "ru": "Предводительница отряда приключенцев «Кроты». Себя она называет Хук Великий Мрак. Не любит, когда её зовут ребёнком, и считает, что справится со всем сама, без помощи взрослых. Взрослые пускаются на поиски приключений во Фрагментуме, Сампо ищет приключения на поверхности, а пациенты находят приключения, когда лечатся у Наташи... Под началом Хук и у детей могут быть свои приключения!"
+  },
+  "assets": {
+    "portrait": "characters/hook/portrait.png",
+    "thumbnail": "characters/hook/thumb.png"
+  },
+  "stats": {
+    "hp": 1340,
+    "atk": 617,
+    "def": 352,
+    "spd": 94,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "ancient_part",
+    "ascension_unique": "endotherm_chitin",
+    "trace_group": "shattered_blade",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "on_the_fall_of_an_aeon", "rarity": 5, "is_best": true },
+    { "item_id": "woof_walk_time", "rarity": 4, "is_best": true },
+    { "item_id": "a_secret_vow", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "pioneer_diver_of_dead_waters",
+    "scholar_lost_in_erudition",
+    "firesmith_of_lava_forging"
+  ],
+  "best_ornaments": [
+    "firmament_frontline_glamoth",
+    "rutilant_arena",
+    "space_sealing_station"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "fire_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": []
+}

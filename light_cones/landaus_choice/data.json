@@ -1,0 +1,33 @@
+{
+  "id": "landaus_choice",
+  "name": {
+    "en": "Landau's Choice",
+    "uk": "Вибір Ландау",
+    "ru": "Выбор Ландау"
+  },
+  "rarity": 4,
+  "path": "preservation",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "The wearer is more likely to be attacked, and DMG taken is reduced by 16-24%.",
+    "uk": "Імовірність бути атакованим для власника підвищується, а отримана ним шкода знижується на 16-24%.",
+    "ru": "Шанс владельца быть атакованным повышается, а получаемый им урон понижается на 16-24%."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/landaus_choice/art.png"
+  }
+}

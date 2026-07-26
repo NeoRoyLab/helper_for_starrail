@@ -1,0 +1,25 @@
+{
+  "id": "giant_tree_of_rapt_brooding",
+  "name": {
+    "en": "Giant Tree of Rapt Brooding",
+    "uk": "Древо глибоких роздумів",
+    "ru": "Древо глубоких раздумий"
+  },
+  "set_bonus": {
+    "2pc": {
+      "en": "Increases the wearer's SPD by 6%. When the wearer's SPD is 135/180 or higher, increases the wearer and their memosprite's Outgoing Healing by 12%/20%.",
+      "uk": "Підвищує швидкість власника на 6%. Якщо швидкість власника дорівнює або перевищує 135/180 од., вихідне зцілення власника та його духа пам'яті підвищується на 12%/20%.",
+      "ru": "Повышает скорость владельца на 6%. Если скорость владельца равна или превышает 135/180 ед., исходящее исцеление владельца и его духа памяти повышается на 12%/20%."
+    }
+  },
+  "sources": [
+    {
+      "en": "Divergent Universe: Unceasing Strife",
+      "uk": "Розбіжний всесвіт: Невпинна боротьба",
+      "ru": "Расходящаяся вселенная: Непрекращающаяся борьба"
+    }
+  ],
+  "assets": {
+    "icon": "ornaments/giant_tree_of_rapt_brooding/icon.png"
+  }
+}

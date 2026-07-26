@@ -1,0 +1,33 @@
+{
+  "id": "a_star_that_lights_the_night",
+  "name": {
+    "en": "A Star That Lights the Night",
+    "uk": "Зірка, що освітлює ніч",
+    "ru": "Звезда, озаряющая ночь"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 29,
+    "atk_max": 635,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "The wearer ignores 32-48% of the target's DEF when dealing DMG. When the wearer uses Assist Skill, they regenerate 6 Energy and gain \"Sail,\" lasting for 2 turns and stacking up to 3 times. Each stack of \"Sail\" increases Assist Skill DMG by 20-40%. When \"Sail\" reaches 3 stacks, each stack of \"Sail\" increases Ultimate DMG by 20-40%.",
+    "uk": "Коли власник завдає шкоди, він ігнорує 32-48% захисту цілі. Після використання допоміжної навички власник відновлює 6 од. енергії та отримує «Парус» на 2 ходи. Ефект складається до 3 разів. Кожен рівень «Паруса» підвищує шкоду допоміжної навички на 20-40%. Коли накопичено 3 рівні, кожен рівень також підвищує шкоду надздібності на 20-40%.",
+    "ru": "Когда владелец наносит урон, он игнорирует 32-48% защиты цели. После использования вспомогательного навыка владелец восстанавливает 6 ед. энергии и получает «Парус» на 2 хода. Эффект складывается до 3 раз. Каждый уровень «Паруса» повышает урон вспомогательного навыка на 20-40%. Когда накоплено 3 уровня, каждый уровень также повышает урон сверхспособности на 20-40%."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Стрибок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/a_star_that_lights_the_night/art.png"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "before_dawn",
+  "name": {
+    "en": "Before Dawn",
+    "uk": "До світанку",
+    "ru": "До рассвета"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 36-60%. Increases the wearer's Skill and Ultimate DMG by 18-30%. After the wearer uses their Skill or Ultimate, they gain Somnus Corpus. Upon triggering a Follow-up ATK, Somnus Corpus will be consumed and the Follow-up ATK DMG increases by 48-80%.",
+    "uk": "Підвищує критичну шкоду власника на 36-60%. Підвищує шкоду навички та надздібності власника на 18-30%. Після використання навички або надздібності власник отримує статус «Спляче тіло». Після виконання бонус-атаки цей статус витрачається, а шкода бонус-атаки підвищується на 48-80%.",
+    "ru": "Повышает крит. урон владельца на 36-60%. Повышает урон навыка и сверхспособности владельца на 18-30%. После использования навыка или сверхспособности владелец получает статус Спящее тело. После выполнения бонус-атаки этот статус расходуется, а урон бонус-атаки повышается на 48-80%."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/before_dawn/art.png"
+  }
+}

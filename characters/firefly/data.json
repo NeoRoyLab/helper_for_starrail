@@ -1,0 +1,69 @@
+{
+  "id": "firefly",
+  "name": {
+    "en": "Firefly",
+    "uk": "Світлячок",
+    "ru": "Светлячок"
+  },
+  "rarity": 5,
+  "element": "fire",
+  "path": "the_destruction",
+  "description": {
+    "en": "A member of the Stellaron Hunters, clad in a set of mechanized armor known as \"SAM.\" Her character is marked by unwavering loyalty and steely resolve. Engineered as a weapon against the Swarm, she experiences accelerated growth, but a tragically shortened lifespan. She joined the Stellaron Hunters in a quest for a chance at \"life,\" seeking to defy her fated demise.",
+    "uk": "Одна з Мисливців за Стеларонами. Носить механізовані обладунки, відомі під назвою «Сем». Вирізняється непохитною відданістю та рішучістю. Вона росте значно швидше за звичайну людину, адже була створена як зброя для боротьби проти Рою, але водночас її життя надзвичайно коротке. До лав Мисливців вона вступила з надією знайти спосіб змінити власну долю.",
+    "ru": "Одна из Охотников за Стелларонами. Носит механизированные доспехи, известные под названием «Сэм». Отличается непоколебимой преданностью и решительностью. Растёт она намного быстрее, чем обычный человек, ведь она была спроектирована как оружие для борьбы против Роя, но при этом срок её жизни весьма короткий. В ряды Охотников она вступила в надежде отыскать способ переломить ход собственной судьбы."
+  },
+  "assets": {
+    "portrait": "characters/firefly/portrait.png",
+    "thumbnail": "characters/firefly/thumb.png"
+  },
+  "stats": {
+    "hp": 814,
+    "atk": 523,
+    "def": 776,
+    "spd": 104,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "tatters_of_thought",
+    "ascension_unique": "raging_heart",
+    "trace_group": "borisin_teeth",
+    "trace_unique": "lost_echo_of_the_shared_wish"
+  },
+  "best_light_cones": [
+    { "item_id": "whereabouts_should_dreams_rest", "rarity": 5, "is_best": true },
+    { "item_id": "indelible_promise", "rarity": 4, "is_best": true },
+    { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": false },
+    { "item_id": "on_the_fall_of_an_aeon", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "iron_cavalry_against_the_scourge",
+    "thief_of_shooting_meteor"
+  ],
+  "best_ornaments": [
+    "forge_of_the_kalpagni_lantern",
+    "talia_kingdom_of_banditry"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "atk_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "break_effect" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "break_effect", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "bronya"
+  ]
+}

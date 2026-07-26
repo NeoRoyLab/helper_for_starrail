@@ -1,0 +1,76 @@
+{
+  "id": "dan_heng_imbibitor_lunae",
+  "name": {
+    "en": "Dan Heng • Imbibitor Lunae",
+    "uk": "Дань Хен: Пожирач Місяця",
+    "ru": "Дань Хэн: Пожиратель Луны"
+  },
+  "rarity": 5,
+  "element": "imaginary",
+  "path": "the_destruction",
+  "description": {
+    "en": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae. Upon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner. But he will forever remain Dan Heng himself.",
+    "uk": "Справжня форма Дань Хена з роду відьядхара несе залишкову силу його минулого втілення — Пожирача Місяця. Приймаючи величні роги, що увінчують його голову, він мусить прийняти всі чесноти й провини того грішника. Та він назавжди залишиться лише самим собою.",
+    "ru": "Дань Хэн принял силу его прошлого воплощения — Пожирателя Луны, что раскрывает истинный облик видьядхара. Тот, кто принимает величественную корону из рогов, принимает все достоинства и недостатки того человека. Но он навсегда останется лишь самим собой."
+  },
+  "assets": {
+    "portrait": "characters/dan_heng_imbibitor_lunae/portrait.png",
+    "thumbnail": "characters/dan_heng_imbibitor_lunae/thumb.png"
+  },
+  "stats": {
+    "hp": 1241,
+    "atk": 698,
+    "def": 363,
+    "spd": 102,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "immortal_scionette",
+    "ascension_unique": "suppressing_edict",
+    "trace_group": "shattered_blade",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": true },
+    { "item_id": "under_the_blue_sky", "rarity": 4, "is_best": true },
+    { "item_id": "brighter_than_the_sun", "rarity": 5, "is_best": false },
+    { "item_id": "on_the_fall_of_an_aeon", "rarity": 5, "is_best": false },
+    { "item_id": "something_irreplaceable", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "poet_of_mourning_collapse",
+    "wastelander_of_banditry_desert",
+    "musketeer_of_wild_wheat"
+  ],
+  "best_ornaments": [
+    "rutilant_arena",
+    "tengoku_livestream",
+    "firmament_frontline_glamoth"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_dmg", "sep": ">=" },
+      { "id": "crit_rate" }
+    ],
+    "feet": [
+      { "id": "atk_percent", "sep": ">" },
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "imaginary_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "bronya",
+    "aventurine"
+  ]
+}

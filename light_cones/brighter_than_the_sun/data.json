@@ -1,0 +1,29 @@
+{
+  "id": "brighter_than_the_sun",
+  "name": {
+    "en": "Brighter Than the Sun",
+    "uk": "Яскравіше за сонце",
+    "ru": "Ярче солнца"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 18-30%. When the wearer uses their Basic ATK, they gain 1 stack of \"Dragon's Call,\" lasting for 2 turns. Each stack of \"Dragon's Call\" increases the wearer's ATK by 18-30% and Energy Regeneration Rate by 6-10%. \"Dragon's Call\" can stack up to 2 times.",
+    "uk": "Підвищує крит. шанс власника на 18-30%. Коли власник використовує базову атаку, він отримує 1 рівень статусу «Поклик дракона» на 2 ходи. Кожен рівень «Поклику дракона» підвищує силу атаки власника на 18-30% і швидкість відновлення енергії на 6-10%. Статус може складатися до 2 разів.",
+    "ru": "Крит. шанс владельца повышается на 18-30%. Когда владелец использует базовую атаку, он получает 1 ур. статуса «Зов дракона» на 2 хода. Каждый уровень статуса «Зов дракона» повышает силу атаки владельца на 18-30% и скорость восстановления энергии на 6-10%. Статус «Зов дракона» может складываться до 2 раз."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }
+  ],
+  "assets": {
+    "art": "light_cones/brighter_than_the_sun/art.png"
+  }
+}

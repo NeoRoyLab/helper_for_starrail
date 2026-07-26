@@ -1,0 +1,33 @@
+{
+  "id": "eternal_calculus",
+  "name": {
+    "en": "Eternal Calculus",
+    "uk": "Безперервні обчислення",
+    "ru": "Беспрерывные вычисления"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 8-12%. After using an attack, for each enemy target hit, additionally increases ATK by 4-8%. This effect can stack up to 5 times and lasts until the next attack. If there are 3 or more enemy targets hit, this unit's SPD increases by 8-16% for 1 turn.",
+    "uk": "Підвищує силу атаки власника на 8-12%. Після використання атаки за кожну уражену ціль сила атаки додатково підвищується на 4-8%. Ефект може складатися до 5 разів і триває до наступної атаки. Якщо уражено 3 або більше цілей, швидкість власника підвищується на 8-16% на 1 хід.",
+    "ru": "Повышает силу атаки владельца на 8-12%. После использования атаки за каждую поражённую цель сила атаки дополнительно повышается на 4-8%. Этот эффект может складываться до 5 раз и длится до следующей атаки. Если поражено 3 или больше целей, скорость владельца повышается на 8-16% на 1 ход."
+  },
+  "sources": [
+    {
+      "en": "Herta's Store",
+      "uk": "Магазин Герти",
+      "ru": "Магазин Герты"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/eternal_calculus/art.png"
+  }
+}

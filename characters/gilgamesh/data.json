@@ -1,0 +1,71 @@
+{
+  "id": "gilgamesh",
+  "name": {
+    "en": "Gilgamesh",
+    "uk": "Гільгамеш",
+    "ru": "Гильгамеш"
+  },
+  "rarity": 5,
+  "element": "lightning",
+  "path": "the_destruction",
+  "description": {
+    "en": "The King of Heroes from the dawn of human history, hailing from a world beyond the stars. Possessing a nature two-thirds divine and one-third mortal, he claims a natural-born prerogative to rule over all of creation. Laughing out loud today as always, right up until getting dragged into another world by some adversarial Goddess— This time, he will once again reclaim everything that is rightfully his as king.",
+    "uk": "Король Героїв на зорі людства, родом зі світу за межами зірок. На дві третини бог і на одну третину людина, він вважає, що має природжене право панувати над усім сущим. Сьогодні, як і завжди, лунав його гучний сміх, аж доки якась ворожа богиня не затягнула його до іншого світу... Цього разу він знову поверне собі все, що належить йому як королю.",
+    "ru": "Родом из мира за пределами звёзд, Король Героев на заре человечества. На две трети бог, на одну треть человек, он считает, что обладает врождённой привилегией править всем сущим. Сегодня, как и всегда, раздавался громкий смех, пока некая враждебная богиня не утащила в другой мир... В этот раз он вновь вернёт себе всё, что принадлежит ему как королю."
+  },
+  "assets": {
+    "portrait": "characters/gilgamesh/portrait.png",
+    "thumbnail": "characters/gilgamesh/thumb.png"
+  },
+  "stats": {
+    "hp": 1124,
+    "atk": 717,
+    "def": 509,
+    "spd": 97,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "thunder_strum",
+    "trace_group": "four_phases_crossing_the_river_to_check_the_king",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "i_am_as_you_behold", "rarity": 5, "is_best": true },
+    { "item_id": "a_trail_of_bygone_blood", "rarity": 4, "is_best": true },
+    { "item_id": "a_thankless_coronation", "rarity": 5, "is_best": false },
+    { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": false },
+    { "item_id": "on_the_fall_of_an_aeon", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "genius_of_brilliant_stars",
+    "the_ashblazing_grand_duke",
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "cosmic_life_sciences_institute",
+    "city_of_converging_stars",
+    "izumo_gensei_and_takama_divine_realm"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate" }
+    ],
+    "feet": [
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "lightning_dmg" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "crit_rate", "sep": ">" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": ">" },
+    { "id": "speed", "sep": "" }
+  ],
+  "synergy": []
+}

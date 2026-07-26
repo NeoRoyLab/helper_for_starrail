@@ -1,0 +1,72 @@
+{
+  "id": "huohuo",
+  "name": {
+    "en": "Huohuo",
+    "uk": "Хохо",
+    "ru": "Хохо"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_abundance",
+  "description": {
+    "en": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus. She is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits.",
+    "uk": "Стажистка-суддя Комісії десяти владик Лофу Сяньчжоу, юна лисиця, одержима геліобусом. Вона боязка й слабка дівчина, яка боїться всіляких дивних речей, але відповідає за виманювання та приборкання злих духів.",
+    "ru": "Стажёр-судья Комиссии десяти владык Лофу Сяньчжоу, юная лисица, одержимая гелиобусом. Она робкая и слабая девушка, которая боится всевозможных странностей, но отвечает за выманивание и усмирение злых духов."
+  },
+  "assets": {
+    "portrait": "characters/huohuo/portrait.png",
+    "thumbnail": "characters/huohuo/thumb.png"
+  },
+  "stats": {
+    "hp": 1358,
+    "atk": 601,
+    "def": 509,
+    "spd": 98,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "immortal_scionette",
+    "ascension_unique": "ascendant_debris",
+    "trace_group": "seed_of_abundance",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "night_of_fright", "rarity": 5, "is_best": true },
+    { "item_id": "post_op_conversation", "rarity": 4, "is_best": true },
+    { "item_id": "shared_feeling", "rarity": 4, "is_best": false },
+    { "item_id": "quid_pro_quo", "rarity": 4, "is_best": false },
+    { "item_id": "unto_tomorrows_morrow", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "warrior_goddess_of_sun_and_thunder",
+    "messenger_traversing_hackerspace",
+    "passerby_of_wandering_cloud"
+  ],
+  "best_ornaments": [
+    "lushaka_the_sunken_seas",
+    "broken_keel",
+    "fleet_of_the_ageless"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "outgoing_healing", "sep": ">" },
+      { "id": "hp_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "hp_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "hp_percent", "sep": ">" },
+    { "id": "effect_res", "sep": "=" },
+    { "id": "def_percent", "sep": "" }
+  ],
+  "synergy": ["aglaea", "argenti"]
+}

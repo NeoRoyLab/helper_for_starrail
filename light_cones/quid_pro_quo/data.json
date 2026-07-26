@@ -1,0 +1,33 @@
+{
+  "id": "quid_pro_quo",
+  "name": {
+    "en": "Quid Pro Quo",
+    "uk": "Рівноцінний обмін",
+    "ru": "Равноценный обмен"
+  },
+  "rarity": 4,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "At the start of the wearer's turn, regenerates 8-16 Energy for a randomly chosen ally, excluding the wearer, whose current Energy is lower than 50%.",
+    "uk": "На початку ходу власника відновлює 8-16 од. енергії випадковому союзнику, крім власника, чия поточна енергія нижча за 50%.",
+    "ru": "В начале хода владельца восстанавливает 8-16 ед. энергии случайному союзнику, кроме владельца, чья текущая энергия ниже 50%."
+  },
+  "sources": [
+    {
+      "en": "Light Cone Manifest",
+      "uk": "Пасаж Світлових конусів",
+      "ru": "Пассаж Световых конусов"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/quid_pro_quo/art.png"
+  }
+}

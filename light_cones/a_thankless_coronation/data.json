@@ -1,0 +1,33 @@
+{
+  "id": "a_thankless_coronation",
+  "name": {
+    "en": "A Thankless Coronation",
+    "uk": "Коронація без відплати",
+    "ru": "Коронация без воздаяния"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 36-72%. When using Ultimate, increases the wearer's ATK by 40-80%, and if the wearer's Max Energy is greater than or equal to 300, regenerates a fixed amount of Energy equal to 10% of the wearer's Max Energy and once again increases the wearer's ATK by 40-80%, lasting for 2 turns.",
+    "uk": "Підвищує критичну шкоду власника на 36-72%. Використання надздібності підвищує силу атаки власника на 40-80%. Якщо максимальна енергія власника більша або дорівнює 300, він відновлює фіксовану кількість енергії, що дорівнює 10% від його максимальної енергії, і його сила атаки повторно підвищується на 40-80% на 2 ходи.",
+    "ru": "Крит. урон владельца повышается на 36-72%. Использование сверхспособности владельца повышает его силу атаки на 40-80%. Если макс. энергия владельца выше или равна 300 ед., то он восстанавливает фиксированное количество энергии, равное 10% от своей макс. энергии, и его сила атаки повторно повышается на 40-80% на 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/a_thankless_coronation/art.png"
+  }
+}

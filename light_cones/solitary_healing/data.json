@@ -1,0 +1,33 @@
+{
+  "id": "solitary_healing",
+  "name": {
+    "en": "Solitary Healing",
+    "uk": "Самотнє зцілення",
+    "ru": "Одинокое исцеление"
+  },
+  "rarity": 5,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 20-40%. When the wearer uses their Ultimate, increases DoT dealt by the wearer by 24-48%, lasting for 2 turns. When a target enemy suffering from DoT imposed by the wearer is defeated, regenerates 4-6 Energy for the wearer.",
+    "uk": "Підвищує ефект пробиття власника на 20-40%. Коли власник використовує надздібність, завдана ним періодична шкода підвищується на 24-48% на 2 ходи. Перемога над противником із накладеним власником ефектом періодичної шкоди відновлює власнику 4-6 од. енергії.",
+    "ru": "Эффект пробития владельца повышается на 20-40%. Когда владелец использует сверхспособность, наносимый им периодический урон повышается на 24-48% на 2 хода. Победа над противником с наложенным эффектом периодического урона от владельца восстанавливает 4-6 ед. его энергии."
+  },
+  "sources": [
+    {
+      "en": "Herta's Store",
+      "uk": "Магазин Герти",
+      "ru": "Магазин Герты"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/solitary_healing/art.png"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "whereabouts_should_dreams_rest",
+  "name": {
+    "en": "Whereabouts Should Dreams Rest",
+    "uk": "Куди повертаються сни",
+    "ru": "Куда возвращаются сны"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 60-100%. When the wearer deals Break DMG to an enemy target, inflicts \"Routed\" on the enemy, lasting for 2 turns. Targets afflicted with \"Routed\" receive 24-40% increased Break DMG from the wearer, and their SPD is lowered by 20%. Effects of the same type cannot stack.",
+    "uk": "Підвищує ефект пробиття власника на 60-100%. Коли власник завдає противнику шкоди пробиття, ціль отримує статус «Розгром» на 2 ходи. Шкода пробиття власника по цілях зі статусом «Розгром» підвищується на 24-40%, а їхня швидкість знижується на 20%. Ефекти одного типу не складаються.",
+    "ru": "Эффект пробития владельца повышается на 60-100%. Когда владелец наносит урон пробития противнику, цель получает статус Разгром на 2 хода. Урон пробития владельца, наносимый целям со статусом Разгром, повышается на 24-40%, а их скорость понижается на 20%. Эффекты подобного типа не могут складываться."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/whereabouts_should_dreams_rest/art.png"
+  }
+}

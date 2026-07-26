@@ -1,0 +1,33 @@
+{
+  "id": "i_venture_forth_to_hunt",
+  "name": {
+    "en": "I Venture Forth to Hunt",
+    "uk": "Я вирушаю на полювання",
+    "ru": "Я отправляюсь на охоту"
+  },
+  "rarity": 5,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 15-25%. When the wearer launches a follow-up attack, gains 1 stack of \"Luminflux,\" stacking up to 2 times. Each stack of \"Luminflux\" enables the Ultimate DMG dealt by the wearer to ignore 27-39% of the target's DEF. When the wearer's turn ends, removes 1 stack of \"Luminflux.\"",
+    "uk": "Підвищує крит. шанс власника на 15-25%. Коли власник виконує бонус-атаку, він отримує 1 рівень статусу «Плин світла», що складається до 2 разів. Кожен рівень цього статусу дає змогу шкоді надздібності власника ігнорувати 27-39% захисту цілі. Наприкінці ходу власник втрачає 1 рівень статусу «Плин світла».",
+    "ru": "Крит. шанс владельца повышается на 15-25%. Когда владелец выполняет бонус-атаку, он получает 1 ур. статуса Течение света до макс. 2 ур. Каждый уровень этого статуса позволяет урону сверхспособности владельца игнорировать 27-39% защиты цели. Когда ход владельца заканчивается, он теряет 1 ур. статуса Течение света."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/i_venture_forth_to_hunt/art.png"
+  }
+}

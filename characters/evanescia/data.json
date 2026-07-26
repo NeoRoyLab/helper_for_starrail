@@ -1,0 +1,69 @@
+{
+  "id": "evanescia",
+  "name": {
+    "en": "Evanescia",
+    "uk": "Еванесса",
+    "ru": "Эванесса"
+  },
+  "rarity": 5,
+  "element": "physical",
+  "path": "the_elation",
+  "description": {
+    "en": "One season of Phantasmoon waxing full, one season of mortal ephemerality: the mysterious lady has appeared in Planarcadia once more! Fallen petals scatter with ease, and her stay was but a fleeting instant. Everything about this new era enthralls her, and she will not allow anyone to bring it to ruin... A cutter adjudicates right and wrong, but who can say how much good or evil lies within oneself?",
+    "uk": "В один сезон зійшла повна Фантана, в один сезон настали зміни для смертних: таємнича дівчина знову з’явилася у Двовимір’ї! Пелюстки легко опадають, а її перебування тут швидкоплинне. Усе в цій новій епосі захоплює її, і вона нікому не дозволить це зруйнувати... Лінійкою можна виміряти правильне й грішне, але хто скаже, скільки добра чи зла приховано всередині?",
+    "ru": "В один сезон взошла полная фантана, в один сезон настали перемены для смертных: таинственная девушка вновь появилась в Двумернии! С лёгкостью опадают лепестки, и её пребывание здесь мимолётно. Всё в этой новой эпохе завораживает её, и никто это не разрушит... Линейкой можно измерить правильное и грешное, но кто может сказать, сколько добра или зла таится внутри?"
+  },
+  "assets": {
+    "portrait": "characters/evanescia/portrait.png",
+    "thumbnail": "characters/evanescia/thumb.png"
+  },
+  "stats": {
+    "hp": 1051,
+    "atk": 737,
+    "def": 460,
+    "spd": 104,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "whimsy_wax",
+    "ascension_unique": "invasive_clot",
+    "trace_group": "the_fluffy_hand-drawn_storyboards",
+    "trace_unique": "vanquished_flows_reticence"
+  },
+  "best_light_cones": [
+    { "item_id": "until_the_flowers_bloom_again", "rarity": 5, "is_best": true },
+    { "item_id": "todays_good_luck", "rarity": 4, "is_best": true },
+    { "item_id": "dazzled_flowery", "rarity": 5, "is_best": false },
+    { "item_id": "mushy_shroomys_adventures", "rarity": 4, "is_best": false },
+    { "item_id": "tomorrow_together", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "ever_glorious_magical_girl"
+  ],
+  "best_ornaments": [
+    "punklorde_stage_zero"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "physical_dmg", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "crit_rate", "sep": ">" },
+    { "id": "crit_dmg", "sep": "" }
+  ],
+  "synergy": [
+    "cyrene"
+  ]
+}

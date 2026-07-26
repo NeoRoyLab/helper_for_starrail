@@ -1,0 +1,33 @@
+{
+  "id": "i_am_as_you_behold",
+  "name": {
+    "en": "I Am As You Behold",
+    "uk": "Я — все, що перед поглядом",
+    "ru": "Я — всё, что пред взором"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 18-30% and Energy Regeneration Rate by 10-20%. When the wearer uses Ultimate, for every 1 Energy consumed, increases the Ultimate DMG dealt this time by 0.20-0.40%, up to a max increase of 72-144%. When the wearer enters combat or uses Ultimate, the wearer gains \"King's Entertainment,\" lasting for 3 turns. While the wearer holds \"King's Entertainment,\" increases all allies' CRIT DMG by 24-48%. Effects of the same type cannot stack.",
+    "uk": "Підвищує силу атаки власника на 18-30%, а швидкість відновлення енергії — на 10-20%. Коли власник використовує надздібність, за кожну одиницю витраченої енергії завдана цією надздібністю шкода підвищується на 0,20-0,40%, максимум на 72-144%. Коли власник вступає в бій або використовує надздібність, він отримує статус «Розвага короля» на 3 ходи. Поки власник має статус «Розвага короля», критична шкода всіх союзників підвищується на 24-48%. Ефекти цього типу не складаються.",
+    "ru": "Повышает силу атаки владельца на 18-30%, а скорость восстановления энергии — на 10-20%. Когда владелец использует сверхспособность, урон сверхспособности в этот раз повышается на 0,20-0,40% за каждую единицу потраченной энергии, до макс. 72-144%. Когда владелец вступает в бой или использует сверхспособность, он получает статус «Развлечение короля» на 3 хода. Пока владелец обладает статусом «Развлечение короля», крит. урон всех союзников повышается на 24-48%. Эффекты подобного типа не могут складываться."
+  },
+  "sources": [
+    {
+      "en": "Fate/stay night Collaboration Event",
+      "uk": "Подія колаборації Fate/stay night",
+      "ru": "Событие коллаборации Fate/stay night"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/i_am_as_you_behold/art.png"
+  }
+}

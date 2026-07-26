@@ -1,0 +1,33 @@
+{
+  "id": "scent_alone_stays_true",
+  "name": {
+    "en": "Scent Alone Stays True",
+    "uk": "Лиш аромат залишається",
+    "ru": "Останется лишь аромат"
+  },
+  "rarity": 5,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 60-100%. After the wearer uses Ultimate to attack enemy targets, inflicts them with \"Woefree\" for 2 turns. While in \"Woefree,\" enemy targets take 10-18% increased DMG. The effect of increasing DMG taken is additionally boosted by 8-16% if the wearer's current Break Effect is 150% or higher.",
+    "uk": "Підвищує ефект пробиття власника на 60-100%. Після того як власник використовує надздібність для атаки противників, він накладає на них статус «Безтурботність» на 2 ходи. Отримана противниками з цим статусом шкода підвищується на 10-18%. Якщо поточний ефект пробиття власника не нижчий за 150%, отримана противниками шкода додатково підвищується на 8-16%.",
+    "ru": "Эффект пробития владельца повышается на 60-100%. После того как владелец использует сверхспособность для атаки противника, он накладывает на него статус Беззаботность на 2 хода. Получаемый противником с этим статусом урон повышается на 10-18%. Если текущий эффект пробития владельца выше или равен 150%, то получаемый противником урон повышается на доп. 8-16%."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/scent_alone_stays_true/art.png"
+  }
+}
