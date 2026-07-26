@@ -1,0 +1,38 @@
+{
+  "id": "adversarial",
+  "name": {
+    "en": "Adversarial",
+    "uk": "Протистояння",
+    "ru": "Противостояние"
+  },
+  "rarity": 3,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 33,
+    "hp_max": 740,
+    "atk_min": 16,
+    "atk_max": 370,
+    "def_min": 12,
+    "def_max": 264
+  },
+  "description": {
+    "en": "When the wearer defeats an enemy, increases SPD by 10-18% for 2 turns.",
+    "uk": "Коли власник перемагає противника, його швидкість підвищується на 10-18% на 2 ходи.",
+    "ru": "Когда владелец побеждает противника, его скорость повышается на 10-18% на 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    },
+    {
+      "en": "Chests",
+      "uk": "Скрині",
+      "ru": "Сундуки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/adversarial/art.png"
+  }
+}

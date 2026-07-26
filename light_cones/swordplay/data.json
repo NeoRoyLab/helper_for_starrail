@@ -1,0 +1,33 @@
+{
+  "id": "swordplay",
+  "name": {
+    "en": "Swordplay",
+    "uk": "Фехтування",
+    "ru": "Фехтование"
+  },
+  "rarity": 4,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "For each time the wearer hits the same target, DMG dealt increases by 8-16%, stacking up to 5 times. This effect is dispelled when the wearer changes targets.",
+    "uk": "Щоразу, коли власник влучає в одну й ту саму ціль, завдана ним шкода підвищується на 8-16%. Ефект складається до 5 разів і знімається, коли власник змінює ціль.",
+    "ru": "Каждый раз, когда владелец поражает одного и того же противника, наносимый им урон повышается на 8-16%. Эффект складывается до 5 раз и снимается, когда владелец меняет цель."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/swordplay/art.png"
+  }
+}

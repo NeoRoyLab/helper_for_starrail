@@ -1,0 +1,33 @@
+{
+  "id": "shadowed_by_night",
+  "name": {
+    "en": "Shadowed by Night",
+    "uk": "Прихований у нічній тіні",
+    "ru": "Скрытый в ночной тени"
+  },
+  "rarity": 4,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 28-56%. When entering battle or after dealing Break DMG, increases SPD by 8-12% for 2 turns. This effect can only trigger once per turn.",
+    "uk": "Підвищує ефект пробиття власника на 28-56%. На початку бою або після завдання шкоди пробиття його швидкість підвищується на 8-12% на 2 ходи. Цей ефект може спрацювати лише один раз за хід.",
+    "ru": "Эффект пробития владельца повышается на 28-56%. В начале боя или после нанесения урона пробития его скорость повышается на 8-12% на 2 хода. Этот эффект может сработать только 1 раз за ход."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/shadowed_by_night/art.png"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "boothill",
+  "name": {
+    "en": "Boothill",
+    "uk": "Бутхілл",
+    "ru": "Бутхилл"
+  },
+  "rarity": 5,
+  "element": "physical",
+  "path": "the_hunt",
+  "description": {
+    "en": "A cyborg cowboy drifting among the stars. Extremely optimistic and unrestrained. He is a member of the Galaxy Rangers who swore to punish the wretched by any and all means... His flamboyant and brash actions were all to draw the attention of the Interastral Peace Corporation — the target of his revenge.",
+    "uk": "Кіборг-ковбой, який мандрує серед зірок. Неймовірно оптимістичний і вільний. Він один із Галактичних рейнджерів, які поклялися карати негідників будь-якими засобами... Мета його зухвалої поведінки — привернути увагу Корпорації міжзоряного миру, якій він прагне помститися.",
+    "ru": "Киборг-ковбой, скитающийся среди звёзд. Невероятно оптимистичен и свободен. Он один из Галактических рейнджеров, поклявшихся наказать отпетых негодяев любыми способами... Цель его дерзкого поведения — привлечь внимание Корпорации межзвёздного мира, которой он жаждет отомстить."
+  },
+  "assets": {
+    "portrait": "characters/boothill/portrait.png",
+    "thumbnail": "characters/boothill/thumb.png"
+  },
+  "stats": {
+    "hp": 1203,
+    "atk": 620,
+    "def": 436,
+    "spd": 107,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "tatters_of_thought",
+    "ascension_unique": "ipc_work_permit",
+    "trace_group": "meteoric_bullet",
+    "trace_unique": "lost_echo_of_the_shared_wish"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "sailing_towards_a_second_life",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "shadowed_by_night",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "adversarial",
+      "rarity": 3,
+      "is_best": false
+    },
+    {
+      "item_id": "river_flows_in_spring",
+      "rarity": 4,
+      "is_best": false
+    },
+    {
+      "item_id": "swordplay",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "iron_cavalry_against_the_scourge",
+    "thief_of_shooting_meteor",
+    "eagle_of_twilight_line"
+  ],
+  "best_ornaments": [
+    "talia_kingdom_of_banditry",
+    "forge_of_the_kalpagni_lantern"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "hp_percent",
+        "sep": ">="
+      },
+      {
+        "id": "def_percent"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "hp_percent",
+        "sep": ">="
+      },
+      {
+        "id": "def_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "break_effect"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">="
+    },
+    {
+      "id": "break_effect",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "the_dahlia",
+    "tingyun_fugue",
+    "sunday",
+    "ruan_mei"
+  ]
+}

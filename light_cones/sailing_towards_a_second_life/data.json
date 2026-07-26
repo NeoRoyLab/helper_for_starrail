@@ -1,0 +1,33 @@
+{
+  "id": "sailing_towards_a_second_life",
+  "name": {
+    "en": "Sailing Towards a Second Life",
+    "uk": "Відплиття до другого життя",
+    "ru": "Отплытие ко второй жизни"
+  },
+  "rarity": 5,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 60-100%. The Break DMG dealt by the wearer ignores 20-32% of the target's DEF. When the wearer's Break Effect in battle is at 150% or greater, increases their SPD by 12-20%.",
+    "uk": "Підвищує ефект пробиття власника на 60-100%. Завдана власником шкода пробиття ігнорує 20-32% захисту цілі. Якщо ефект пробиття власника в бою становить 150% або більше, його швидкість підвищується на 12-20%.",
+    "ru": "Эффект пробития владельца повышается на 60-100%. Наносимый владельцем урон пробития игнорирует 20-32% защиты цели. Если эффект пробития владельца в бою выше или равен 150%, то его скорость повышается на 12-20%."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/sailing_towards_a_second_life/art.png"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "river_flows_in_spring",
+  "name": {
+    "en": "River Flows in Spring",
+    "uk": "Весняні потоки річок",
+    "ru": "Весенние потоки рек"
+  },
+  "rarity": 4,
+  "path": "hunt",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "After entering battle, increases the wearer's SPD by 8-12% and DMG by 12-24%. When the wearer takes DMG, this effect disappears. It resumes after the end of the wearer's next turn.",
+    "uk": "Після вступу в бій швидкість власника підвищується на 8-12%, а його шкода — на 12-24%. Коли власник отримує шкоду, цей ефект зникає. Він відновлюється після завершення наступного ходу власника.",
+    "ru": "После вступления в бой скорость владельца повышается на 8-12%, а его урон — на 12-24%. Когда владелец получает урон, этот эффект исчезает. Он возобновляется после окончания следующего хода владельца."
+  },
+  "sources": [
+    {
+      "en": "Operation Briefing",
+      "uk": "Інструктаж операції",
+      "ru": "Инструктаж операции"
+    },
+    {
+      "en": "Echo of War",
+      "uk": "Відлуння війни",
+      "ru": "Эхо войны"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/river_flows_in_spring/art.png"
+  }
+}
