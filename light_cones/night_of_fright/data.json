@@ -1,0 +1,33 @@
+{
+  "id": "night_of_fright",
+  "name": {
+    "en": "Night of Fright",
+    "uk": "Ніч жахів",
+    "ru": "Ночь страха"
+  },
+  "rarity": 5,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's Energy Regeneration Rate by 12-20%. When any ally uses their Ultimate, the wearer restores HP for the ally currently with the lowest HP percentage by an amount equal to 10-14% of the healed ally's Max HP. When the wearer provides healing for an ally, increases the healed ally's ATK by 2.4-4.0%. This effect can stack up to 5 times and lasts for 2 turn(s).",
+    "uk": "Підвищує швидкість відновлення енергії власника на 12-20%. Коли союзник використовує надздібність, власник відновлює 10-14% макс. HP союзнику з найнижчим відсотком HP. Коли власник зцілює союзника, сила атаки цього союзника підвищується на 2,4-4,0%. Ефект складається до 5 разів і триває 2 ходи.",
+    "ru": "Скорость восстановления энергии владельца повышается на 12-20%. Когда союзник использует сверхспособность, владелец восстанавливает 10-14% HP союзника с самым низким процентом HP. Когда владелец исцеляет союзника, сила атаки этого союзника повышается на 2,4-4,0%. Этот эффект может складываться до 5 раз и длится 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Стрибок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/night_of_fright/art.png"
+  }
+}

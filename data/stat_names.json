@@ -89,6 +89,12 @@
       "en": "Imaginary DMG",
       "uk": "Уявна шкода",
       "ru": "Мнимый урон"
+    },
+    {
+      "id": "outgoing_healing",
+      "en": "Outgoing Healing",
+      "uk": "Вихідне зцілення",
+      "ru": "Исходящее исцеление"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "id": "reforged_remembrance",
+  "name": {
+    "en": "Reforged Remembrance",
+    "uk": "Змінені спогади",
+    "ru": "Изменённые воспоминания"
+  },
+  "rarity": 5,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's Effect Hit Rate by 40-60%. When the wearer deals DMG to an enemy inflicted with Wind Shear, Burn, Shock, or Bleed, each respectively grants 1 stack of Prophet, stacking up to 4 times. In a single battle, only 1 stack can be granted for each type of DoT. Every stack increases the wearer's ATK by 5-9% and enables the DoT dealt to ignore 7.2-10.0% of the target's DEF.",
+    "uk": "Підвищує шанс влучання ефектів власника на 40-60%. Коли власник завдає шкоди противнику зі статусом Вивітрювання, Горіння, Шок або Кровотеча, кожен із них надає 1 рівень статусу Провісник, що складається до 4 разів. За бій кожен тип періодичної шкоди може надати лише 1 рівень. Кожен рівень підвищує силу атаки власника на 5-9% і дає періодичній шкоді ігнорувати 7,2-10,0% захисту цілі.",
+    "ru": "Шанс попадания эффектов владельца повышается на 40-60%. Когда владелец наносит урон противнику со статусами Выветривание, Горение, Шок или Кровотечение, он получает по 1 ур. статуса Предсказатель. Этот эффект может складываться до 4 раз. В течение одного боя каждый тип периодического урона может добавить только 1 ур. статуса Предсказатель. Каждый уровень этого статуса повышает силу атаки владельца на 5-9%, а также позволяет периодическому урону игнорировать 7,2-10,0% защиты цели."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Стрибок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/reforged_remembrance/art.png"
+  }
+}

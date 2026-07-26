@@ -1,0 +1,33 @@
+{
+  "id": "perfect_timing",
+  "name": {
+    "en": "Perfect Timing",
+    "uk": "Ідеальний час",
+    "ru": "Идеальное время"
+  },
+  "rarity": 4,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Effect RES by 16-32% and increases Outgoing Healing by an amount equal to 33-45% of Effect RES. Outgoing Healing can be increased this way by up to 15-27%.",
+    "uk": "Підвищує опір ефектам власника на 16-32% і вихідне зцілення на 33-45% від його опору ефектам. Вихідне зцілення може бути підвищене таким чином максимум на 15-27%.",
+    "ru": "Сопротивление эффектам владельца повышается на 16-32%. Исходящее исцеление владельца повышается на 33-45% от сопротивления эффектам владельца до макс. 15-27%."
+  },
+  "sources": [
+    {
+      "en": "Warps",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/perfect_timing/art.png"
+  }
+}

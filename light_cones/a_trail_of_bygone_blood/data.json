@@ -1,0 +1,33 @@
+{
+  "id": "a_trail_of_bygone_blood",
+  "name": {
+    "en": "A Trail of Bygone Blood",
+    "uk": "Слід минулої крові",
+    "ru": "Кровь прошлого"
+  },
+  "rarity": 4,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 12-20%. The Skill DMG and Ultimate DMG dealt by the wearer increase by 24-40%.",
+    "uk": "Збільшує шанс критичного влучання власника на 12-20%. Шкода навички та надздібності власника збільшується на 24-40%.",
+    "ru": "Повышает шанс крит. попадания владельца на 12-20%. Урон навыка и сверхспособности владельца повышается на 24-40%."
+  },
+  "sources": [
+    {
+      "en": "Nameless Honor",
+      "uk": "Честь Безіменних",
+      "ru": "Честь Безымянных"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/a_trail_of_bygone_blood/art.png"
+  }
+}

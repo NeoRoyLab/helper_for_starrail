@@ -1,0 +1,33 @@
+{
+  "id": "eyes_of_the_prey",
+  "name": {
+    "en": "Eyes of the Prey",
+    "uk": "Погляд жертви",
+    "ru": "Взгляд жертвы"
+  },
+  "rarity": 4,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's Effect Hit Rate by 20-40% and increases DoT by 24-48%.",
+    "uk": "Підвищує шанс влучання ефектів власника на 20-40%, а його періодичну шкоду — на 24-48%.",
+    "ru": "Шанс попадания эффектов владельца повышается на 20-40%, и его периодический урон — на 24-48%."
+  },
+  "sources": [
+    {
+      "en": "Warps",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/eyes_of_the_prey/art.png"
+  }
+}

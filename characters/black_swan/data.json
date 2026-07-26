@@ -1,0 +1,111 @@
+{
+  "id": "black_swan",
+  "name": {
+    "en": "Black Swan",
+    "uk": "Чорний Лебідь",
+    "ru": "Чёрный Лебедь"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_nihility",
+  "description": {
+    "en": "A Memokeeper of the Garden of Recollection. A mysterious and elegant soothsayer. She often wears a warm smile and is willing to patiently listen to the words of others, thus using such means as a pretext to enter \"memories\" and gain omniscience over certain matters. A lady passionate about collecting unique memories, yet the thoughts that guide her are hard to glean.",
+    "uk": "Хранителька пам'яті із Саду спогадів. Загадкова й витончена ясновидиця. На її обличчі часто грає тепла усмішка, і тоді вона терпляче слухає співрозмовника, щоб через якусь зачіпку проникнути в його спогади та дізнатися все, що її цікавить. Колекціонування унікальних спогадів — її пристрасть, однак її мотиви важко збагнути.",
+    "ru": "Хранительница памяти из Сада воспоминаний. Ясновидица, загадочная и изящная. На лице её зачастую играет тёплая улыбка, и тогда ясновидица терпеливо выслушивает собеседника, чтобы тем или иным способом через какую-нибудь зацепку проникнуть в его воспоминания и получить всю информацию о том, что её интересует. Коллекционирование оригинальных воспоминаний — её страсть, однако в мотивы её трудно проникнуть."
+  },
+  "assets": {
+    "portrait": "characters/black_swan/portrait.png",
+    "thumbnail": "characters/black_swan/thumb.png"
+  },
+  "stats": {
+    "hp": 1086,
+    "atk": 659,
+    "def": 485,
+    "spd": 102,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "ascendant_debris",
+    "trace_group": "fiery_spirit",
+    "trace_unique": "past_evils_of_the_borehole_planet_disaster"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "reforged_remembrance",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "those_many_springs",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "eyes_of_the_prey",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "its_showtime",
+      "rarity": 4,
+      "is_best": false
+    },
+    {
+      "item_id": "why_does_the_ocean_sing",
+      "rarity": 5,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "prisoner_in_deep_confinement",
+    "pioneer_diver_of_dead_waters",
+    "musketeer_of_wild_wheat"
+  ],
+  "best_ornaments": [
+    "revelry_by_the_sea",
+    "pan_cosmic_commercial_enterprise"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "effect_hit"
+      }
+    ],
+    "feet": [
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "wind_dmg"
+      }
+    ],
+    "rope": [
+      {
+        "id": "atk_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "effect_hit",
+      "sep": ">"
+    },
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "kafka",
+    "hysilens",
+    "huohuo",
+    "ruan_mei"
+  ]
+}

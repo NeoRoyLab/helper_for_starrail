@@ -1,0 +1,33 @@
+{
+  "id": "its_showtime",
+  "name": {
+    "en": "It's Showtime",
+    "uk": "Шоу починається",
+    "ru": "Шоу начинается"
+  },
+  "rarity": 4,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 12,
+    "def_max": 264
+  },
+  "description": {
+    "en": "When the wearer inflicts a debuff on an enemy, gains a stack of Trick. Every stack increases the wearer's DMG dealt by 6-10%, stacking up to 3 times and lasting for 1 turn. When the wearer's Effect Hit Rate is 80% or higher, increases ATK by 20-36%.",
+    "uk": "Коли власник накладає ослаблення на противника, він отримує 1 рівень статусу Трюк. Кожен рівень підвищує завдану власником шкоду на 6-10%. Ефект складається до 3 разів і триває 1 хід. Якщо шанс влучання ефектів власника становить 80% або більше, його сила атаки підвищується на 20-36%.",
+    "ru": "Когда владелец накладывает ослабление на противника, он получает 1 ур. статуса Трюк. Каждый уровень этого статуса повышает наносимый владельцем урон на 6-10%. Этот эффект может складываться до 3 раз и длится 1 ход. Если шанс попадания эффектов владельца равен 80% или выше, его сила атаки повышается на 20-36%."
+  },
+  "sources": [
+    {
+      "en": "Light Cone Manifest",
+      "uk": "Маніфест Світлових конусів",
+      "ru": "Манифест Световых конусов"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/its_showtime/art.png"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "why_does_the_ocean_sing",
+  "name": {
+    "en": "Why Does the Ocean Sing",
+    "uk": "Чому співає океан",
+    "ru": "Почему поёт океан"
+  },
+  "rarity": 5,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's Effect Hit Rate by 40-60%. When an enemy gets inflicted with a debuff by the wearer, there is an 80% base chance for them to enter Enthrallment for 3 turns. While in Enthrallment, every debuff applied by the wearer increases the target's received DoT by 5-10%, stacking up to 6 times. When the target is attacked by an ally, increases the attacker's SPD by 10-20% for 3 turns. When the wearer is knocked down, removes all Enthrallment.",
+    "uk": "Підвищує шанс влучання ефектів власника на 40-60%. Коли власник накладає на противника ослаблення, є базовий шанс 80% накласти на нього статус Зачарування на 3 ходи. Кожне ослаблення власника підвищує отримувану цією ціллю періодичну шкоду на 5-10%. Ефект складається до 6 разів. Коли союзник атакує таку ціль, його швидкість підвищується на 10-20% на 3 ходи. Коли власник стає нездатним битися, усі статуси Зачарування знімаються.",
+    "ru": "Шанс попадания эффектов владельца повышается на 40-60%. Когда владелец накладывает ослабление на противника, этот противник имеет базовый шанс 80% получить статус Очарование на 3 хода. Получаемый противником со статусом Очарование периодический урон повышается на 5-10% за каждое ослабление, наложенное на него владельцем. Этот эффект может складываться до 6 раз. Когда союзник атакует противника с этим статусом, скорость этого союзника повышается на 10-20% на 3 хода. Когда владелец становится неспособен сражаться, все статусы Очарование снимаются."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Стрибок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/why_does_the_ocean_sing/art.png"
+  }
+}

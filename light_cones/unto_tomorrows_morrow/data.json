@@ -1,0 +1,33 @@
+{
+  "id": "unto_tomorrows_morrow",
+  "name": {
+    "en": "Unto Tomorrow's Morrow",
+    "uk": "До того, як настане післязавтра",
+    "ru": "Пока не наступит послезавтра"
+  },
+  "rarity": 4,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Outgoing Healing by 12-24%. When an ally target's current HP percentage is greater than or equal to 50%, increases the DMG dealt by 12-20%.",
+    "uk": "Підвищує вихідне зцілення власника на 12-24%. Коли поточний відсоток HP союзника вищий або дорівнює 50%, завдана ним шкода підвищується на 12-20%.",
+    "ru": "Исходящее исцеление владельца повышается на 12-24%. Когда текущий процент HP союзника выше или равен 50%, наносимый им урон повышается на 12-20%."
+  },
+  "sources": [
+    {
+      "en": "Nameless Honor",
+      "uk": "Честь Безіменних",
+      "ru": "Честь Безымянных"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/unto_tomorrows_morrow/art.png"
+  }
+}

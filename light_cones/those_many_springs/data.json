@@ -1,0 +1,33 @@
+{
+  "id": "those_many_springs",
+  "name": {
+    "en": "Those Many Springs",
+    "uk": "Незліченні весняні дні",
+    "ru": "Бесчисленные весенние дни"
+  },
+  "rarity": 5,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's Effect Hit Rate by 60-100%. When the wearer uses Basic ATK, Skill, or Ultimate to attack an enemy target, there is a 60% base chance to inflict Unarmored, increasing the target's DMG taken by 10-18% for 2 turns. If the target has a DoT inflicted by the wearer, there is a 60% base chance to upgrade Unarmored to Cornered, further increasing DMG taken by 14-22% for 2 turns. During this time, the wearer cannot inflict Unarmored.",
+    "uk": "Підвищує шанс влучання ефектів власника на 60-100%. Після атаки базовою атакою, навичкою або надздібністю є базовий шанс 60% накласти статус Без обладунків, що підвищує отримувану ціллю шкоду на 10-18% на 2 ходи. Якщо на цілі є періодична шкода власника, є базовий шанс 60% посилити цей статус до Загнаний у кут, додатково підвищуючи отримувану шкоду на 14-22% на 2 ходи. У цей час власник не може накладати статус Без обладунків.",
+    "ru": "Шанс попадания эффектов владельца повышается на 60-100%. Когда владелец использует базовую атаку, навык или сверхспособность для атаки противника, он имеет базовый шанс 60% наложить на цель статус Доспехи прочь. Получаемый противником с этим статусом урон повышается на 10-18% на 2 хода. Если противник имеет эффект с периодическим уроном, наложенный владельцем, то есть базовый шанс 60% усилить статус Доспехи прочь до статуса Загнанный в угол, который дополнительно повышает получаемый противником урон на 14-22% на 2 хода. В течение этого времени владелец не может наложить статус Доспехи прочь."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Стрибок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/those_many_springs/art.png"
+  }
+}

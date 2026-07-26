@@ -1,0 +1,33 @@
+{
+  "id": "time_waits_for_no_one",
+  "name": {
+    "en": "Time Waits for No One",
+    "uk": "Час нікого не чекає",
+    "ru": "Время никого не ждёт"
+  },
+  "rarity": 5,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 57,
+    "hp_max": 1270,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's Max HP by 18-30% and Outgoing Healing by 12-20%. When the wearer heals allies, records the amount of Outgoing Healing. When any ally launches an attack, a random attacked enemy takes Additional DMG equal to 36-60% of the recorded Outgoing Healing value. This Additional DMG is of the same Type as the wearer, is not affected by other buffs, and can only occur 1 time per turn.",
+    "uk": "Підвищує макс. HP власника на 18-30% і вихідне зцілення на 12-20%. Коли власник зцілює союзників, запам'ятовується обсяг вихідного зцілення. Після атаки союзника випадковий атакований противник отримує додаткову шкоду типу власника, що дорівнює 36-60% збереженого зцілення. Ця шкода не залежить від посилень і може виникнути лише 1 раз за хід.",
+    "ru": "Макс. HP владельца повышается на 18-30%, а исходящее исцеление — на 12-20%. Когда владелец исцеляет союзников, запоминается количество исходящего исцеления. После атаки союзника случайный атакованный противник получает дополнительный урон типа владельца, равный 36-60% сохранённого исцеления. Этот урон не зависит от усилений и может возникнуть только 1 раз за ход."
+  },
+  "sources": [
+    {
+      "en": "Stellar Warp; Starlight Exchange",
+      "uk": "Зоряний стрибок; Обмін зоряного світла",
+      "ru": "Звёздный прыжок; Неугасаемый звёздный свет"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/time_waits_for_no_one/art.png"
+  }
+}

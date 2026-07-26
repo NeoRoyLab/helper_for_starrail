@@ -1,0 +1,33 @@
+{
+  "id": "post_op_conversation",
+  "name": {
+    "en": "Post-Op Conversation",
+    "uk": "Післяопераційна розмова",
+    "ru": "Беседа после операции"
+  },
+  "rarity": 4,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's Energy Regeneration Rate by 8-16% and increases Outgoing Healing when they use their Ultimate by 12-24%.",
+    "uk": "Підвищує швидкість відновлення енергії власника на 8-16%. Використання надздібності підвищує його вихідне зцілення на 12-24%.",
+    "ru": "Скорость восстановления энергии владельца повышается на 8-16%. Использование сверхспособности владельца повышает его исходящее исцеление на 12-24%."
+  },
+  "sources": [
+    {
+      "en": "Warps",
+      "uk": "Стрибки",
+      "ru": "Прыжки"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/post_op_conversation/art.png"
+  }
+}

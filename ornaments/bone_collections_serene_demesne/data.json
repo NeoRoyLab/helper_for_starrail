@@ -1,0 +1,17 @@
+{
+  "id": "bone_collections_serene_demesne",
+  "name": {
+    "en": "Bone Collection's Serene Demesne",
+    "uk": "Безтурботна обитель колекціонера кісток",
+    "ru": "Безмятежная обитель коллекционера костей"
+  },
+  "rarity": 5,
+  "description": {
+    "en": "2-Pc: Increases the wearer's Max HP by 12%. When the wearer's Max HP is 5000 or higher, increases the wearer's and their memosprite's CRIT DMG by 28%.",
+    "uk": "2 предмети: Збільшує максимальне HP власника на 12%. Якщо максимальне HP власника дорівнює 5000 або більше, критична шкода власника та його духа пам'яті збільшується на 28%.",
+    "ru": "2 предмета: Повышает макс. HP владельца на 12%. Если макс. HP владельца составляет 5000 или выше, крит. урон владельца и его духа памяти повышается на 28%."
+  },
+  "assets": {
+    "icon": "ornaments/bone_collections_serene_demesne/icon.png"
+  }
+}

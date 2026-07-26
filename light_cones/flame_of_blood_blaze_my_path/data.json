@@ -1,0 +1,33 @@
+{
+  "id": "flame_of_blood_blaze_my_path",
+  "name": {
+    "en": "Flame of Blood, Blaze My Path",
+    "uk": "Полум'я крові, осяй мій шлях",
+    "ru": "Огонь крови, воспламени мой путь"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 62,
+    "hp_max": 1375,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Max HP by 18-30% and Incoming Healing by 20-40%. When using Skill or Ultimate, consumes HP equal to 6-8% of the wearer's Max HP and increases the DMG dealt by this attack by 30-50%. If the consumed HP is greater than 500, additionally increases this attack's DMG by 30-50%. If the current HP is insufficient, reduces the wearer's current HP to 1.",
+    "uk": "Збільшує максимальне HP власника на 18-30%, а отримуване зцілення — на 20-40%. Під час використання навички або надздібності витрачає HP у розмірі 6-8% від максимального HP власника та збільшує завдану цією атакою шкоду на 30-50%. Якщо витрачено понад 500 HP, шкода цієї атаки додатково збільшується на 30-50%. Якщо поточного HP недостатньо, воно знижується до 1.",
+    "ru": "Повышает макс. HP владельца на 18-30%, а получаемое исцеление — на 20-40%. При использовании навыка или сверхспособности расходует HP в размере 6-8% от макс. HP владельца и повышает наносимый этой атакой урон на 30-50%. Если расходуется больше 500 HP, урон этой атаки дополнительно повышается на 30-50%. Если текущего HP недостаточно, оно понижается до 1."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/flame_of_blood_blaze_my_path/art.png"
+  }
+}

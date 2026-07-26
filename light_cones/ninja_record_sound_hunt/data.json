@@ -1,0 +1,38 @@
+{
+  "id": "ninja_record_sound_hunt",
+  "name": {
+    "en": "Ninja Record: Sound Hunt",
+    "uk": "Запис ніндзя: Музичне полювання",
+    "ru": "Запись ниндзя: Музыкальная охота"
+  },
+  "rarity": 4,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 12,
+    "def_max": 264
+  },
+  "description": {
+    "en": "Increases the wearer's Max HP by 12-24%. When losing HP or restoring HP, increases CRIT DMG by 18-36% for 2 turns. This effect can only trigger once per turn.",
+    "uk": "Збільшує максимальне HP власника на 12-24%. Коли власник втрачає або відновлює HP, його критична шкода збільшується на 18-36% на 2 ходи. Цей ефект може спрацювати лише один раз за хід.",
+    "ru": "Повышает макс. HP владельца на 12-24%. Когда владелец теряет или восстанавливает HP, его крит. урон повышается на 18-36% на 2 хода. Этот эффект может сработать только один раз за ход."
+  },
+  "sources": [
+    {
+      "en": "Limited-Time Event",
+      "uk": "Тимчасова подія",
+      "ru": "Временное событие"
+    },
+    {
+      "en": "Herta's Store",
+      "uk": "Магазин Герти",
+      "ru": "Магазин Герты"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/ninja_record_sound_hunt/art.png"
+  }
+}

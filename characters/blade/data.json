@@ -1,0 +1,111 @@
+{
+  "id": "blade",
+  "name": {
+    "en": "Blade",
+    "uk": "Блейд",
+    "ru": "Блэйд"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_destruction",
+  "description": {
+    "en": "A swordsman who abandoned his body to become a blade. Birth name unknown. He pledges loyalty to Destiny's Slave, and possesses a terrifying self-healing ability. Blade wields an ancient sword riddled with cracks, just like his body and his mind.",
+    "uk": "Мечник, який відмовився від свого тіла, щоб стати клинком. Справжнє ім'я невідоме. Він присягнув на вірність Рабу долі й володіє моторошною здатністю до самозцілення. Блейд орудує стародавнім мечем, укритим тріщинами, як і його тіло та розум.",
+    "ru": "Мечник, отказавшийся от своего тела, чтобы стать клинком. Настоящее имя неизвестно. Присягнул на верность Рабу судьбы и обладает пугающей способностью к самоисцелению. Блэйд владеет древним мечом, покрытым трещинами, как его тело и разум."
+  },
+  "assets": {
+    "portrait": "characters/blade/portrait.png",
+    "thumbnail": "characters/blade/thumb.png"
+  },
+  "stats": {
+    "hp": 1358,
+    "atk": 543,
+    "def": 485,
+    "spd": 97,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "immortal_scionette",
+    "ascension_unique": "ascendant_debris",
+    "trace_group": "shattered_blade",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "the_unreachable_side",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "flame_of_blood_blaze_my_path",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "a_secret_vow",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "a_trail_of_bygone_blood",
+      "rarity": 4,
+      "is_best": false
+    },
+    {
+      "item_id": "ninja_record_sound_hunt",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "longevous_disciple",
+    "scholar_lost_in_erudition",
+    "eagle_of_twilight_line"
+  ],
+  "best_ornaments": [
+    "bone_collections_serene_demesne",
+    "inert_salsotto",
+    "rutilant_arena"
+  ],
+  "relic_stats": {
+    "body": [
+      "crit_dmg",
+      "crit_rate"
+    ],
+    "feet": [
+      "spd",
+      "hp_percent"
+    ],
+    "sphere": [
+      "wind_dmg",
+      "hp_percent"
+    ],
+    "rope": [
+      "hp_percent"
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "spd",
+      "sep": ">"
+    },
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "hp_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "hyacine",
+    "castorice",
+    "jingliu",
+    "ruan_mei"
+  ]
+}
