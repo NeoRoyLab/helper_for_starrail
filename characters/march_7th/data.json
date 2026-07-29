@@ -1,0 +1,76 @@
+{
+  "id": "march_7th",
+  "name": {
+    "en": "March 7th",
+    "uk": "Март 7",
+    "ru": "Март 7"
+  },
+  "rarity": 4,
+  "element": "ice",
+  "path": "the_preservation",
+  "description": {
+    "en": "A spirited, quirky young girl who is into all the things girls her age are interested in, such as taking photos. She was awakened from a piece of drifting eternal ice, only to find that she knows nothing about herself or her past. Though initially feeling dejected, she decided to name herself after the date of her rebirth. And thus, on that day, March 7th was born.",
+    "uk": "Жвава й дивакувата дівчина, яка захоплюється всім, що цікавить її однолітків, наприклад фотографуванням. Її знайшли в брилі дрейфуючого вічного льоду, а після пробудження виявилося, що вона нічого не знає ані про себе, ані про своє минуле. Спочатку це дуже її засмутило, та вона вирішила назвати себе на честь дати, з якої почалося її нове життя. Так цього дня народилася Март 7.",
+    "ru": "Оживлённая и заводная девушка, увлекающаяся всеми вещами, которые положены девочкам её возраста, например фотографией. Её обнаружили в глыбе дрейфующего вечного льда, а после пробуждения оказалось, что она ничего не знает ни о себе, ни о своём прошлом. Поначалу сильно этим подавленная, она решила назвать себя в честь даты, с которой пошла её новая жизнь. Так в этот день родилась Март 7."
+  },
+  "assets": {
+    "portrait": "characters/march_7th/portrait.png",
+    "thumbnail": "characters/march_7th/thumb.png"
+  },
+  "stats": {
+    "hp": 1058,
+    "atk": 511,
+    "def": 573,
+    "spd": 101,
+    "taunt": 150
+  },
+  "materials": {
+    "ascension_group": "thiefs_instinct",
+    "ascension_unique": "horn_of_snow",
+    "trace_group": "endurance_of_bronze",
+    "trace_unique": "destroyers_final_road"
+  },
+  "best_light_cones": [
+    { "item_id": "inherently_unjust_destiny", "rarity": 5, "is_best": true },
+    { "item_id": "journey_forever_peaceful", "rarity": 4, "is_best": true },
+    { "item_id": "day_one_of_my_new_life", "rarity": 4, "is_best": false },
+    { "item_id": "texture_of_memories", "rarity": 5, "is_best": false },
+    { "item_id": "moment_of_victory", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "self_enshrouded_recluse",
+    "knight_of_purity_palace",
+    "sacerdos_relived_ordeal"
+  ],
+  "best_ornaments": [
+    "broken_keel",
+    "fleet_of_the_ageless",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "effect_hit_rate", "sep": ">=" },
+      { "id": "def_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "def_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen", "sep": ">=" },
+      { "id": "def_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "effect_hit_rate", "sep": "=" },
+    { "id": "speed", "sep": ">" },
+    { "id": "def_percent", "sep": ">" },
+    { "id": "hp_percent", "sep": "=" },
+    { "id": "effect_res", "sep": "" }
+  ],
+  "synergy": [
+    "acheron"
+  ]
+}

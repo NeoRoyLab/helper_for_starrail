@@ -1,0 +1,78 @@
+{
+  "id": "mortenax_blade",
+  "name": {
+    "en": "Mortenax Blade",
+    "uk": "Мортенакс Блейд",
+    "ru": "Мортенакс Блэйд"
+  },
+  "rarity": 5,
+  "element": "fire",
+  "path": "the_nihility",
+  "description": {
+    "en": "A body like spring wood, a heart like dead ashes, yet the sparks of a craftsman still linger at the fingertips. As ancient grudges are ignited once more, he promises to send both himself and the gods to the other side... Torn flesh, tempered a thousand times into a blade... what kind of answer will it forge?",
+    "uk": "Тіло немов весняна деревина, серце немов згаслий попіл, та іскри майстра все ще жевріють на кінчиках пальців. Коли давня ворожнеча спалахує знову, він обіцяє відправити на той бік і себе, і богів... Пошматована плоть, тисячу разів загартована в клинок... яку відповідь вона викує?",
+    "ru": "Тело подобно весеннему дереву, сердце — остывшему пеплу, но искры мастерства всё ещё тлеют на кончиках пальцев. Когда древняя вражда вспыхивает вновь, он клянётся отправить на тот свет и себя, и богов... Разорванная плоть, тысячу раз закалённая в клинок... какой ответ она выкует?"
+  },
+  "assets": {
+    "portrait": "characters/mortenax_blade/portrait.png",
+    "thumbnail": "characters/mortenax_blade/thumb.png"
+  },
+  "stats": {
+    "hp": 1359,
+    "atk": 543,
+    "def": 485,
+    "spd": 107,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "whimsy_wax",
+    "ascension_unique": "radiant_prominence",
+    "trace_group": "tear_of_phagousa",
+    "trace_unique": "vanquished_flows_reticence"
+  },
+  "best_light_cones": [
+    { "item_id": "reforged_in_hellfire", "rarity": 5, "is_best": true },
+    { "item_id": "before_the_tutorial_mission_starts", "rarity": 4, "is_best": true },
+    { "item_id": "lies_dance_on_the_breeze", "rarity": 5, "is_best": false },
+    { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": false },
+    { "item_id": "good_night_and_sleep_well", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "divine_querying_master_smith",
+    "eagle_of_twilight_line",
+    "longevous_disciple"
+  ],
+  "best_ornaments": [
+    "sprightly_vonwacq",
+    "bone_collections_serene_demesne",
+    "lushaka_the_sunken_seas"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">" },
+      { "id": "effect_hit_rate" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "fire_dmg" }
+    ],
+    "rope": [
+      { "id": "energy_regen", "sep": ">" },
+      { "id": "hp_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "speed", "sep": ">" },
+    { "id": "hp_percent", "sep": "" }
+  ],
+  "synergy": [
+    "acheron",
+    "ashveil",
+    "castorice"
+  ]
+}

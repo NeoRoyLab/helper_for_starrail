@@ -1,0 +1,33 @@
+{
+  "id": "before_the_tutorial_mission_starts",
+  "name": {
+    "en": "Before the Tutorial Mission Starts",
+    "uk": "Перед початком тренувальної місії",
+    "ru": "Перед началом тренировочной миссии"
+  },
+  "rarity": 4,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's Effect Hit Rate by 20-40%. When the wearer attacks an enemy that has reduced DEF, regenerates 4-8 Energy.",
+    "uk": "Підвищує шанс влучання ефектів власника на 20-40%. Коли власник атакує противника зі зниженим захистом, він відновлює 4-8 од. енергії.",
+    "ru": "Шанс попадания эффектов владельца повышается на 20-40%. Когда владелец атакует противника с пониженной защитой, он восстанавливает 4-8 ед. энергии."
+  },
+  "sources": [
+    {
+      "en": "Herta's Store",
+      "uk": "Магазин Герти",
+      "ru": "Магазин Герты"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/before_the_tutorial_mission_starts/art.png"
+  }
+}

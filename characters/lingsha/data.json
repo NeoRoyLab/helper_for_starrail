@@ -1,0 +1,73 @@
+{
+  "id": "lingsha",
+  "name": {
+    "en": "Lingsha",
+    "uk": "Лінша",
+    "ru": "Линша"
+  },
+  "rarity": 5,
+  "element": "fire",
+  "path": "the_abundance",
+  "description": {
+    "en": "The new Cauldron Master of the Xianzhou Luofu's Alchemy Commission is one perceptive and intelligent Vidyadhara healer. With a keen sense of smell, she diagnoses ailments and calms minds with aromatic therapy. Adept at navigating complex social relationships, she can remain impeccably composed even when turmoil rages within.",
+    "uk": "Нова Майстриня казана Комісії з алхімії на Лофу Сяньчжоу. Розумна й талановита цілителька з відьядхар. Вона має гострий нюх, який часто використовує для розпізнавання хвороб і заспокоєння розуму за допомогою пахощів. Вона чудово дає раду складним стосункам з іншими. Навіть коли всередині неї кипить гнів, її обличчя залишається незворушним.",
+    "ru": "Новый Мастер котла в Комиссии по алхимии на Лофу Сяньчжоу. Умная и талантливая целительница из видьядхара. У неё острое обоняние, которое она часто использует для распознавания болезней, а также для успокоения разума с помощью благовоний. Она отлично справляется со сложными отношениями с другими. Даже если она кипит от гнева, её лицо будет оставаться невозмутимым."
+  },
+  "assets": {
+    "portrait": "characters/lingsha/portrait.png",
+    "thumbnail": "characters/lingsha/thumb.png"
+  },
+  "stats": {
+    "hp": 1358,
+    "atk": 679,
+    "def": 436,
+    "spd": 98,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "immortal_scionette",
+    "ascension_unique": "raging_heart",
+    "trace_group": "alien_tree_seed",
+    "trace_unique": "auspice_sliver"
+  },
+  "best_light_cones": [
+    { "item_id": "scent_alone_stays_true", "rarity": 5, "is_best": true },
+    { "item_id": "quid_pro_quo", "rarity": 4, "is_best": true },
+    { "item_id": "post_op_conversation", "rarity": 4, "is_best": false },
+    { "item_id": "what_is_real", "rarity": 4, "is_best": false },
+    { "item_id": "unto_tomorrows_morrow", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "iron_cavalry_against_the_scourge",
+    "warrior_goddess_of_sun_and_thunder",
+    "thief_of_shooting_meteor"
+  ],
+  "best_ornaments": [
+    "forge_of_the_kalpagni_lantern",
+    "talia_kingdom_of_banditry",
+    "sprightly_vonwacq"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "outgoing_healing" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen", "sep": "=" },
+      { "id": "break_effect" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "break_effect", "sep": ">=" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "boothill"
+  ]
+}

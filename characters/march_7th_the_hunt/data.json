@@ -1,0 +1,77 @@
+{
+  "id": "march_7th_the_hunt",
+  "name": {
+    "en": "March 7th • The Hunt",
+    "uk": "Март 7 • Полювання",
+    "ru": "Март 7 • Охота"
+  },
+  "rarity": 4,
+  "element": "imaginary",
+  "path": "the_hunt",
+  "description": {
+    "en": "March 7th in a Xianzhou-styled outfit. A sword-wielding female martial artist. Learning swordsmanship from both Yunli and Yanqing, she is eager to create more beautiful memories on the Xianzhou.",
+    "uk": "Март 7 у вбранні в стилі Сяньчжоу. Войовниця, що володіє мечем. Навчаючись мистецтва меча в Юньлі та Яньціна, вона прагне створити ще більше прекрасних спогадів на Сяньчжоу.",
+    "ru": "Март 7 — мечница в одежде в стиле Сяньчжоу. Обучаясь искусству владения мечом у Юньли и Яньцина, она мечтает создать ещё больше прекрасных воспоминаний на Сяньчжоу."
+  },
+  "assets": {
+    "portrait": "characters/march_7th_the_hunt/portrait.png",
+    "thumbnail": "characters/march_7th_the_hunt/thumb.png"
+  },
+  "stats": {
+    "hp": 1058,
+    "atk": 564,
+    "def": 441,
+    "spd": 102,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "thiefs_instinct",
+    "ascension_unique": "horn_of_snow",
+    "trace_group": "meteoric_bullet",
+    "trace_unique": "destroyers_final_road"
+  },
+  "best_light_cones": [
+    { "item_id": "in_the_night", "rarity": 5, "is_best": true },
+    { "item_id": "swordplay", "rarity": 4, "is_best": true },
+    { "item_id": "worrisome_blissful", "rarity": 5, "is_best": false },
+    { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false },
+    { "item_id": "shadowed_by_night", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "musketeer_of_wild_wheat",
+    "wastelander_of_banditry_desert",
+    "pioneer_diver_of_dead_waters"
+  ],
+  "best_ornaments": [
+    "rutilant_arena",
+    "izumo_gensei_and_takama_divine_realm",
+    "firmament_frontline_glamoth"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "imaginary_dmg", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "clara",
+    "dan_heng"
+  ]
+}

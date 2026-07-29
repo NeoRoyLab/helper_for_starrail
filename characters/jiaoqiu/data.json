@@ -1,0 +1,71 @@
+{
+  "id": "jiaoqiu",
+  "name": {
+    "en": "Jiaoqiu",
+    "uk": "Цзяоцю",
+    "ru": "Цзяоцю"
+  },
+  "rarity": 5,
+  "element": "fire",
+  "path": "the_nihility",
+  "description": {
+    "en": "A foxian healer from the Xianzhou Yaoqing and a counselor. Often greets people with a smile, but is rather cunning. Born into a prestigious Alchemy Commission family, he once withdrew from practicing medicine due to a broken heart. However, he returned to the field to treat \"the Merlin's Claw,\" General Feixiao. Skilled in the study of alchemical prescription that views food as medicine, especially those that induce a sensation of spiciness. He invented a cauldron-based medicinal formula known as the \"nine-squared grid.\"",
+    "uk": "Цілитель із лисячого народу з Яоціна Сяньчжоу та радник. Хоча він часто зустрічає людей з усмішкою, насправді він доволі хитрий. Народився у відомій родині з Комісії з алхімії. Колись через розбите серце він полишив медицину, але згодом повернувся, щоб вилікувати Соколину Міць, генерала Фейсяо. Чудово знається на алхімічних рецептах, у яких їжа вважається ліками, й особливо полюбляє гостре. Він винайшов казанок для приготування ліків під назвою «сітка з дев'яти квадратів».",
+    "ru": "Целитель из лисьего народа с Яоцина Сяньчжоу. Пусть он часто встречает всех с улыбкой на лице, на самом деле он весьма хитёр. Он родился в знаменитой семье из Комиссии по алхимии. Когда-то он бросил заниматься медициной из-за разбитого сердца, но затем вернулся к науке, чтобы исцелить Соколиную Мощь, генерала Фэйсяо. Отлично разбирается в алхимических рецептах, где пища рассматривается как лекарство, особенно предпочитает острую. Он изобрёл котелок для приготовления лекарств под названием «сетка из девяти квадратов»."
+  },
+  "assets": {
+    "portrait": "characters/jiaoqiu/portrait.png",
+    "thumbnail": "characters/jiaoqiu/thumb.png"
+  },
+  "stats": {
+    "hp": 1358,
+    "atk": 601,
+    "def": 509,
+    "spd": 98,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "immortal_scionette",
+    "ascension_unique": "raging_heart",
+    "trace_group": "fiery_spirit",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "those_many_springs", "rarity": 5, "is_best": true },
+    { "item_id": "eyes_of_the_prey", "rarity": 4, "is_best": true },
+    { "item_id": "lies_dance_on_the_breeze", "rarity": 5, "is_best": false },
+    { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": false },
+    { "item_id": "solitary_healing", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "eagle_of_twilight_line",
+    "messenger_traversing_hackerspace",
+    "prisoner_in_deep_confinement"
+  ],
+  "best_ornaments": [
+    "sprightly_vonwacq",
+    "fleet_of_the_ageless",
+    "broken_keel"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "effect_hit_rate" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "fire_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "effect_hit_rate", "sep": ">" },
+    { "id": "speed", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": ["acheron"]
+}

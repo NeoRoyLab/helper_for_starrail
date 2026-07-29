@@ -1,0 +1,33 @@
+{
+  "id": "i_shall_be_my_own_sword",
+  "name": {
+    "en": "I Shall Be My Own Sword",
+    "uk": "Віднині я сама буду мечем",
+    "ru": "Отныне я сама буду мечом"
+  },
+  "rarity": 5,
+  "path": "destruction",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 20-32%. When an ally, excluding the wearer, gets attacked or loses HP, the wearer gains 1 stack of Eclipse, up to 3 stacks. Each stack increases the DMG of the wearer's next attack by 14-24%. When 3 stacks are reached, additionally enables that attack to ignore 12-20% of the enemy's DEF. This effect is removed after the wearer uses an attack.",
+    "uk": "Підвищує крит. шкоду власника на 20-32%. Коли союзник, окрім власника, зазнає атаки або втрачає HP, власник отримує 1 рівень статусу Затемнення. Ефект складається до 3 разів. Кожен рівень підвищує шкоду наступної атаки власника на 14-24%. За наявності 3 рівнів ця атака додатково ігнорує 12-20% захисту противника. Ефект знімається після виконання атаки.",
+    "ru": "Крит. урон владельца повышается на 20-32%. Когда союзник, кроме владельца, подвергается атаке или теряет HP, владелец получает 1 ур. статуса Затмение. Этот эффект может складываться до 3 раз. Каждый уровень повышает урон следующей атаки владельца на 14-24%. При наличии 3 ур. эта атака дополнительно игнорирует 12-20% защиты противника. Эффект снимается после выполнения владельцем атаки."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/i_shall_be_my_own_sword/art.png"
+  }
+}

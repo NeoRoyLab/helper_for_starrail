@@ -1,0 +1,72 @@
+{
+  "id": "natasha",
+  "name": {
+    "en": "Natasha",
+    "uk": "Наташа",
+    "ru": "Наташа"
+  },
+  "rarity": 4,
+  "element": "physical",
+  "path": "the_abundance",
+  "description": {
+    "en": "A doctor from the Underworld and a caregiver of children. Alongside her kindness and caring, she also has a hidden dangerous side.",
+    "uk": "Лікарка з Підзем'я Білобога й вихователька дітей. Окрім доброти та турботи, вона має й приховану небезпечну сторону.",
+    "ru": "Врач из Подземья Белобога и воспитательница детей. Помимо доброты и заботы, у неё есть и скрытая опасная сторона."
+  },
+  "assets": {
+    "portrait": "characters/natasha/portrait.png",
+    "thumbnail": "characters/natasha/thumb.png"
+  },
+  "stats": {
+    "hp": 1164,
+    "atk": 476,
+    "def": 507,
+    "spd": 98,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "ancient_part",
+    "ascension_unique": "broken_teeth_of_iron_wolf",
+    "trace_group": "seed_of_abundance",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "night_of_fright", "rarity": 5, "is_best": true },
+    { "item_id": "post_op_conversation", "rarity": 4, "is_best": true },
+    { "item_id": "time_waits_for_no_one", "rarity": 5, "is_best": false },
+    { "item_id": "perfect_timing", "rarity": 4, "is_best": false },
+    { "item_id": "quid_pro_quo", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "warrior_goddess_of_sun_and_thunder",
+    "messenger_traversing_hackerspace",
+    "passerby_of_wandering_cloud"
+  ],
+  "best_ornaments": [
+    "fleet_of_the_ageless",
+    "broken_keel",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "outgoing_healing", "sep": ">" },
+      { "id": "hp_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "hp_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "hp_percent", "sep": ">" },
+    { "id": "effect_res", "sep": "=" },
+    { "id": "def_percent", "sep": "" }
+  ],
+  "synergy": []
+}

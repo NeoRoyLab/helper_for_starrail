@@ -1,0 +1,33 @@
+{
+  "id": "a_dream_scented_in_wheat",
+  "name": {
+    "en": "A Dream Scented in Wheat",
+    "uk": "Пшеничні мрії",
+    "ru": "Пшеничные мечты"
+  },
+  "rarity": 4,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 12-20%. The Ultimate DMG and Follow-up ATK DMG dealt by the wearer increase by 24-40%.",
+    "uk": "Підвищує крит. шанс власника на 12-20%. Шкода надздібності та бонус-атаки власника підвищується на 24-40%.",
+    "ru": "Крит. шанс владельца повышается на 12-20%. Урон сверхспособности и бонус-атаки владельца повышается на 24-40%."
+  },
+  "sources": [
+    {
+      "en": "Nameless Honor",
+      "uk": "Честь Безіменних",
+      "ru": "Честь Безымянных"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/a_dream_scented_in_wheat/art.png"
+  }
+}

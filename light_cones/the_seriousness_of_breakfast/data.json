@@ -1,0 +1,33 @@
+{
+  "id": "the_seriousness_of_breakfast",
+  "name": {
+    "en": "The Seriousness of Breakfast",
+    "uk": "Важливість сніданку",
+    "ru": "Важность завтрака"
+  },
+  "rarity": 4,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's DMG by 12-24%. For every defeated enemy, the wearer's ATK increases by 4-8%, stacking up to 3 times.",
+    "uk": "Підвищує завдану власником шкоду на 12-24%. За кожного переможеного противника сила атаки власника підвищується на 4-8%. Ефект складається до 3 разів.",
+    "ru": "Наносимый владельцем урон повышается на 12-24%. За каждого побеждённого противника сила атаки владельца повышается на 4-8%. Этот эффект может складываться до 3 раз."
+  },
+  "sources": [
+    {
+      "en": "Light Cone Manifest Store",
+      "uk": "Магазин «Пасаж світлових конусів»",
+      "ru": "Магазин «Пассаж Световых конусов»"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/the_seriousness_of_breakfast/art.png"
+  }
+}

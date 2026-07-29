@@ -1,0 +1,33 @@
+{
+  "id": "yet_hope_is_priceless",
+  "name": {
+    "en": "Yet Hope Is Priceless",
+    "uk": "Але надія безцінна",
+    "ru": "Но надежда бесценна"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 16-28%. While the wearer is in battle, for every 20% CRIT DMG that exceeds 120%, the DMG dealt by follow-up attack increases by 12-20%. This effect can stack up to 4 times. When the battle starts or after the wearer uses their Basic ATK, enables the DMG dealt by Ultimate or follow-up attack to ignore 20-36% of the target's DEF, lasting for 2 turns.",
+    "uk": "Підвищує крит. шанс власника на 16-28%. Якщо крит. шкода власника під час бою перевищує 120%, то за кожні 20% понад це значення шкода його бонус-атаки підвищується на 12-20%. Ефект складається до 4 разів. На початку бою або після використання власником базової атаки шкода його надздібності або бонус-атаки ігнорує 20-36% захисту цілі протягом 2 ходів.",
+    "ru": "Крит. шанс владельца повышается на 16-28%. Если крит. урон владельца во время боя становится выше 120%, то наносимый его бонус-атакой урон повышается на 12-20% за каждые 20%, превышающие это значение. Этот эффект может складываться до 4 раз. В начале боя или после использования владельцем базовой атаки урон, наносимый сверхспособностью или бонус-атакой, игнорирует 20-36% защиты цели в течение 2 ходов."
+  },
+  "sources": [
+    {
+      "en": "Event Warp: Light Cone",
+      "uk": "Стрибок події: Світловий конус",
+      "ru": "Прыжок события: Световой конус"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/yet_hope_is_priceless/art.png"
+  }
+}

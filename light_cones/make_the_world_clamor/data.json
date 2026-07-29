@@ -1,0 +1,33 @@
+{
+  "id": "make_the_world_clamor",
+  "name": {
+    "en": "Make the World Clamor",
+    "uk": "Нехай світ не стихає",
+    "ru": "Пусть мир не стихает"
+  },
+  "rarity": 4,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "The wearer regenerates 20-32 Energy immediately upon entering battle, and increases DMG dealt by the wearer's Ultimate by 32-64%.",
+    "uk": "На початку бою негайно відновлює власнику 20-32 од. енергії. Завдана надздібністю власника шкода підвищується на 32-64%.",
+    "ru": "В начале боя восстанавливает владельцу 20-32 ед. энергии. Наносимый сверхспособностью владельца урон повышается на 32-64%."
+  },
+  "sources": [
+    {
+      "en": "Warp",
+      "uk": "Стрибок",
+      "ru": "Прыжок"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/make_the_world_clamor/art.png"
+  }
+}

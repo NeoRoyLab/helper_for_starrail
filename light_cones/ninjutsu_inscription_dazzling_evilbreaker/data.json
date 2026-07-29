@@ -1,0 +1,33 @@
+{
+  "id": "ninjutsu_inscription_dazzling_evilbreaker",
+  "name": {
+    "en": "Ninjutsu Inscription: Dazzling Evilbreaker",
+    "uk": "Сувій ніндзя: Очищення хаосом",
+    "ru": "Свиток ниндзя: Очищение хаосом"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 60-100%. When entering battle, immediately regenerates 30-40 Energy. After the wearer uses Ultimate, obtains \"Raiton.\" After using 2 Basic ATKs, advances the wearer's action by 50-70% and removes \"Raiton.\" After the wearer uses Ultimate, resets \"Raiton.\"",
+    "uk": "Підвищує ефект пробиття власника на 60-100%. На початку бою негайно відновлює 30-40 од. енергії. Після використання надздібності власник отримує статус «Райтон». Після використання 2 базових атак дія власника просувається вперед на 50-70%, а статус «Райтон» знімається. Після використання надздібності статус «Райтон» скидається.",
+    "ru": "Повышает эффект пробития владельца на 60-100%. В начале боя немедленно восстанавливает 30-40 ед. энергии. После использования сверхспособности владелец получает статус «Райтон». После использования 2 базовых атак действие владельца продвигается вперёд на 50-70%, а статус «Райтон» снимается. После использования сверхспособности статус «Райтон» сбрасывается."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/ninjutsu_inscription_dazzling_evilbreaker/art.png"
+  }
+}

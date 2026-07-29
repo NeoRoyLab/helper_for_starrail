@@ -1,0 +1,72 @@
+{
+  "id": "jade",
+  "name": {
+    "en": "Jade",
+    "uk": "Яшма",
+    "ru": "Яшма"
+  },
+  "rarity": 5,
+  "element": "quantum",
+  "path": "the_erudition",
+  "description": {
+    "en": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Her Cornerstone is the \"Jade of Credit.\" A cold and elegant moneylender, she is skilled at understanding the human heart, with a personal hobby called \"Bonajade Exchange.\" She's willing to wait patiently for high-value acquisitions and adept at extracting value from seemingly destitute clients.",
+    "uk": "Топменеджерка відділу стратегічних інвестицій Корпорації міжзоряного миру й одна з Десяти кам'яних сердець. Її наріжний камінь — яшма боргу. Вишукана й розважлива позикодавиця, яка чудово розуміється на тонкощах людської свідомості. Її особисте захоплення — ломбард «Ніжна яшма». Готова терпляче чекати, щоб отримати щось найцінніше, і здатна видобути вигоду навіть із, здавалося б, найбідніших клієнтів.",
+    "ru": "Топ-менеджер отдела стратегических инвестиций Корпорации межзвёздного мира, одна из Десяти каменных сердец. Её опорный камень — яшма долга. Изящная и расчётливая заимодательница, которая превосходно разбирается в тонкостях человеческого сознания. Её личное увлечение — ломбард «Нежная яшма». Готова терпеливо ждать, чтобы получить нечто наиболее ценное, и способна извлечь выгоду из, казалось бы, самых мелких клиентов."
+  },
+  "assets": {
+    "portrait": "characters/jade/portrait.png",
+    "thumbnail": "characters/jade/thumb.png"
+  },
+  "stats": {
+    "hp": 1086,
+    "atk": 659,
+    "def": 509,
+    "spd": 103,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "dream_collection_component",
+    "ascension_unique": "dream_flamer",
+    "trace_group": "rough_sketch",
+    "trace_unique": "lost_echo_of_the_shared_wish"
+  },
+  "best_light_cones": [
+    { "item_id": "yet_hope_is_priceless", "rarity": 5, "is_best": true },
+    { "item_id": "today_is_another_peaceful_day", "rarity": 4, "is_best": true },
+    { "item_id": "before_dawn", "rarity": 5, "is_best": false },
+    { "item_id": "night_on_the_milky_way", "rarity": 5, "is_best": false },
+    { "item_id": "geniuses_repose", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "poet_of_mourning_collapse",
+    "genius_of_brilliant_stars",
+    "the_ashblazing_grand_duke"
+  ],
+  "best_ornaments": [
+    "izumo_gensei_and_takama_divine_realm",
+    "sigonia_the_unclaimed_desolation",
+    "duran_dynasty_of_running_wolves"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "quantum_dmg" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "crit_rate", "sep": ">=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": ">" },
+    { "id": "speed", "sep": "" }
+  ],
+  "synergy": ["blade"]
+}

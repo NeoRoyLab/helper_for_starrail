@@ -1,0 +1,73 @@
+{
+  "id": "kafka",
+  "name": {
+    "en": "Kafka",
+    "uk": "Кафка",
+    "ru": "Кафка"
+  },
+  "rarity": 5,
+  "element": "lightning",
+  "path": "the_nihility",
+  "description": {
+    "en": "A member of the Stellaron Hunters. A dashing, collected, and professional beauty. Used the enchantment of Spirit Whisper to set up the Trailblazer to absorb the Stellaron. Her hobby is shopping for and organizing her collection of coats.",
+    "uk": "Одна з Мисливців за Стелларонами. Спокійна, зібрана й професійна красуня. За допомогою навички «Шепіт духу» підготувала Першопрохідця до поглинання Стелларона. Полюбляє купувати й упорядковувати свою колекцію пальт.",
+    "ru": "Член Охотников за Стелларонами, спокойная, собранная и красивая. Её всегда представляют как элегантную, респектабельную и стремящуюся к прекрасному... даже в бою. Она родилась на Птеруги-V, на планете, где не знают страха, потому она не осознаёт истинную ценность жизни. Когда Элио пообещал изменить это, она, не задумываясь, стала Охотницей за Стелларонами."
+  },
+  "assets": {
+    "portrait": "characters/kafka/portrait.png",
+    "thumbnail": "characters/kafka/thumb.png"
+  },
+  "stats": {
+    "hp": 1086,
+    "atk": 679,
+    "def": 485,
+    "spd": 100,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "thiefs_instinct",
+    "ascension_unique": "shape_shifters_lightning_staff",
+    "trace_group": "obsidian_of_dread",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "patience_is_all_you_need", "rarity": 5, "is_best": true },
+    { "item_id": "before_the_tutorial_mission_starts", "rarity": 4, "is_best": true },
+    { "item_id": "lies_dance_on_the_breeze", "rarity": 5, "is_best": false },
+    { "item_id": "those_many_springs", "rarity": 5, "is_best": false },
+    { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "eagle_of_twilight_line",
+    "sacerdos_relived_ordeal",
+    "prisoner_in_deep_confinement"
+  ],
+  "best_ornaments": [
+    "lushaka_the_sunken_seas",
+    "revelry_by_the_sea",
+    "firmament_frontline_glamoth"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "effect_hit_rate", "sep": "=" },
+      { "id": "atk_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "lightning_dmg", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen", "sep": ">" },
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "effect_hit_rate", "sep": ">" },
+    { "id": "speed", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": ["black_swan", "cipher"]
+}

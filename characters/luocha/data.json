@@ -1,0 +1,75 @@
+{
+  "id": "luocha",
+  "name": {
+    "en": "Luocha",
+    "uk": "Лоча",
+    "ru": "Лоча"
+  },
+  "rarity": 5,
+  "element": "imaginary",
+  "path": "the_abundance",
+  "description": {
+    "en": "An elegant, handsome man with long blond hair who carries a coffin on his back. As a merchant from beyond the stellar seas, he was unfortunately caught in the Xianzhou's Stellaron crisis. His consummate medical skills are sure to be of use.",
+    "uk": "Елегантний златоволосий чоловік, який несе на спині труну. Як торговець із-за небесних меж, він, на свою біду, зіткнувся з катастрофою Стелларона на Сяньчжоу. Безсумнівно, його майстерність у лікуванні ще стане в пригоді.",
+    "ru": "Элегантный златовласый блондин, несущий на спине гроб. Будучи торговцем из-за небесных пределов, на свою беду, он столкнулся с катастрофой Стелларона в Сяньчжоу. Несомненно, его искусство врачевания очень пригодится."
+  },
+  "assets": {
+    "portrait": "characters/luocha/portrait.png",
+    "thumbnail": "characters/luocha/thumb.png"
+  },
+  "stats": {
+    "hp": 1280,
+    "atk": 756,
+    "def": 363,
+    "spd": 101,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "artifexs_module",
+    "ascension_unique": "golden_crown_of_the_past_shadow",
+    "trace_group": "seed_of_abundance",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "echoes_of_the_coffin", "rarity": 5, "is_best": true },
+    { "item_id": "perfect_timing", "rarity": 4, "is_best": true },
+    { "item_id": "quid_pro_quo", "rarity": 4, "is_best": false },
+    { "item_id": "unto_tomorrows_morrow", "rarity": 4, "is_best": false },
+    { "item_id": "shared_feeling", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "warrior_goddess_of_sun_and_thunder",
+    "messenger_traversing_hackerspace",
+    "musketeer_of_wild_wheat"
+  ],
+  "best_ornaments": [
+    "broken_keel",
+    "fleet_of_the_ageless",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "outgoing_healing" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "atk_percent", "sep": ">" },
+    { "id": "def_percent", "sep": "=" },
+    { "id": "hp_percent", "sep": ">" },
+    { "id": "effect_res", "sep": "" }
+  ],
+  "synergy": [
+    "castorice",
+    "blade"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "qingque",
+  "name": {
+    "en": "Qingque",
+    "uk": "Цінцюе",
+    "ru": "Цинцюэ"
+  },
+  "rarity": 4,
+  "element": "quantum",
+  "path": "the_erudition",
+  "description": {
+    "en": "An average Diviner of the Divination Commission on the Xianzhou Luofu, and a librarian. She never slacks off when it comes to slacking off and is about to be demoted to a \"door guardian.\"",
+    "uk": "Ворожбитка Комісії з передбачень на Лофу Сяньчжоу, а також архіваріуска. Ніколи не лінується байдикувати й невдовзі може бути понижена до «вартової при дверях».",
+    "ru": "Прорицательница Комиссии по предсказаниям на Лофу Сяньчжоу, а также архивариус. За безделье скоро будет низведена до привратника."
+  },
+  "assets": {
+    "portrait": "characters/qingque/portrait.png",
+    "thumbnail": "characters/qingque/thumb.png"
+  },
+  "stats": {
+    "hp": 1023,
+    "atk": 652,
+    "def": 441,
+    "spd": 98,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "thiefs_instinct",
+    "ascension_unique": "void_cast_iron",
+    "trace_group": "key_of_inspiration",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "yet_hope_is_priceless",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "night_on_the_milky_way",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "geniuses_repose",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "eternal_calculus",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "before_dawn",
+      "rarity": 5,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "poet_of_mourning_collapse",
+    "genius_of_brilliant_stars",
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "rutilant_arena",
+    "tengoku_livestream",
+    "firmament_frontline_glamoth"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_rate",
+        "sep": ">="
+      },
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "atk_percent",
+        "sep": ">"
+      },
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "quantum_dmg"
+      }
+    ],
+    "rope": [
+      {
+        "id": "atk_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "past_self_in_mirror",
+  "name": {
+    "en": "Past Self in Mirror",
+    "uk": "Відображення минулої мене",
+    "ru": "Отражение прошлой меня"
+  },
+  "rarity": 5,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 60-100%. After the wearer uses their Ultimate, increases all allies' DMG by 24-40% for 3 turns. If the wearer's Break Effect is at least 150%, the team recovers 1 Skill Point. At the start of each wave, all allies immediately regenerate 10-20 Energy. Abilities of the same type cannot stack.",
+    "uk": "Підвищує ефект пробиття власника на 60-100%. Після використання надздібності завдана всіма союзниками шкода підвищується на 24-40% на 3 ходи. Якщо ефект пробиття власника становить щонайменше 150%, загін відновлює 1 очко навичок. На початку кожної хвилі всі союзники негайно відновлюють 10-20 од. енергії. Ефекти одного типу не складаються.",
+    "ru": "Эффект пробития владельца повышается на 60-100%. После того как владелец использует сверхспособность, наносимый всеми союзниками урон повышается на 24-40% на 3 хода. Если эффект пробития владельца становится выше или равным 150%, отряд восстанавливает 1 очко навыков. В начале каждой волны немедленно восстанавливается 10-20 ед. энергии всех союзников. Этот эффект не может складываться с эффектами подобного типа."
+  },
+  "sources": [
+    { "en": "Event Warp (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" },
+    { "en": "Stellar Convergence", "uk": "Злиття зірок", "ru": "Слияние звёзд" }
+  ],
+  "assets": {
+    "art": "light_cones/past_self_in_mirror/art.png"
+  }
+}

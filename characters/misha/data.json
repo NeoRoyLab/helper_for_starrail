@@ -1,0 +1,76 @@
+{
+  "id": "misha",
+  "name": {
+    "en": "Misha",
+    "uk": "Міша",
+    "ru": "Миша"
+  },
+  "rarity": 4,
+  "element": "ice",
+  "path": "the_destruction",
+  "description": {
+    "en": "A lovable and thoughtful bellboy of The Reverie Hotel. He wishes to become an intergalactic adventurer like his grandfather. He is extremely hardworking and is skilled at fixing a variety of machines. He also has a fondness for sharing interstellar rumors with guests. He hopes he can grow up faster and looks forward to embarking on his own star-treading journey.",
+    "uk": "Милий і кмітливий коридорний готелю «Мрії». Мріє стати міжгалактичним мандрівником, як його дідусь. Міша надзвичайно працьовитий і вправно ремонтує різноманітні механізми. А ще він полюбляє ділитися з гостями міжзоряними чутками. Він сподівається якнайшвидше подорослішати й із нетерпінням чекає дня, коли вирушить у власну подорож серед зірок.",
+    "ru": "Милый и сообразительный коридорный отеля «Грёзы». Мечтает стать межгалактическим путешественником, как его дедушка. Миша чрезвычайно трудолюбив и искусен в починке различных механизмов. А ещё любит делиться с постояльцами межзвёздными слухами. Он надеется поскорее вырасти и с нетерпением ждёт дня, когда отправится в путешествие среди звёзд."
+  },
+  "assets": {
+    "portrait": "characters/misha/portrait.png",
+    "thumbnail": "characters/misha/thumb.png"
+  },
+  "stats": {
+    "hp": 1270,
+    "atk": 599,
+    "def": 396,
+    "spd": 96,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "dream_collection_component",
+    "ascension_unique": "dream_fridge",
+    "trace_group": "borisin_teeth",
+    "trace_unique": "past_evils_of_the_borehole_planet_disaster"
+  },
+  "best_light_cones": [
+    { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": true },
+    { "item_id": "a_secret_vow", "rarity": 4, "is_best": true },
+    { "item_id": "on_the_fall_of_an_aeon", "rarity": 5, "is_best": false },
+    { "item_id": "something_irreplaceable", "rarity": 5, "is_best": false },
+    { "item_id": "under_the_blue_sky", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "scholar_lost_in_erudition",
+    "hunter_of_glacial_forest",
+    "pioneer_diver_of_dead_waters"
+  ],
+  "best_ornaments": [
+    "firmament_frontline_glamoth",
+    "rutilant_arena",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "ice_dmg", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "bronya"
+  ]
+}

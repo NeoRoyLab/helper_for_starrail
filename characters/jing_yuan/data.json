@@ -1,0 +1,73 @@
+{
+  "id": "jing_yuan",
+  "name": {
+    "en": "Jing Yuan",
+    "uk": "Цзін Юань",
+    "ru": "Цзин Юань"
+  },
+  "rarity": 5,
+  "element": "lightning",
+  "path": "the_erudition",
+  "description": {
+    "en": "Although his appearance may be one of indolence, the Cloud Knight general who commands the Xianzhou Luofu is more meticulous than seemingly meets the eye. He does not consider saving a situation from the brink of disaster to be a show of wisdom, and is thus fastidious with routine affairs to avoid any potential problems. Due to his careful management, the Xianzhou have enjoyed many years of peace, with Jing Yuan's seemingly lazy demeanor having earned him the moniker of \"Dozing General.\"",
+    "uk": "Хоча генерал Хмарних Лицарів, який керує Лофу Сяньчжоу, здається безтурботним, насправді він набагато відповідальніший, ніж видається на перший погляд. Він не вважає порятунок ситуації на межі катастрофи проявом мудрості, тому ретельно займається повсякденними справами, щоб уникнути можливих проблем. Завдяки його вдумливому керівництву Сяньчжоу вже багато років живе в мирі, а за зовнішню лінивість Цзін Юань отримав прізвисько «Дрімотний генерал».",
+    "ru": "Несмотря на праздную манеру поведения, генерал Облачных Рыцарей, руководящий Лофу Сяньчжоу, гораздо более ответственен, чем кажется на первый взгляд. Он не считает урегулирование катастрофических происшествий признаком мудрости, а потому предпочитает выполнять рутинные задачи со всей тщательностью, чтобы избежать потенциального риска. Благодаря вдумчивому руководству генерала Цзин Юаня Сяньчжоу вот уже много лет пребывает в мире, а за внешнюю леность военачальника прозвали Дремлющим генералом."
+  },
+  "assets": {
+    "portrait": "characters/jing_yuan/portrait.png",
+    "thumbnail": "characters/jing_yuan/thumb.png"
+  },
+  "stats": {
+    "hp": 1164,
+    "atk": 698,
+    "def": 485,
+    "spd": 99,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "immortal_scionette",
+    "ascension_unique": "shape_shifters_lightning_staff",
+    "trace_group": "key_of_inspiration",
+    "trace_unique": "destroyers_final_road"
+  },
+  "best_light_cones": [
+    { "item_id": "before_dawn", "rarity": 5, "is_best": true },
+    { "item_id": "a_dream_scented_in_wheat", "rarity": 4, "is_best": true },
+    { "item_id": "today_is_another_peaceful_day", "rarity": 4, "is_best": false },
+    { "item_id": "geniuses_repose", "rarity": 4, "is_best": false },
+    { "item_id": "the_seriousness_of_breakfast", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "the_ashblazing_grand_duke",
+    "band_of_sizzling_thunder",
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "the_wondrous_bananamusement_park",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "lightning_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": ["aventurine"]
+}

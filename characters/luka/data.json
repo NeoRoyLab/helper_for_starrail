@@ -1,0 +1,77 @@
+{
+  "id": "luka",
+  "name": {
+    "en": "Luka",
+    "uk": "Лука",
+    "ru": "Лука"
+  },
+  "rarity": 4,
+  "element": "physical",
+  "path": "the_nihility",
+  "description": {
+    "en": "An optimistic and carefree fighter with a mechanical arm. Skilled in mixed martial arts and a member of Wildfire. From the boxing ring to the battlefield, and from a fighter to a warrior, Luka uses his strength to protect the people of the Underworld. Having once experienced true despair, he now strives to bring hope to others.",
+    "uk": "Життєрадісний і волелюбний боєць із механічною рукою. Володіє змішаними бойовими мистецтвами та є членом Дикого Вогню. Від рингу до поля бою, від бійця до солдата — Лука використовує свою силу, щоб захищати мешканців Підзем'я. Колись він пізнав справжній відчай, тому тепер прагне дарувати надію іншим.",
+    "ru": "Жизнерадостный и свободолюбивый боец с механической рукой. Владеет смешанными единоборствами, один из членов Дикого Огня. От ринга до поля боя, от бойца до солдата — Лука использует свою силу, чтобы защитить людей Подземья. Когда-то его настигло истинное отчаяние, поэтому теперь он стремится дать надежду другим."
+  },
+  "assets": {
+    "portrait": "characters/luka/portrait.png",
+    "thumbnail": "characters/luka/thumb.png"
+  },
+  "stats": {
+    "hp": 917,
+    "atk": 582,
+    "def": 485,
+    "spd": 103,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "ancient_part",
+    "ascension_unique": "broken_teeth_of_iron_wolf",
+    "trace_group": "obsidian_of_dread",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "lies_dance_on_the_breeze", "rarity": 5, "is_best": true },
+    { "item_id": "good_night_and_sleep_well", "rarity": 4, "is_best": true },
+    { "item_id": "patience_is_all_you_need", "rarity": 5, "is_best": false },
+    { "item_id": "eyes_of_the_prey", "rarity": 4, "is_best": false },
+    { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "prisoner_in_deep_confinement",
+    "thief_of_shooting_meteor",
+    "champion_of_streetwise_boxing"
+  ],
+  "best_ornaments": [
+    "revelry_by_the_sea",
+    "firmament_frontline_glamoth",
+    "talia_kingdom_of_banditry"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "effect_hit_rate", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "physical_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "break_effect", "sep": ">=" },
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "effect_hit_rate", "sep": ">" },
+    { "id": "break_effect", "sep": ">=" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "boothill",
+    "black_swan"
+  ]
+}

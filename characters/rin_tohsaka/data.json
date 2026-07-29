@@ -1,0 +1,123 @@
+{
+  "id": "rin_tohsaka",
+  "name": {
+    "en": "Rin Tohsaka",
+    "uk": "Рін Тосака",
+    "ru": "Рин Тосака"
+  },
+  "rarity": 5,
+  "element": "quantum",
+  "path": "the_erudition",
+  "description": {
+    "en": "Hailing from a world beyond our universe where magic and magecraft coexist, this young mage tirelessly hones her skills. She is the Sixth Head of the Tohsaka family, a prestigious lineage of Fuyuki City mages.",
+    "uk": "Родом зі світу за межами нашого всесвіту, де співіснують магія й чаклунство, ця юна магиня невтомно вдосконалює свої навички. Вона — шоста глава родини Тосака, славетної династії магів міста Фуюкі.",
+    "ru": "Родом из мира за пределами нашей вселенной, где сосуществуют магия и волшебство, эта юная волшебница неустанно оттачивает свои навыки. Шестой глава семьи Тосака, потомственной династии магов города Фуюки."
+  },
+  "assets": {
+    "portrait": "characters/rin_tohsaka/portrait.png",
+    "thumbnail": "characters/rin_tohsaka/thumb.png"
+  },
+  "stats": {
+    "hp": 1047,
+    "atk": 698,
+    "def": 460,
+    "spd": 102,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "thiefs_instinct",
+    "ascension_unique": "sneering_harlequin",
+    "trace_group": "celestial_globe",
+    "trace_unique": "destroyers_final_road"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "flickering_stars",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "life_should_be_cast_to_flames",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "into_the_unreachable_veil",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "eternal_calculus",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "today_is_another_peaceful_day",
+      "rarity": 4,
+      "is_best": true
+    }
+  ],
+  "best_relics": [
+    "genius_of_brilliant_stars",
+    "the_ashblazing_grand_duke",
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "penacony_land_of_the_dreams",
+    "city_of_converging_stars",
+    "lushaka_the_sunken_seas"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_rate"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed",
+        "sep": ">"
+      },
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "quantum_dmg"
+      }
+    ],
+    "rope": [
+      {
+        "id": "energy_regen",
+        "sep": ">"
+      },
+      {
+        "id": "atk_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "archer",
+    "cerydra",
+    "cipher"
+  ]
+}

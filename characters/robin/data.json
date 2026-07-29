@@ -1,0 +1,76 @@
+{
+  "id": "robin",
+  "name": {
+    "en": "Robin",
+    "uk": "Вільшанка",
+    "ru": "Зарянка"
+  },
+  "rarity": 5,
+  "element": "physical",
+  "path": "the_harmony",
+  "description": {
+    "en": "A Halovian singer born in Penacony who rose to cosmic fame. An elegant and demure young lady. This time, she has been invited home by The Family to grace everyone with a song at the Charmony Festival. She can use the power of Harmony to broadcast her music, manifesting \"resonance\" among not only her fans but all manner of lifeforms.",
+    "uk": "Співачка-галовіанка родом із Пенаконії, яка здобула славу в усьому космосі. Витончена й скромна дівчина. Сім'я запросила її повернутися додому, щоб виконати пісню на Фестивалі гармонії. Вона використовує силу Гармонії, щоб передавати свою музику й викликати «резонанс» не лише у шанувальників, а й у всіх форм життя.",
+    "ru": "Певица-галовианка родом с Пенаконии, которая прославилась на весь космос. Изящная и скромная девушка. Семья пригласила вернуться её домой, чтобы она исполнила песню на Фестивале гармонии. Она использует силу Гармонии, чтобы передавать свою музыку и «резонировать» не только с фанатами, но и со всеми формами жизни."
+  },
+  "assets": {
+    "portrait": "characters/robin/portrait.png",
+    "thumbnail": "characters/robin/thumb.png"
+  },
+  "stats": {
+    "hp": 1280,
+    "atk": 640,
+    "def": 485,
+    "spd": 102,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "dream_collection_component",
+    "ascension_unique": "ipc_work_permit",
+    "trace_group": "firmament_note",
+    "trace_unique": "lost_echo_of_the_shared_wish"
+  },
+  "best_light_cones": [
+    { "item_id": "flowing_nightglow", "rarity": 5, "is_best": true },
+    { "item_id": "for_tomorrows_journey", "rarity": 4, "is_best": true },
+    { "item_id": "but_the_battle_isnt_over", "rarity": 5, "is_best": false },
+    { "item_id": "a_grounded_ascent", "rarity": 5, "is_best": false },
+    { "item_id": "meshing_cogs", "rarity": 3, "is_best": false }
+  ],
+  "best_relics": [
+    "musketeer_of_wild_wheat",
+    "prisoner_in_deep_confinement",
+    "the_wind_soaring_valorous"
+  ],
+  "best_ornaments": [
+    "sprightly_vonwacq",
+    "fleet_of_the_ageless",
+    "broken_keel"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "atk_percent" }
+    ],
+    "feet": [
+      { "id": "atk_percent", "sep": ">" },
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "atk_percent", "sep": ">" },
+      { "id": "physical_dmg" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "atk_percent", "sep": ">=" },
+    { "id": "speed", "sep": ">" },
+    { "id": "hp_percent", "sep": "=" },
+    { "id": "def_percent", "sep": "" }
+  ],
+  "synergy": [
+    "aglaea",
+    "ashveil"
+  ]
+}

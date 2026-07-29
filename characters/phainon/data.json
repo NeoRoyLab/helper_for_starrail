@@ -1,0 +1,122 @@
+{
+  "id": "phainon",
+  "name": {
+    "en": "Phainon",
+    "uk": "Фаенон",
+    "ru": "Фаенон"
+  },
+  "rarity": 5,
+  "element": "physical",
+  "path": "the_destruction",
+  "description": {
+    "en": "Aedes Elysiae, a remote frontier village isolated from the world, now lives on only in cryptic legends. Nameless hero █████, the Chrysos Heir carrying the Coreflame of \"Worldbearing\", you must memorize the ideals of all worlds, carry the fate of multitudes, and bring the first light of dawn to the new world — \"But should dawn have never existed, let the fires of rage burn this body to ashes and transform into the blazing sun of tomorrow!\"",
+    "uk": "Елізія Ейдес, віддалене селище на краю світу, тепер живе лише в туманних легендах. Безіменний герою █████, златіусе, що несе ядро полум'я «Опори світу», ти маєш пам'ятати ідеали всіх світів, нести на своїх плечах долі багатьох і принести перше світло світанку в новий світ — «Та якщо світанку ніколи не існувало, нехай полум'я люті спалить це тіло дотла й перетворить його на палаюче сонце завтрашнього дня!»",
+    "ru": "Элизия Эйдес, изолированная деревня на краю мира, теперь осталась лишь в туманных легендах. Безымянный герой █████, златиус, обладающий ядром пламени опоры мира, ты должен помнить об идеалах и нести на своих плечах судьбы людей, чтобы первые лучи рассвета озарили новый мир — «Но если рассвет никогда не настанет, пусть ярость сожжёт моё тело и превратит его в солнце завтрашнего дня!»"
+  },
+  "assets": {
+    "portrait": "characters/phainon/portrait.png",
+    "thumbnail": "characters/phainon/thumb.png"
+  },
+  "stats": {
+    "hp": 1433,
+    "atk": 582,
+    "def": 703,
+    "spd": 94,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "ethereal_omen",
+    "ascension_unique": "invasive_clot",
+    "trace_group": "borisin_teeth",
+    "trace_unique": "daythunder_anamnesis"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "thus_burns_the_dawn",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "on_the_fall_of_an_aeon",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "something_irreplaceable",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "a_trail_of_bygone_blood",
+      "rarity": 4,
+      "is_best": true
+    }
+  ],
+  "best_relics": [
+    "as_navigator_isee_sees_it",
+    "wavestrider_captain",
+    "champion_of_streetwise_boxing"
+  ],
+  "best_ornaments": [
+    "arcadia_of_woven_dreams",
+    "rutilant_arena"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_rate",
+        "sep": ">"
+      },
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed",
+        "sep": "="
+      },
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "physical_dmg",
+        "sep": ">"
+      },
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "atk_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "crit_rate",
+      "sep": ">"
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "cerydra",
+    "cyrene",
+    "bronya",
+    "cipher"
+  ]
+}

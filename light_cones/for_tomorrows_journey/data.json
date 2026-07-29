@@ -1,0 +1,33 @@
+{
+  "id": "for_tomorrows_journey",
+  "name": {
+    "en": "For Tomorrow's Journey",
+    "uk": "Заради завтрашньої подорожі",
+    "ru": "За завтрашнее путешествие"
+  },
+  "rarity": 4,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 16-32%. After the wearer uses their Ultimate, increases their DMG dealt by 18-30%, lasting for 1 turn.",
+    "uk": "Підвищує силу атаки власника на 16-32%. Після використання надздібності завдана власником шкода підвищується на 18-30% на 1 хід.",
+    "ru": "Сила атаки владельца повышается на 16-32%. После того как владелец использует сверхспособность, наносимый урон повышается на 18-30% на 1 ход."
+  },
+  "sources": [
+    {
+      "en": "Clockie: Dreamjoy Memoir (Limited-Time Event Reward)",
+      "uk": "Годинник: Мемуари про солодкі сни (Тимчасова нагорода події)",
+      "ru": "Часик: Мемуары о сладких грёзах (Временная награда события)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/for_tomorrows_journey/art.png"
+  }
+}

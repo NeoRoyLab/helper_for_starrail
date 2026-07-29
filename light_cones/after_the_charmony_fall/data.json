@@ -1,0 +1,33 @@
+{
+  "id": "after_the_charmony_fall",
+  "name": {
+    "en": "After the Charmony Fall",
+    "uk": "Після затишшя Гармонії",
+    "ru": "После затишья Гармонии"
+  },
+  "rarity": 4,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 28-56%. After the wearer uses Ultimate, increases SPD by 8-16%, lasting for 2 turns.",
+    "uk": "Підвищує ефект пробиття власника на 28-56%. Після використання надздібності швидкість власника підвищується на 8-16% на 2 ходи.",
+    "ru": "Повышает эффект пробития владельца на 28-56%. После использования сверхспособности скорость владельца повышается на 8-16% на 2 хода."
+  },
+  "sources": [
+    {
+      "en": "Event Warp",
+      "uk": "Стрибок події",
+      "ru": "Прыжок события"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/after_the_charmony_fall/art.png"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "lynx",
+  "name": {
+    "en": "Lynx",
+    "uk": "Рись",
+    "ru": "Рысь"
+  },
+  "rarity": 4,
+  "element": "quantum",
+  "path": "the_abundance",
+  "description": {
+    "en": "The youngest daughter of the Landau family, and one of Belobog's best extreme environments explorers. She is highly capable despite her apparent lack of motivation. She only appears introverted and lazy to avoid unnecessary socialization. As for what counts as unnecessary socialization — \"Um, isn't all socialization unnecessary?\"",
+    "uk": "Молодша донька родини Ландау й одна з найкращих дослідниць зон з екстремальними умовами в Білобозі. Дуже здібна, хоч і здається лінивою. Вона вдає замкнуту, щоб уникати зайвого спілкування. Яке спілкування зайве? «Хіба воно не все зайве?»",
+    "ru": "Младшая дочь семьи Ландау и одна из лучших исследователей зон экстремальных условий в Белобоге. Очень способная, хоть и ленивая. Она притворяется замкнутой, чтобы избежать ненужного общения. Какое общение ненужное? «Разве оно не всё ненужное?»"
+  },
+  "assets": {
+    "portrait": "characters/lynx/portrait.png",
+    "thumbnail": "characters/lynx/thumb.png"
+  },
+  "stats": {
+    "hp": 1058,
+    "atk": 493,
+    "def": 551,
+    "spd": 100,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "nail_of_the_ape",
+    "trace_group": "seed_of_abundance",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "night_of_fright", "rarity": 5, "is_best": true },
+    { "item_id": "post_op_conversation", "rarity": 4, "is_best": true },
+    { "item_id": "time_waits_for_no_one", "rarity": 5, "is_best": false },
+    { "item_id": "perfect_timing", "rarity": 4, "is_best": false },
+    { "item_id": "quid_pro_quo", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "warrior_goddess_of_sun_and_thunder",
+    "messenger_traversing_hackerspace",
+    "passerby_of_wandering_cloud"
+  ],
+  "best_ornaments": [
+    "fleet_of_the_ageless",
+    "broken_keel",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "outgoing_healing", "sep": ">" },
+      { "id": "hp_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "hp_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "hp_percent", "sep": ">" },
+    { "id": "effect_res", "sep": ">" },
+    { "id": "def_percent", "sep": "" }
+  ],
+  "synergy": [
+    "blade",
+    "clara"
+  ]
+}

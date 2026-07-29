@@ -1,0 +1,105 @@
+{
+  "id": "rappa",
+  "name": {
+    "en": "Rappa",
+    "uk": "Раппа",
+    "ru": "Раппа"
+  },
+  "rarity": 5,
+  "element": "imaginary",
+  "path": "the_erudition",
+  "description": {
+    "en": "A peculiar girl who appears in Penacony like a flashbang at the darkest hour of night, identifying herself as a ninja and attributing everything in the world to \"ninjutsu.\" Upholding the recitation of ninja mantra, creating Dazzling Ninja Seals, and mastering ninja techniques, the Way of the Ninja involves rap, graffiti, and comics. Through rigorous self-discipline, she roams the stars, upholding justice and righteousness. As a member of the Galaxy Rangers, she relentlessly pursues the villain known as Evil Ninja Osaru, chasing them to the very edge of the Cosmos.",
+    "uk": "Незвичайна дівчина, яка несподівано з'явилася на Пенаконії, наче світлошумова граната серед темної ночі. Називає себе ніндзя й приписує все у світі «ніндзюцу». Ідучи Шляхом ніндзя, вона промовляє мантри, створює печатки й опановує техніки ніндзя, тобто читає реп, малює графіті та читає комікси. Завдяки суворій самодисципліні вона мандрує космосом, захищаючи справедливість. Як членкиня Галактичних рейнджерів, вона невпинно переслідує лиходія, відомого як Злий Ніндзя Осару, по всьому космосу.",
+    "ru": "Необычная девушка, которая неожиданно появилась на Пенаконии, словно светошумовая бомба в ночи. Называет себя ниндзя и приписывает всё на свете «ниндзюцу». Идя по Пути Ниндзя, она заучивает мантры ниндзя, создаёт печати ниндзя, а также оттачивает техники ниндзя, то есть читает рэп, создаёт граффити и читает комиксы. Благодаря строгой самодисциплине она путешествует по космосу, защищая справедливость. Будучи Галактическим рейнджером, она неустанно преследует злодея, известного как Злой Ниндзя Осару, гоняясь за ним по всему космосу."
+  },
+  "assets": {
+    "portrait": "characters/rappa/portrait.png",
+    "thumbnail": "characters/rappa/thumb.png"
+  },
+  "stats": {
+    "hp": 1087,
+    "atk": 717,
+    "def": 460,
+    "spd": 96,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "dream_collection_component",
+    "ascension_unique": "chordal_mirage",
+    "trace_group": "rough_sketch",
+    "trace_unique": "lost_echo_of_the_shared_wish"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "ninjutsu_inscription_dazzling_evilbreaker",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "after_the_charmony_fall",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "eternal_calculus",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "make_the_world_clamor",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "iron_cavalry_against_the_scourge",
+    "thief_of_shooting_meteor",
+    "eagle_of_twilight_line"
+  ],
+  "best_ornaments": [
+    "talia_kingdom_of_banditry",
+    "forge_of_the_kalpagni_lantern"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "atk_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "break_effect",
+        "sep": ">="
+      },
+      {
+        "id": "energy_regen"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "break_effect",
+      "sep": ">"
+    },
+    {
+      "id": "atk_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "march_7th_evernight",
+  "name": {
+    "en": "March 7th • Evernight",
+    "uk": "Март 7 • Темрява",
+    "ru": "Март 7 • Темень"
+  },
+  "rarity": 5,
+  "element": "ice",
+  "path": "the_remembrance",
+  "description": {
+    "en": "In the secluded Memory Zone, candlelight casts echoes of the past, softly fading away in the mist. Evernight, child of Remembrance born from the shadow, Chrysos Heir who conceals the Coreflame of Time, you shall stir the tide of Oblivion, guarding the wish of the mirrored soul.",
+    "uk": "У відокремленій від світу зоні спогадів світло свічки віддзеркалює минуле й тихо згасає в тумані. Темряво, дитя Пам'яті з тіні, златіусе, що приховує ядро полум'я часу, ти маєш здійняти хвилю Забуття, захищаючи бажання тієї, що в дзеркалі.",
+    "ru": "В изолированной от мира зоне воспоминаний, где свет свечи отражает прошлое и тихо гаснет в тумане. Темень, дитя Памяти из тени, златиус, скрывающий ядро пламени времени, ты должна поднять волну Забвения, защищая желание той, что в зеркале."
+  },
+  "assets": {
+    "portrait": "characters/march_7th_evernight/portrait.png",
+    "thumbnail": "characters/march_7th_evernight/thumb.png"
+  },
+  "stats": {
+    "hp": 1319,
+    "atk": 543,
+    "def": 582,
+    "spd": 99,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "ethereal_omen",
+    "ascension_unique": "sea_sirens_torn_fin",
+    "trace_group": "bija_of_consciousness",
+    "trace_unique": "daythunder_anamnesis"
+  },
+  "best_light_cones": [
+    { "item_id": "to_evernights_stars", "rarity": 5, "is_best": true },
+    { "item_id": "sweat_now_cry_less", "rarity": 4, "is_best": true },
+    { "item_id": "make_farewells_more_beautiful", "rarity": 5, "is_best": false },
+    { "item_id": "the_flower_remembers", "rarity": 4, "is_best": false },
+    { "item_id": "the_storys_next_page", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "world_remaking_deliverer",
+    "scholar_lost_in_erudition",
+    "longevous_disciple"
+  ],
+  "best_ornaments": [
+    "bone_collections_serene_demesne",
+    "arcadia_of_woven_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "ice_dmg", "sep": "=" },
+      { "id": "hp_percent" }
+    ],
+    "rope": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "hp_percent", "sep": ">" },
+    { "id": "speed", "sep": "" }
+  ],
+  "synergy": [
+    "castorice",
+    "cyrene"
+  ]
+}

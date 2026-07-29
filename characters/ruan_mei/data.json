@@ -1,0 +1,77 @@
+{
+  "id": "ruan_mei",
+  "name": {
+    "en": "Ruan Mei",
+    "uk": "Жуань Мей",
+    "ru": "Жуань Мэй"
+  },
+  "rarity": 5,
+  "element": "ice",
+  "path": "the_harmony",
+  "description": {
+    "en": "A sweet-tempered and elegant scholar, and Member #81 of the Genius Society. An expert in the biological sciences. She earned Nous' attention with her talent and terrifying perseverance, and began her research on the origin of life in a secret corner of the universe. Because of that, she was invited by Herta to collaborate with Screwllum and Stephen to develop the Simulated Universe. Secretly, she greatly enjoys traditional theater and desserts, and she is also very interested in embroidery.",
+    "uk": "Доброзичлива й витончена вчена, членкиня Товариства геніїв №81 та фахівчиня з біологічних наук. Завдяки таланту й неймовірній наполегливості вона привернула увагу Нуса та почала досліджувати походження життя в таємному куточку Всесвіту. Герта запросила її разом зі Скрюллумом і Стівеном працювати над Віртуальним всесвітом. У приватному житті вона любить традиційний театр і десерти, а також захоплюється вишивкою.",
+    "ru": "Великодушная и элегантная учёная, член Общества гениев №81, эксперт в области биологических наук. Благодаря своему таланту и удивительной настойчивости она привлекла внимание Нус и начала изучать возникновение жизни в тайном уголке Вселенной. Герта пригласила её вместе со Скрюллумом и Стивеном участвовать в разработке Виртуальной вселенной. В своей приватной жизни она любит традиционный театр и десерты, а ещё увлекается вышивкой."
+  },
+  "assets": {
+    "portrait": "characters/ruan_mei/portrait.png",
+    "thumbnail": "characters/ruan_mei/thumb.png"
+  },
+  "stats": {
+    "hp": 1086,
+    "atk": 659,
+    "def": 485,
+    "spd": 104,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "immortal_scionette",
+    "ascension_unique": "gelid_chitin",
+    "trace_group": "harmonic_tune",
+    "trace_unique": "past_evils_of_the_borehole_planet_disaster"
+  },
+  "best_light_cones": [
+    { "item_id": "past_self_in_mirror", "rarity": 5, "is_best": true },
+    { "item_id": "in_pursuit_of_the_wind", "rarity": 4, "is_best": true },
+    { "item_id": "memories_of_the_past", "rarity": 4, "is_best": false },
+    { "item_id": "meshing_cogs", "rarity": 3, "is_best": false },
+    { "item_id": "dance_dance_dance", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "watchmaker_master_of_dream_machinations",
+    "messenger_traversing_hackerspace",
+    "thief_of_shooting_meteor"
+  ],
+  "best_ornaments": [
+    "sprightly_vonwacq",
+    "broken_keel",
+    "fleet_of_the_ageless"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "def_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "def_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen", "sep": ">" },
+      { "id": "break_effect" }
+    ]
+  },
+  "best_substats": [
+    { "id": "break_effect", "sep": ">" },
+    { "id": "speed", "sep": ">" },
+    { "id": "hp_percent", "sep": "=" },
+    { "id": "def_percent", "sep": ">" },
+    { "id": "effect_res", "sep": "" }
+  ],
+  "synergy": [
+    "boothill"
+  ]
+}

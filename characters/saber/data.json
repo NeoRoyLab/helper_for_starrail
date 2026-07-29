@@ -1,0 +1,75 @@
+{
+  "id": "saber",
+  "name": {
+    "en": "Saber",
+    "uk": "Сейбер",
+    "ru": "Сэйбер"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_destruction",
+  "description": {
+    "en": "The solitary Heroic Spirit traverses the long night of fate. The banner of the round table remains unfurled in a dream. Alas, the knight-king of Camelot has yet to reach that ever distant utopia. Though still a young maiden, she has heeded the call for this most unique iteration of the Holy Grail War. With the Sword in the Stone offering its choice once more, how shall she shatter the illusions of the past? \"The wishes I did not fulfil will end here.\"",
+    "uk": "Самотній героїчний дух іде крізь довгу ніч долі, а прапор круглого столу все ще майорить уві сні. Король лицарів Камелота досі не здійснила своєї мрії. Ще зовсім юною вона взяла участь у Війні Святого Грааля. Меч у камені знову пропонує вибір — як вона зруйнує ілюзії минулого? «Моє нездійснене бажання закінчиться тут».",
+    "ru": "Одинокая героическая душа идёт сквозь долгую ночь судьбы, а знамя круглого стола всё ещё развевается во сне. Рыцарь-король Камелота ещё не исполнил свою мечту. Ещё совсем юной она приняла участие в войне Святого Грааля. Меч в камне вновь предлагает выбор, как ей разрушить иллюзии прошлого? «Моё неисполнившееся желание закончится здесь»."
+  },
+  "assets": {
+    "portrait": "characters/saber/portrait.png",
+    "thumbnail": "characters/saber/thumb.png"
+  },
+  "stats": {
+    "hp": 1241,
+    "atk": 601,
+    "def": 654,
+    "spd": 101,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "thiefs_instinct",
+    "ascension_unique": "a_glass_of_the_besotted_era",
+    "trace_group": "borisin_teeth",
+    "trace_unique": "destroyers_final_road"
+  },
+  "best_light_cones": [
+    { "item_id": "a_thankless_coronation", "rarity": 5, "is_best": true },
+    { "item_id": "a_trail_of_bygone_blood", "rarity": 4, "is_best": true },
+    { "item_id": "i_am_as_you_behold", "rarity": 5, "is_best": false },
+    { "item_id": "on_the_fall_of_an_aeon", "rarity": 5, "is_best": false },
+    { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "wavestrider_captain",
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "cosmic_life_sciences_institute",
+    "izumo_gensei_and_takama_divine_realm",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_dmg", "sep": ">" },
+      { "id": "crit_rate" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "wind_dmg", "sep": "=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "bronya"
+  ]
+}

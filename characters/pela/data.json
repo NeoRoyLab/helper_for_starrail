@@ -1,0 +1,115 @@
+{
+  "id": "pela",
+  "name": {
+    "en": "Pela",
+    "uk": "Пела",
+    "ru": "Пела"
+  },
+  "rarity": 4,
+  "element": "ice",
+  "path": "the_nihility",
+  "description": {
+    "en": "The meticulous Intelligence Officer of the Silvermane Guards, while young, she is undeniably brilliant. Whether it relates to maneuvering troops, distributing supplies, or the terrain, Pela can answer any problems with calm certainty. As for her phone case... \"It has nothing to do with work, Captain.\"",
+    "uk": "Молода й педантична офіцерка розвідки Срібногривих Вартових. Попри свій вік, вона надзвичайно талановита. Пела без вагань упорається з будь-якою проблемою — чи то маневрування військ, розподіл припасів або аналіз місцевості. А щодо чохла її телефона... «Капітане, це не стосується роботи».",
+    "ru": "Молодой и педантичный офицер разведки из Среброгривых Стражей. Несмотря на возраст, она необычайно талантлива. Пела без колебаний справляется с любой проблемой, будь то маневрирование войск, распределение припасов или анализ ландшафта. А что касается чехла её телефона... «Командующий, это к работе не относится»."
+  },
+  "assets": {
+    "portrait": "characters/pela/portrait.png",
+    "thumbnail": "characters/pela/thumb.png"
+  },
+  "stats": {
+    "hp": 987,
+    "atk": 546,
+    "def": 463,
+    "spd": 105,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "extinguished_core",
+    "ascension_unique": "horn_of_snow",
+    "trace_group": "obsidian_of_dread",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "lies_dance_on_the_breeze",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "resolution_shines_as_pearls_of_sweat",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "before_the_tutorial_mission_starts",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "eagle_of_twilight_line",
+    "messenger_traversing_hackerspace",
+    "warrior_goddess_of_sun_and_thunder"
+  ],
+  "best_ornaments": [
+    "broken_keel",
+    "fleet_of_the_ageless",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "effect_hit_rate",
+        "sep": ">"
+      },
+      {
+        "id": "hp_percent"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "hp_percent",
+        "sep": ">="
+      },
+      {
+        "id": "def_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "energy_regen"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "effect_hit_rate",
+      "sep": "="
+    },
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "hp_percent",
+      "sep": "="
+    },
+    {
+      "id": "def_percent",
+      "sep": ">"
+    },
+    {
+      "id": "effect_res",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "acheron"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "in_pursuit_of_the_wind",
+  "name": {
+    "en": "In Pursuit of the Wind",
+    "uk": "У гонитві за вітром",
+    "ru": "Гоняясь за ветром"
+  },
+  "rarity": 4,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "After entering battle, increases all allies' Break DMG dealt by 16-24%. Abilities of the same type cannot stack.",
+    "uk": "Після вступу в бій завдана всіма союзниками шкода пробиття підвищується на 16-24%. Ефекти одного типу не складаються.",
+    "ru": "В начале боя наносимый всеми союзниками урон пробития повышается на 16-24%. Этот эффект не может складываться с эффектами подобного типа."
+  },
+  "sources": [
+    { "en": "Nameless Honor", "uk": "Честь Безіменних", "ru": "Честь Безымянных" }
+  ],
+  "assets": {
+    "art": "light_cones/in_pursuit_of_the_wind/art.png"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "jingliu",
+  "name": {
+    "en": "Jingliu",
+    "uk": "Цзінлю",
+    "ru": "Цзинлю"
+  },
+  "rarity": 5,
+  "element": "ice",
+  "path": "the_destruction",
+  "description": {
+    "en": "A legendary heroine from the High-Cloud Quintet who received the title \"Transcendent Flash.\" Having transcended mortal concepts of victory, she chose to walk a different path to obtain the power capable of slaying gods. Thereafter, one Sword Champion of the Luofu was removed from the Xianzhou's records, and one traitor whose name had been erased was added.",
+    "uk": "Легендарна героїня із Захмарного квінтету, яка отримала прізвисько Незбагненний Спалах. Відкинувши звичні людські уявлення про перемогу, вона обрала інший шлях, щоб здобути силу, здатну знищувати богів. Відтоді в записах Сяньчжоу стало на одного Майстра меча менше й на одну зрадницю зі стертим ім'ям більше.",
+    "ru": "Легендарная героиня из Заоблачного квинтета, получившая прозвище Непостижимая Зарница. Отринув привычные людские представления об исходе битвы, она выбрала другой путь, чтобы обрести силу, способную уничтожать богов. С тех пор в записях Сяньчжоу стало на одного Мастера меча меньше и на одного предателя, чьё имя было стёрто, больше."
+  },
+  "assets": {
+    "portrait": "characters/jingliu/portrait.png",
+    "thumbnail": "characters/jingliu/thumb.png"
+  },
+  "stats": {
+    "hp": 1435,
+    "atk": 679,
+    "def": 485,
+    "spd": 96,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "immortal_scionette",
+    "ascension_unique": "gelid_chitin",
+    "trace_group": "shattered_blade",
+    "trace_unique": "regret_of_infinite_ochema"
+  },
+  "best_light_cones": [
+    { "item_id": "flame_of_blood_blaze_my_path", "rarity": 5, "is_best": true },
+    { "item_id": "a_trail_of_bygone_blood", "rarity": 4, "is_best": true },
+    { "item_id": "i_shall_be_my_own_sword", "rarity": 5, "is_best": false },
+    { "item_id": "a_secret_vow", "rarity": 4, "is_best": false },
+    { "item_id": "ninja_record_sound_hunt", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "scholar_lost_in_erudition",
+    "longevous_disciple",
+    "hunter_of_glacial_forest"
+  ],
+  "best_ornaments": [
+    "bone_collections_serene_demesne",
+    "rutilant_arena",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "hp_percent" }
+    ],
+    "sphere": [
+      { "id": "ice_dmg", "sep": ">" },
+      { "id": "hp_percent" }
+    ],
+    "rope": [
+      { "id": "hp_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": ">" },
+    { "id": "hp_percent", "sep": ">" },
+    { "id": "crit_dmg", "sep": "" }
+  ],
+  "synergy": ["bronya", "cipher", "blade", "castorice"]
+}

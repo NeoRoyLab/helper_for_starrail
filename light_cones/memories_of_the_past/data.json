@@ -1,0 +1,29 @@
+{
+  "id": "memories_of_the_past",
+  "name": {
+    "en": "Memories of the Past",
+    "uk": "Спогади про минуле",
+    "ru": "Воспоминания о прошлом"
+  },
+  "rarity": 4,
+  "path": "harmony",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 952,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 28-56%. When the wearer attacks, additionally regenerates 4-8 Energy. This effect cannot be repeatedly triggered in a single turn.",
+    "uk": "Підвищує ефект пробиття власника на 28-56%. Коли власник атакує, додатково відновлює 4-8 од. енергії. Цей ефект не може спрацьовувати повторно протягом одного ходу.",
+    "ru": "Эффект пробития владельца повышается на 28-56%. Когда владелец атакует, дополнительно восстанавливает 4-8 ед. энергии. Этот эффект не может срабатывать повторно в течение одного хода."
+  },
+  "sources": [
+    { "en": "Warp", "uk": "Стрибок", "ru": "Прыжок" }
+  ],
+  "assets": {
+    "art": "light_cones/memories_of_the_past/art.png"
+  }
+}

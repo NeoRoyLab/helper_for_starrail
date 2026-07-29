@@ -1,0 +1,74 @@
+{
+  "id": "moze",
+  "name": {
+    "en": "Moze",
+    "uk": "Моцзе",
+    "ru": "Моцзэ"
+  },
+  "rarity": 4,
+  "element": "lightning",
+  "path": "the_hunt",
+  "description": {
+    "en": "A Shadow Guard of the Yaoqing, Moze is taciturn and solitary, always acting on his own. As an expert in intelligence services and other operations that must remain covert, Moze rarely shows himself before others. The moment he reveals his blade usually spells doom for his enemies. He commands a vast wealth of assassination techniques, coupled with an extraordinary obsession for orderliness and cleanliness.",
+    "uk": "Тіньовий страж із Яоцін Сяньчжоу. Мовчазний і потайний, завжди діє самостійно. Як фахівець із розвідки та інших операцій, що мають залишатися таємними, Моцзе рідко з'являється перед іншими. Мить, коли він оголює свій клинок, зазвичай стає останньою для його ворогів. Він досконало володіє численними техніками вбивства й надзвичайно одержимий порядком і чистотою.",
+    "ru": "Теневой страж с Яоцина Сяньчжоу. Скрытный и молчаливый, всегда работает один. Специалист по тайному сбору информации и другим задачам, о которых никому лучше не знать, Моцзэ редко показывается на людях. Обычно миг, когда он раскрывает свои настоящие возможности, для его врагов оказывается последним. Он крайне сведущ в методах скрытного убийства и необычайно помешан на чистоте и порядке."
+  },
+  "assets": {
+    "portrait": "characters/moze/portrait.png",
+    "thumbnail": "characters/moze/thumb.png"
+  },
+  "stats": {
+    "hp": 811,
+    "atk": 599,
+    "def": 352,
+    "spd": 111,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "artifexs_module",
+    "ascension_unique": "nail_of_the_beast_coffin",
+    "trace_group": "meteoric_bullet",
+    "trace_unique": "auspice_sliver"
+  },
+  "best_light_cones": [
+    { "item_id": "worrisome_blissful", "rarity": 5, "is_best": true },
+    { "item_id": "swordplay", "rarity": 4, "is_best": true },
+    { "item_id": "baptism_of_pure_thought", "rarity": 5, "is_best": false },
+    { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "pioneer_diver_of_dead_waters",
+    "scholar_lost_in_erudition",
+    "eagle_of_twilight_line"
+  ],
+  "best_ornaments": [
+    "duran_dynasty_of_running_wolves",
+    "izumo_gensei_and_takama_divine_realm",
+    "inert_salsotto"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "lightning_dmg" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "crit_rate", "sep": ">=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "aventurine",
+    "clara"
+  ]
+}

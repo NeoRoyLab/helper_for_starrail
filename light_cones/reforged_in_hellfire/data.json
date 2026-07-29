@@ -1,0 +1,33 @@
+{
+  "id": "reforged_in_hellfire",
+  "name": {
+    "en": "Reforged in Hellfire",
+    "uk": "Перекований у пекельному полум'ї",
+    "ru": "Перекованный в адском пламени"
+  },
+  "rarity": 5,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 62,
+    "hp_max": 1375,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's Max HP by 30-50%. At the start of the wearer's turn, regenerates a fixed amount of 20 Energy. This effect can trigger 1 time each wave. After the wearer uses Skill to attack, inflicts the target with the \"Purgatory\" state, lasting for 2 turns. While in the \"Purgatory\" state, the target receives 30-50% increased CRIT DMG and 30-50% additionally increased CRIT DMG from the wearer.",
+    "uk": "Збільшує максимальне HP власника на 30-50%. На початку ходу власника відновлює фіксовані 20 од. енергії. Цей ефект може спрацювати 1 раз за кожну хвилю. Після атаки навичкою накладає на ціль статус «Чистилище» на 2 ходи. Поки ціль має статус «Чистилище», отримувана нею критична шкода збільшується на 30-50%, а критична шкода, отримувана від власника, додатково збільшується на 30-50%.",
+    "ru": "Повышает макс. HP владельца на 30-50%. В начале хода владельца восстанавливает фиксированные 20 ед. энергии. Этот эффект может сработать 1 раз за каждую волну. После атаки навыком накладывает на цель статус «Чистилище» на 2 хода. Пока цель имеет статус «Чистилище», получаемый ею крит. урон повышается на 30-50%, а крит. урон, получаемый от владельца, дополнительно повышается на 30-50%."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/reforged_in_hellfire/art.png"
+  }
+}

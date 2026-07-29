@@ -1,0 +1,33 @@
+{
+  "id": "flickering_stars",
+  "name": {
+    "en": "Flickering Stars",
+    "uk": "Мерехтливі зорі",
+    "ru": "Мерцающие звёзды"
+  },
+  "rarity": 5,
+  "path": "erudition",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 28,
+    "atk_max": 635,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 18-30%. When any ally character consumes a total of 4 or more Skill Points in a single turn, the wearer gains \"Radiant Crown,\" lasting for 3 turns. While the wearer holds \"Radiant Crown,\" all allies' DMG dealt ignores 20-32% of the target's DEF, and the Skill DMG dealt by the wearer increases by 72-120%. Effects of the same type cannot stack.",
+    "uk": "Підвищує критичний шанс власника на 18-30%. Коли будь-який союзник витрачає загалом 4 або більше очок навичок протягом одного ходу, власник отримує «Сяючу корону» на 3 ходи. Поки власник має «Сяючу корону», завдана всіма союзниками шкода ігнорує 20-32% захисту цілі, а шкода навички власника підвищується на 72-120%. Ефекти одного типу не складаються.",
+    "ru": "Повышает крит. шанс владельца на 18-30%. Когда любой союзник расходует суммарно 4 или более очков навыков в течение одного хода, владелец получает «Сияющую корону» на 3 хода. Пока владелец имеет «Сияющую корону», наносимый всеми союзниками урон игнорирует 20-32% защиты цели, а урон навыка владельца повышается на 72-120%. Эффекты одного типа не складываются."
+  },
+  "sources": [
+    {
+      "en": "Collaboration Event Warp",
+      "uk": "Стрибок події колаборації",
+      "ru": "Прыжок события коллаборации"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/flickering_stars/art.png"
+  }
+}

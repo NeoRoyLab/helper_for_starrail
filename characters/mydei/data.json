@@ -1,0 +1,74 @@
+{
+  "id": "mydei",
+  "name": {
+    "en": "Mydei",
+    "uk": "Мідей",
+    "ru": "Мидей"
+  },
+  "rarity": 5,
+  "element": "imaginary",
+  "path": "the_destruction",
+  "description": {
+    "en": "Kremnos, swallowed by mist! City riven between chaos and war! The blood of patricide flows through its royal line, and its god bears the title of calamity. The undying Mydeimos, the lion apart from the rest. O Chrysos Heir that seeks the Coreflame of Strife, you must suffer a thousand deaths, be bathed in blood on the path home, and bear the madness of fate alone, for one must slay a god to become one.",
+    "uk": "Кремнос, поглинутий туманом! Місто, розірване хаосом і війною! У жилах його царського роду тече кров батьковбивства, а його бог носить титул лиха. Безсмертний Мідеймос, лев без прайду. О златіусе, що прагне ядра полум'я Розбрату, ти маєш пережити тисячу смертей, омитися кров'ю на шляху додому й самотужки нести безумство долі, адже, щоб стати богом, треба вбити бога.",
+    "ru": "Кремнос, поглощённый туманом! Город, раздираемый хаосом и войной! В жилах его царского рода течёт кровь отцеубийц, а его бог носит титул бедствия. О бессмертный Мидеймос, лев без прайда, златиус, охотящийся на ядро пламени раздора. Ты переживёшь тысячи смертей, вернёшься домой в крови и будешь в одиночку нести безумие своей судьбы, ибо нужно убить бога, чтобы стать богом."
+  },
+  "assets": {
+    "portrait": "characters/mydei/portrait.png",
+    "thumbnail": "characters/mydei/thumb.png"
+  },
+  "stats": {
+    "hp": 1552,
+    "atk": 426,
+    "def": 194,
+    "spd": 95,
+    "taunt": 125
+  },
+  "materials": {
+    "ascension_group": "fear_stomped_flesh",
+    "ascension_unique": "harbinger_of_strife",
+    "trace_group": "borisin_teeth",
+    "trace_unique": "auspice_sliver"
+  },
+  "best_light_cones": [
+    { "item_id": "flame_of_blood_blaze_my_path", "rarity": 5, "is_best": true },
+    { "item_id": "a_secret_vow", "rarity": 4, "is_best": true },
+    { "item_id": "the_unreachable_side", "rarity": 5, "is_best": false },
+    { "item_id": "ninja_record_sound_hunt", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "scholar_lost_in_erudition",
+    "longevous_disciple",
+    "pioneer_diver_of_dead_waters"
+  ],
+  "best_ornaments": [
+    "bone_collections_serene_demesne",
+    "rutilant_arena"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "hp_percent", "sep": "=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">" },
+      { "id": "hp_percent" }
+    ],
+    "sphere": [
+      { "id": "hp_percent", "sep": ">=" },
+      { "id": "imaginary_dmg" }
+    ],
+    "rope": [
+      { "id": "hp_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "hp_percent", "sep": ">=" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": "" }
+  ],
+  "synergy": [
+    "cyrene",
+    "castorice"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "echoes_of_the_coffin",
+  "name": {
+    "en": "Echoes of the Coffin",
+    "uk": "Відлуння з труни",
+    "ru": "Эхо из гроба"
+  },
+  "rarity": 5,
+  "path": "abundance",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's ATK by 24-40%. After the wearer uses an attack, for each different enemy target the wearer hits, regenerates 3-5 Energy. Each attack can regenerate Energy up to 3 times this way. After the wearer uses their Ultimate, all allies gain 12-20 SPD for 1 turn.",
+    "uk": "Підвищує силу атаки власника на 24-40%. Після атаки власника за кожного ураженого ним противника відновлює 3-5 од. енергії. Кожна атака може відновити енергію таким чином до 3 разів. Після використання власником надздібності швидкість усіх союзників підвищується на 12-20 од. на 1 хід.",
+    "ru": "Сила атаки владельца повышается на 24-40%. Каждый поражённый атакой владельца противник восстанавливает владельцу 3-5 ед. энергии. Каждая атака может восстановить энергию подобным образом до 3 раз. После использования владельцем сверхспособности скорость всех союзников повышается на 12-20 ед. на 1 ход."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    },
+    {
+      "en": "Stellar Convergence",
+      "uk": "Зоряне злиття",
+      "ru": "Слияние звёзд"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/echoes_of_the_coffin/art.png"
+  }
+}

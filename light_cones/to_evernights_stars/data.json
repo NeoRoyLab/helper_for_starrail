@@ -1,0 +1,33 @@
+{
+  "id": "to_evernights_stars",
+  "name": {
+    "en": "To Evernight's Stars",
+    "uk": "До зірок вічної ночі",
+    "ru": "Звёздному свету во тьме"
+  },
+  "rarity": 5,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 21,
+    "def_max": 463
+  },
+  "description": {
+    "en": "Increases the wearer's Max HP by 30-60%. When the wearer's memosprite uses an ability, the wearer gains \"Noctis.\" While the wearer has \"Noctis,\" all allies' memosprites ignore 20-30% of the target's DEF when dealing DMG. Increases the DMG dealt by the wearer and their memosprite by 30-60%. When the wearer's memosprite disappears, the wearer recovers 8-16 Energy. Similar effects cannot stack.",
+    "uk": "Підвищує макс. HP власника на 30-60%. Коли дух пам'яті власника використовує вміння, власник отримує статус «Ноктіс». Поки цей статус активний, усі духи пам'яті союзників під час завдання шкоди ігнорують 20-30% захисту цілі. Шкода власника та його духу пам'яті підвищується на 30-60%. Коли дух пам'яті власника зникає, власник відновлює 8-16 од. енергії. Подібні ефекти не складаються.",
+    "ru": "Макс. HP владельца повышается на 30-60%. Когда дух памяти владельца использует умение, владелец получает статус Ноктис. Пока владелец имеет статус Ноктис, все духи памяти союзников при нанесении урона игнорируют 20-30% защиты цели. Наносимый владельцем и его духом памяти урон повышается на 30-60%. Когда дух памяти владельца исчезает, владелец восстанавливает 8-16 ед. энергии. Подобные эффекты не складываются."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/to_evernights_stars/art.png"
+  }
+}
