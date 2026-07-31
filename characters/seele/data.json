@@ -1,0 +1,74 @@
+{
+  "id": "seele",
+  "name": {
+    "en": "Seele",
+    "uk": "Зеле",
+    "ru": "Зеле"
+  },
+  "rarity": 5,
+  "element": "quantum",
+  "path": "the_hunt",
+  "description": {
+    "en": "A spirited and valiant key member of Wildfire who grew up in the perilous Underworld of Belobog. She is accustomed to being on her own. Like her nickname \"Babochka,\" she flits through the battlefield with grace as she causes a storm.",
+    "uk": "Енергійна й відважна ключова учасниця Дикого Вогню, яка виросла в небезпечному Підзем'ї Білобога. Вона звикла покладатися лише на себе. Подібно до свого прізвиська «Метелик», Зеле граційно пурхає полем бою, здіймаючи бурю.",
+    "ru": "Энергичная и отважная ключевая участница Дикого Огня, выросшая в опасном Подземье Белобога. Она привыкла полагаться только на себя. Подобно своему прозвищу «Бабочка», Зеле грациозно порхает по полю боя, поднимая бурю."
+  },
+  "assets": {
+    "portrait": "characters/seele/portrait.png",
+    "thumbnail": "characters/seele/thumb.png"
+  },
+  "stats": {
+    "hp": 931,
+    "atk": 640,
+    "def": 363,
+    "spd": 115,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "thiefs_instinct",
+    "ascension_unique": "void_cast_iron",
+    "trace_group": "arrow_of_the_beast_hunter",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "in_the_night", "rarity": 5, "is_best": true },
+    { "item_id": "swordplay", "rarity": 4, "is_best": true },
+    { "item_id": "the_hell_where_ideals_burn", "rarity": 5, "is_best": false },
+    { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "as_navigator_isee_sees_it",
+    "genius_of_brilliant_stars",
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "rutilant_arena",
+    "firmament_frontline_glamoth",
+    "the_wondrous_bananamusement_park"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "quantum_dmg", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "cerydra",
+    "bronya"
+  ]
+}

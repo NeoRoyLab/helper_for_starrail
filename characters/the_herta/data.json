@@ -1,0 +1,15 @@
+{
+  "id": "the_herta",
+  "name": { "en": "The Herta", "uk": "Велика Герта", "ru": "Великая Герта" },
+  "rarity": 5, "element": "ice", "path": "the_erudition",
+  "description": { "en": "Esteemed member #83 of the Genius Society. Human, female, young, beautiful, attractive. It is said that she lives at the far edge of the Cosmos and almost never leaves. Her appearance this time must mean that there is an issue she has to handle herself.", "uk": "Шанована учасниця Товариства геніїв №83. Людина, жінка, молода, вродлива, приваблива. Кажуть, вона живе на далекому краю космосу й майже ніколи його не залишає. Мабуть, цього разу вона з'явилася через проблему, яку мусить розв'язати особисто.", "ru": "Почётный член Общества гениев №83, человек, женского пола, молодая, красивая, привлекательная. Говорят, что она живёт в уединении в самом дальнем уголке вселенной. Возможно, её появление связано с проблемой, которую ей нужно решить лично?" },
+  "assets": { "portrait": "characters/the_herta/portrait.png", "thumbnail": "characters/the_herta/thumb.png" },
+  "stats": { "hp": 1164, "atk": 679, "def": 485, "spd": 99, "taunt": 75 },
+  "materials": { "ascension_group": "extinguished_core", "ascension_unique": "dream_fridge", "trace_group": "rough_sketch", "trace_unique": "auspice_sliver" },
+  "best_light_cones": [{ "item_id": "into_the_unreachable_veil", "rarity": 5, "is_best": true }, { "item_id": "today_is_another_peaceful_day", "rarity": 4, "is_best": true }, { "item_id": "night_on_the_milky_way", "rarity": 5, "is_best": false }, { "item_id": "before_dawn", "rarity": 5, "is_best": false }],
+  "best_relics": ["scholar_lost_in_erudition", "poet_of_mourning_collapse", "hunter_of_glacial_forest"],
+  "best_ornaments": ["izumo_gensei_and_takama_divine_realm", "rutilant_arena", "the_wondrous_bananamusement_park"],
+  "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": "=" }, { "id": "atk_percent" }], "sphere": [{ "id": "ice_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent", "sep": ">=" }, { "id": "energy_regen" }] },
+  "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_rate", "sep": ">" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
+  "synergy": ["anaxa"]
+}

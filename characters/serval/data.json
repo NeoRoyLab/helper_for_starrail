@@ -1,0 +1,76 @@
+{
+  "id": "serval",
+  "name": {
+    "en": "Serval",
+    "uk": "Сервал",
+    "ru": "Сервал"
+  },
+  "rarity": 4,
+  "element": "lightning",
+  "path": "the_erudition",
+  "description": {
+    "en": "The free and rebellious eldest daughter of the Landau family. Once a close friend of Cocolia's, she is now a mechanic purely because she likes this job. In the Everwinter-stricken Belobog, she opened a workshop called \"Neverwinter\" that puts business on hold from time to time for outdoor rock 'n' roll performances. And should anyone ask her about the workshop's profits... \"This is just a hobby, dear. I'm not short on money.\"",
+    "uk": "Вільнолюбна й непокірна старша донька родини Ландау, колись близька подруга Коколії, зрештою стала механіком. У скутому вічною зимою Білобозі вона відкрила майстерню «Незим'я», де не лише ремонтує та створює речі, а й проводить рок-н-рольні концерти. Чи приносить майстерня прибуток? «О, любчику, це лише хобі. Грошей у мене вдосталь», — відповідає господиня.",
+    "ru": "Старшая дочь семьи Ландау и некогда подруга Коколии, свободолюбивая и непокорная, в конце концов стала механиком. Когда Белобог сковало вечнозимье, она открыла собственную мастерскую под названием «Незимье», где она не только чинит и создаёт вещи, но и проводит рок-н-ролльные концерты. Приносит ли такая мастерская прибыль? «О, дорогуша, это просто хобби. Денег у меня полно», — отвечает хозяйка."
+  },
+  "assets": {
+    "portrait": "characters/serval/portrait.png",
+    "thumbnail": "characters/serval/thumb.png"
+  },
+  "stats": {
+    "hp": 917,
+    "atk": 652,
+    "def": 374,
+    "spd": 104,
+    "taunt": 75
+  },
+  "materials": {
+    "ascension_group": "silvermane_badge",
+    "ascension_unique": "lightning_crown_of_the_past_shadow",
+    "trace_group": "key_of_inspiration",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "night_on_the_milky_way", "rarity": 5, "is_best": true },
+    { "item_id": "geniuses_repose", "rarity": 4, "is_best": true },
+    { "item_id": "eternal_calculus", "rarity": 5, "is_best": false },
+    { "item_id": "before_dawn", "rarity": 5, "is_best": false },
+    { "item_id": "today_is_another_peaceful_day", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "pioneer_diver_of_dead_waters",
+    "band_of_sizzling_thunder",
+    "scholar_lost_in_erudition"
+  ],
+  "best_ornaments": [
+    "firmament_frontline_glamoth",
+    "space_sealing_station",
+    "rutilant_arena"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">=" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "sphere": [
+      { "id": "lightning_dmg", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": ">" },
+    { "id": "atk_percent", "sep": "" }
+  ],
+  "synergy": [
+    "bronya"
+  ]
+}

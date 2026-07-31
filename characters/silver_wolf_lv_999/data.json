@@ -1,0 +1,103 @@
+{
+  "id": "silver_wolf_lv_999",
+  "name": {
+    "en": "Silver Wolf LV.999",
+    "uk": "Срібний Вовк рів. 999",
+    "ru": "Серебряный Волк ур. 999"
+  },
+  "rarity": 5,
+  "element": "imaginary",
+  "path": "the_elation",
+  "description": {
+    "en": "A new season of Elation begins, featuring the limited-time return of the invincible player \"Silver Wolf LV.999\"! She's conquered the universe, unlocked every cosmic achievement... What's left to play? \"Reach the peak of 'Elation'? Boring... Since I've got the cartridge now, I make the rules~\"",
+    "uk": "Починається новий сезон Радості, у якому на обмежений час повертається непереможна гравчиня «Срібний Вовк рів. 999»! Вона підкорила всесвіт і відкрила всі космічні досягнення... У що ж грати далі? «Досягти вершини Радості? Нудьга... Але раз картридж тепер у мене, правила встановлюю я~»",
+    "ru": "Новый сезон Радости! Непобедимый игрок Серебряный Волк ур. 999 возвращается на ограниченное время! Кубок вселенной завоёван, а все достижения собраны... И что теперь? «Достичь вершины Радости? Какая скука... Но раз картридж у меня, теперь я командую~»"
+  },
+  "assets": {
+    "portrait": "characters/silver_wolf_lv_999/portrait.png",
+    "thumbnail": "characters/silver_wolf_lv_999/thumb.png"
+  },
+  "stats": {
+    "hp": 1051,
+    "atk": 388,
+    "def": 654,
+    "spd": 110,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "whimsy_wax",
+    "ascension_unique": "harbinger_of_strife",
+    "trace_group": "the_fluffy_hand-drawn_storyboards",
+    "trace_unique": "vanquished_flows_reticence"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "welcome_to_the_cosmic_city",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "todays_good_luck",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "mushy_shroomys_adventures",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "ever_glorious_magical_girl"
+  ],
+  "best_ornaments": [
+    "punklorde_stage_zero"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_rate"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "hp_percent",
+        "sep": "="
+      },
+      {
+        "id": "def_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "hp_percent",
+        "sep": "="
+      },
+      {
+        "id": "def_percent"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "crit_rate",
+      "sep": "="
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "sparxie"
+  ]
+}

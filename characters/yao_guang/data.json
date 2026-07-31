@@ -1,0 +1,15 @@
+{
+  "id": "yao_guang",
+  "name": { "en": "Yao Guang", "uk": "Яо Гуан", "ru": "Яо Гуан" },
+  "rarity": 5, "element": "physical", "path": "the_elation",
+  "description": { "en": "Her mysterious, bold, and radical actions were so revolutionary that they left everyone stunned. She saw all fortune, good and ill, through the eye of The Hunt. Yet, knowing that fate is not to be defied, the Seer Strategist still faced the danger alone. To be dealt such a cursed fortune... How can one ever hope to alter their fate?", "uk": "Її загадкові, сміливі, радикальні й революційні вчинки вражають уяву. Оком Полювання Прозорлива Стратегиня побачила всі прийдешні біди й удачі, але, знаючи, що долю не здолати, однаково самотужки рушила назустріч небезпеці. Як змінити долю з таким лихим пророцтвом?", "ru": "Загадочные, смелые, радикальные и революционные действия поражают воображение. Глазом Охоты узрев грядущие беды и удачи, Прозорливый Стратег в одиночку бросилась навстречу опасности, зная, что судьбу не одолеть. Как можно изменить судьбу с таким плохим предсказанием?" },
+  "assets": { "portrait": "characters/yao_guang/portrait.png", "thumbnail": "characters/yao_guang/thumb.png" },
+  "stats": { "hp": 1242, "atk": 465, "def": 654, "spd": 101, "taunt": 100 },
+  "materials": { "ascension_group": "whimsy_wax", "ascension_unique": "invasive_clot", "trace_group": "the_fluffy_hand-drawn_storyboards", "trace_unique": "vanquished_flows_reticence" },
+  "best_light_cones": [{ "item_id": "when_she_decided_to_see", "rarity": 5, "is_best": true }, { "item_id": "mushy_shroomys_adventures", "rarity": 4, "is_best": true }, { "item_id": "tomorrow_together", "rarity": 4, "is_best": false }],
+  "best_relics": ["divine_querying_master_smith", "eagle_of_twilight_line", "messenger_traversing_hackerspace"],
+  "best_ornaments": ["revelry_by_the_sea", "broken_keel", "lushaka_the_sunken_seas"],
+  "relic_stats": { "body": [{ "id": "crit_dmg", "sep": ">" }, { "id": "crit_rate" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": ">" }, { "id": "def_percent" }], "rope": [{ "id": "energy_regen" }] },
+  "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_rate", "sep": ">" }, { "id": "crit_dmg", "sep": "" }],
+  "synergy": ["sparxie"]
+}

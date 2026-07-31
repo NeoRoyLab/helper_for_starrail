@@ -1,0 +1,15 @@
+{
+  "id": "trailblazer_destruction",
+  "name": { "en": "Stelle • Destruction", "uk": "Стелла • Руйнування", "ru": "Стелла • Разрушение" },
+  "rarity": 5, "element": "physical", "path": "the_destruction",
+  "description": { "en": "A girl who boarded the Astral Express. She chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.", "uk": "Дівчина, яка піднялася на борт Зоряного експреса. Вона вирішила подорожувати разом з експресом, щоб усунути небезпеку, яку становить Стеларон.", "ru": "Девушка, севшая на Звёздный экспресс. Она решила путешествовать вместе со Звёздным экспрессом, чтобы устранить опасность, которую представляет Стелларон." },
+  "assets": { "portrait": "characters/trailblazer_destruction/portrait.png", "thumbnail": "characters/trailblazer_destruction/thumb.png" },
+  "stats": { "hp": 1203, "atk": 620, "def": 460, "spd": 100, "taunt": 125 },
+  "materials": { "ascension_group": "thiefs_instinct", "ascension_unique": "enigmatic_ectostella", "trace_group": "shattered_blade", "trace_unique": "destroyers_final_road" },
+  "best_light_cones": [{ "item_id": "on_the_fall_of_an_aeon", "rarity": 5, "is_best": true }, { "item_id": "a_secret_vow", "rarity": 4, "is_best": true }, { "item_id": "indelible_promise", "rarity": 4, "is_best": false }],
+  "best_relics": ["scholar_lost_in_erudition", "champion_of_streetwise_boxing", "pioneer_diver_of_dead_waters"],
+  "best_ornaments": ["rutilant_arena", "firmament_frontline_glamoth", "inert_salsotto"],
+  "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">=" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">=" }, { "id": "atk_percent" }], "sphere": [{ "id": "physical_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent" }] },
+  "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "break_effect", "sep": ">=" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
+  "synergy": []
+}

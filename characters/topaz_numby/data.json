@@ -1,0 +1,15 @@
+{
+  "id": "topaz_numby",
+  "name": { "en": "Topaz & Numby", "uk": "Топаз і Рахівник", "ru": "Топаз и Счетовод" },
+  "rarity": 5, "element": "fire", "path": "the_hunt",
+  "description": { "en": "Topaz is the leader of the Special Debts Picket Team and a high-level manager of the Strategic Investment Department under the Interastral Peace Corporation. A member of the Ten Stonehearts from a young age, her cornerstone is the Topaz of Debt Retrieval. Her partner Numby can keenly perceive where riches are located. Together they travel the cosmos, resolving liability disputes that affect the IPC's business operations.", "uk": "Топаз очолює групу з нагляду за особливими боргами та є високопоставленою керівницею відділу стратегічних інвестицій Корпорації міжзоряного миру. Ще замолоду вона стала однією з Десяти кам'яних сердець, а її наріжний камінь — топаз стягнення боргів. Її напарник Рахівник має особливий нюх на багатства. Разом вони подорожують космосом і розв'язують боргові суперечки, що впливають на діяльність корпорації.", "ru": "Старший сотрудник отдела стратегических инвестиций Корпорации межзвёздного мира Топаз возглавляет группу по пикетированию особых долгов. Ещё в юности она присоединилась к Десяти каменным сердцам, её краеугольный камень — топаз возврата долгов. Её верная свинка-копилка по имени Счетовод обладает особым нюхом на богатства. Вместе они путешествуют по вселенной и решают долговые споры, влияющие на деловые операции корпорации." },
+  "assets": { "portrait": "characters/topaz_numby/portrait.png", "thumbnail": "characters/topaz_numby/thumb.png" },
+  "stats": { "hp": 931, "atk": 620, "def": 412, "spd": 110, "taunt": 75 },
+  "materials": { "ascension_group": "silvermane_badge", "ascension_unique": "searing_steel_blade", "trace_group": "arrow_of_the_beast_hunter", "trace_unique": "regret_of_infinite_ochema" },
+  "best_light_cones": [{ "item_id": "worrisome_blissful", "rarity": 5, "is_best": true }, { "item_id": "swordplay", "rarity": 4, "is_best": true }, { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }, { "item_id": "only_silence_remains", "rarity": 4, "is_best": false }],
+  "best_relics": ["the_ashblazing_grand_duke", "pioneer_diver_of_dead_waters", "scholar_lost_in_erudition"],
+  "best_ornaments": ["duran_dynasty_of_running_wolves", "inert_salsotto", "the_wondrous_bananamusement_park"],
+  "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">=" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">" }, { "id": "atk_percent" }], "sphere": [{ "id": "fire_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent" }] },
+  "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
+  "synergy": ["aventurine", "dr_ratio"]
+}

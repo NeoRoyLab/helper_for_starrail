@@ -1,0 +1,13 @@
+{
+  "id": "long_road_leads_home",
+  "name": { "en": "Long Road Leads Home", "uk": "Довга дорога веде додому", "ru": "Дом в конце долгого пути" },
+  "rarity": 5, "path": "nihility",
+  "stats": { "hp_min": 43, "hp_max": 952, "atk_min": 21, "atk_max": 476, "def_min": 30, "def_max": 661 },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 60-100%. When an enemy target's Weakness gets broken, there is a 100% base chance to inflict the \"Charring\" state on it, which increases its Break DMG taken by 18-30% for 2 turn(s). This effect can stack up to 2 times.",
+    "uk": "Збільшує ефект пробиття власника на 60-100%. Після пробиття вразливості противника є базовий шанс 100% накласти на нього статус «Обвуглювання», який підвищує отримуваний ним урон пробиття на 18-30% на 2 ходи. Ефект складається до 2 разів.",
+    "ru": "Повышает эффект пробития владельца на 60-100%. После пробития уязвимости противника имеется базовый шанс 100% наложить на него статус Обугливание, который повышает получаемый им урон пробития на 18-30% на 2 хода. Эффект может складываться до 2 раз."
+  },
+  "sources": [{ "en": "Event Jump (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }],
+  "assets": { "art": "light_cones/long_road_leads_home/art.png" }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "trailblazer_preservation",
+  "name": { "en": "Stelle • Preservation", "uk": "Стелла • Збереження", "ru": "Стелла • Сохранение" },
+  "rarity": 5, "element": "fire", "path": "the_preservation",
+  "description": { "en": "A girl who boarded the Astral Express. She chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.", "uk": "Дівчина, яка піднялася на борт Зоряного експреса. Вона вирішила подорожувати разом з експресом, щоб усунути небезпеку, яку становить Стеларон.", "ru": "Девушка, севшая на Звёздный экспресс. Она решила путешествовать вместе со Звёздным экспрессом, чтобы устранить опасность, которую представляет Стелларон." },
+  "assets": { "portrait": "characters/trailblazer_preservation/portrait.png", "thumbnail": "characters/trailblazer_preservation/thumb.png" },
+  "stats": { "hp": 1241, "atk": 601, "def": 606, "spd": 95, "taunt": 150 },
+  "materials": { "ascension_group": "thiefs_instinct", "ascension_unique": "enigmatic_ectostella", "trace_group": "endurance_of_bronze", "trace_unique": "destroyers_final_road" },
+  "best_light_cones": [{ "item_id": "moment_of_victory", "rarity": 5, "is_best": true }, { "item_id": "landaus_choice", "rarity": 4, "is_best": true }, { "item_id": "texture_of_memories", "rarity": 5, "is_best": false }, { "item_id": "day_one_of_my_new_life", "rarity": 4, "is_best": false }],
+  "best_relics": ["knight_of_purity_palace", "guard_of_wuthering_snow"],
+  "best_ornaments": ["broken_keel", "fleet_of_the_ageless", "sprightly_vonwacq"],
+  "relic_stats": { "body": [{ "id": "def_percent" }], "feet": [{ "id": "speed", "sep": ">=" }, { "id": "def_percent" }], "sphere": [{ "id": "def_percent", "sep": ">=" }, { "id": "fire_dmg" }], "rope": [{ "id": "energy_regen", "sep": ">=" }, { "id": "def_percent" }] },
+  "best_substats": [{ "id": "effect_res", "sep": ">" }, { "id": "speed", "sep": ">" }, { "id": "def_percent", "sep": ">" }, { "id": "hp_percent", "sep": ">" }, { "id": "effect_hit", "sep": "" }],
+  "synergy": ["acheron"]
+}

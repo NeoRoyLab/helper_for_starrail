@@ -1,0 +1,15 @@
+{
+  "id": "trailblazer_harmony",
+  "name": { "en": "Stelle • Harmony", "uk": "Стелла • Гармонія", "ru": "Стелла • Гармония" },
+  "rarity": 5, "element": "imaginary", "path": "the_harmony",
+  "description": { "en": "A girl who boarded the Astral Express. She chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.", "uk": "Дівчина, яка піднялася на борт Зоряного експреса. Вона вирішила подорожувати разом з експресом, щоб усунути небезпеку, яку становить Стеларон.", "ru": "Девушка, севшая на Звёздный экспресс. Она решила путешествовать вместе со Звёздным экспрессом, чтобы устранить опасность, которую представляет Стелларон." },
+  "assets": { "portrait": "characters/trailblazer_harmony/portrait.png", "thumbnail": "characters/trailblazer_harmony/thumb.png" },
+  "stats": { "hp": 1086, "atk": 446, "def": 679, "spd": 105, "taunt": 100 },
+  "materials": { "ascension_group": "thiefs_instinct", "ascension_unique": "enigmatic_ectostella", "trace_group": "firmament_note", "trace_unique": "past_evils_of_the_borehole_planet_disaster" },
+  "best_light_cones": [{ "item_id": "past_self_in_mirror", "rarity": 5, "is_best": true }, { "item_id": "memories_of_the_past", "rarity": 4, "is_best": true }, { "item_id": "dance_dance_dance", "rarity": 4, "is_best": false }, { "item_id": "meshing_cogs", "rarity": 3, "is_best": false }],
+  "best_relics": ["watchmaker_master_of_dream_machinations", "thief_of_shooting_meteor", "messenger_traversing_hackerspace"],
+  "best_ornaments": ["talia_kingdom_of_banditry", "sprightly_vonwacq", "lushaka_the_sunken_seas"],
+  "relic_stats": { "body": [{ "id": "hp_percent", "sep": ">" }, { "id": "def_percent" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": ">" }, { "id": "def_percent" }], "rope": [{ "id": "break_effect", "sep": ">" }, { "id": "energy_regen" }] },
+  "best_substats": [{ "id": "speed", "sep": "=" }, { "id": "break_effect", "sep": ">" }, { "id": "hp_percent", "sep": "=" }, { "id": "def_percent", "sep": "" }],
+  "synergy": ["boothill"]
+}

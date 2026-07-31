@@ -1,0 +1,15 @@
+{
+  "id": "yunli",
+  "name": { "en": "Yunli", "uk": "Юньлі", "ru": "Юньли" },
+  "rarity": 5, "element": "physical", "path": "the_destruction",
+  "description": { "en": "A sword hunter from the Xianzhou Zhuming and General Huaiyan's darling granddaughter. Frank and straightforward. She practiced swordsmanship and forging under Huaiyan from a young age, becoming the second-youngest prodigy swordmaster of the Flamewheel Octet. Fueled by an intense loathing for the cursed swords that emerged from the Zhuming, she vowed to hunt down and wipe out every cursed sword.", "uk": "Мисливиця на мечі з Чжуміну Сяньчжоу й улюблена онука генерала Хуайяня. Відверта та прямолінійна. Змалку навчалася у Хуайяня фехтування й ковальства та стала другою наймолодшою геніальною майстринею меча Октету вогняного колеса. Через глибоку ненависть до проклятих мечів Чжуміну вона присягнула вистежити й знищити їх усі.", "ru": "Охотница за мечами с Чжумин Сяньчжоу и любимая внучка генерала Хуайяня. Откровенная и прямолинейная. С юных лет обучалась у Хуайяня фехтованию и кузнечному делу, став вторым самым молодым гениальным мастером меча Октета огненного колеса. Из-за сильной ненависти к проклятым мечам Чжумина она поклялась выследить и уничтожить их все." },
+  "assets": { "portrait": "characters/yunli/portrait.png", "thumbnail": "characters/yunli/thumb.png" },
+  "stats": { "hp": 1359, "atk": 679, "def": 460, "spd": 94, "taunt": 125 },
+  "materials": { "ascension_group": "artifexs_module", "ascension_unique": "ipc_work_permit", "trace_group": "borisin_teeth", "trace_unique": "regret_of_infinite_ochema" },
+  "best_light_cones": [{ "item_id": "dance_at_sunset", "rarity": 5, "is_best": true }, { "item_id": "under_the_blue_sky", "rarity": 4, "is_best": true }, { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": false }, { "item_id": "the_unreachable_side", "rarity": 5, "is_best": false }, { "item_id": "something_irreplaceable", "rarity": 5, "is_best": false }],
+  "best_relics": ["the_wind_soaring_valorous", "the_ashblazing_grand_duke", "champion_of_streetwise_boxing"],
+  "best_ornaments": ["duran_dynasty_of_running_wolves", "inert_salsotto", "rutilant_arena"],
+  "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">" }, { "id": "crit_dmg" }], "feet": [{ "id": "atk_percent" }], "sphere": [{ "id": "physical_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent", "sep": ">" }, { "id": "energy_regen" }] },
+  "best_substats": [{ "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
+  "synergy": ["aventurine"]
+}

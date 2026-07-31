@@ -1,0 +1,15 @@
+{
+  "id": "tingyun_fugue",
+  "name": { "en": "Tingyun • Fugue", "uk": "Тін'юнь • Фуга", "ru": "Тинъюнь • Фуга" },
+  "rarity": 5, "element": "fire", "path": "the_nihility",
+  "description": { "en": "A tactful foxian girl whose appearance, name, and identity have all been stolen. Fate has left her a thread of a chance at survival, yet the brand of Destruction still writhes with anticipation. Having experienced life and death and been given a new life, when will she finally be able to return home?", "uk": "Тактовна дівчина-лисиця, у якої вкрали зовнішність, ім'я та особистість. Доля залишила їй тонку нитку надії на виживання, але тавро Руйнування досі звивається в передчутті. Переживши життя і смерть та отримавши нове життя, коли ж вона зможе повернутися додому?", "ru": "Тактичная девушка из лисьего народа, чьи внешность, имя и личность были украдены. Судьба оставила ей тонкую нить надежды на выживание, но клеймо Разрушения всё ещё извивается в предвкушении. Пережив жизнь и смерть и получив новую жизнь, когда же она сможет вернуться домой?" },
+  "assets": { "portrait": "characters/tingyun_fugue/portrait.png", "thumbnail": "characters/tingyun_fugue/thumb.png" },
+  "stats": { "hp": 1125, "atk": 582, "def": 557, "spd": 102, "taunt": 100 },
+  "materials": { "ascension_group": "immortal_scionette", "ascension_unique": "searing_steel_blade", "trace_group": "fiery_spirit", "trace_unique": "lost_echo_of_the_shared_wish" },
+  "best_light_cones": [{ "item_id": "long_road_leads_home", "rarity": 5, "is_best": true }, { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": true }, { "item_id": "solitary_healing", "rarity": 5, "is_best": false }, { "item_id": "before_the_tutorial_mission_starts", "rarity": 4, "is_best": false }],
+  "best_relics": ["iron_cavalry_against_the_scourge", "thief_of_shooting_meteor", "watchmaker_master_of_dream_machinations"],
+  "best_ornaments": ["forge_of_the_kalpagni_lantern", "talia_kingdom_of_banditry", "sprightly_vonwacq"],
+  "relic_stats": { "body": [{ "id": "effect_hit" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": "=" }, { "id": "def_percent" }], "rope": [{ "id": "break_effect", "sep": "=" }, { "id": "energy_regen" }] },
+  "best_substats": [{ "id": "effect_hit", "sep": ">" }, { "id": "break_effect", "sep": ">" }, { "id": "speed", "sep": ">" }, { "id": "hp_percent", "sep": "=" }, { "id": "def_percent", "sep": "" }],
+  "synergy": ["boothill"]
+}

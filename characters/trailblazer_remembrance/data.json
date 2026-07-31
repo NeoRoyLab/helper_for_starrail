@@ -1,0 +1,15 @@
+{
+  "id": "trailblazer_remembrance",
+  "name": { "en": "Stelle • Remembrance", "uk": "Стелла • Пам'ять", "ru": "Стелла • Память" },
+  "rarity": 5, "element": "ice", "path": "the_remembrance",
+  "description": { "en": "A girl who boarded the Astral Express. She chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.", "uk": "Дівчина, яка піднялася на борт Зоряного експреса. Вона вирішила подорожувати разом з експресом, щоб усунути небезпеку, яку становить Стеларон.", "ru": "Девушка, севшая на Звёздный экспресс. Она решила путешествовать вместе со Звёздным экспрессом, чтобы устранить опасность, которую представляет Стелларон." },
+  "assets": { "portrait": "characters/trailblazer_remembrance/portrait.png", "thumbnail": "characters/trailblazer_remembrance/thumb.png" },
+  "stats": { "hp": 1047, "atk": 543, "def": 630, "spd": 103, "taunt": 100 },
+  "materials": { "ascension_group": "thiefs_instinct", "ascension_unique": "enigmatic_ectostella", "trace_group": "bija_of_consciousness", "trace_unique": "auspice_sliver" },
+  "best_light_cones": [{ "item_id": "this_love_forever", "rarity": 5, "is_best": true }, { "item_id": "victory_in_a_blink", "rarity": 4, "is_best": true }, { "item_id": "memorys_curtain_never_falls", "rarity": 5, "is_best": false }, { "item_id": "long_may_rainbows_adorn_the_sky", "rarity": 5, "is_best": false }],
+  "best_relics": ["hero_of_triumphant_song", "sacerdos_relived_ordeal", "messenger_traversing_hackerspace"],
+  "best_ornaments": ["broken_keel", "lushaka_the_sunken_seas", "sprightly_vonwacq"],
+  "relic_stats": { "body": [{ "id": "crit_dmg" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "ice_dmg", "sep": ">" }, { "id": "hp_percent" }], "rope": [{ "id": "energy_regen" }] },
+  "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_dmg", "sep": ">" }, { "id": "effect_res", "sep": "" }],
+  "synergy": ["castorice", "cyrene"]
+}

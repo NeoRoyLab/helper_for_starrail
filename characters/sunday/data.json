@@ -1,0 +1,116 @@
+{
+  "id": "sunday",
+  "name": {
+    "en": "Sunday",
+    "uk": "Неділя",
+    "ru": "Воскресенье"
+  },
+  "rarity": 5,
+  "element": "imaginary",
+  "path": "the_harmony",
+  "description": {
+    "en": "The dream of the Order has dissipated, yet there are still those who will not give up on their original intent. — The traveler whose wings were clipped... whereto shall his footsteps lead?",
+    "uk": "Хоча мрії Порядку розвіялися, досі залишилися ті, хто не готовий зректися первісних намірів. — Мандрівнику зі зламаними крилами... Куди ж приведуть твої сліди?",
+    "ru": "Хотя грёзы Порядка рассеялись, ещё остались те, кто не готов отказаться от первоначальных намерений. Странник со сломанными крыльями... Куда же приведут твои следы?"
+  },
+  "assets": {
+    "portrait": "characters/sunday/portrait.png",
+    "thumbnail": "characters/sunday/thumb.png"
+  },
+  "stats": {
+    "hp": 1241,
+    "atk": 640,
+    "def": 533,
+    "spd": 96,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "tatters_of_thought",
+    "ascension_unique": "chordal_mirage",
+    "trace_group": "firmament_note",
+    "trace_unique": "lost_echo_of_the_shared_wish"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "a_grounded_ascent",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "past_and_future",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "but_the_battle_isnt_over",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "dance_dance_dance",
+      "rarity": 4,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "sacerdos_relived_ordeal",
+    "messenger_traversing_hackerspace",
+    "eagle_of_twilight_line"
+  ],
+  "best_ornaments": [
+    "lushaka_the_sunken_seas",
+    "broken_keel",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "hp_percent",
+        "sep": "="
+      },
+      {
+        "id": "def_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "energy_regen"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "effect_res",
+      "sep": ">"
+    },
+    {
+      "id": "def_percent",
+      "sep": "="
+    },
+    {
+      "id": "hp_percent",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "aglaea"
+  ]
+}

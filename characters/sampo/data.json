@@ -1,0 +1,72 @@
+{
+  "id": "sampo",
+  "name": {
+    "en": "Sampo",
+    "uk": "Сампо",
+    "ru": "Сампо"
+  },
+  "rarity": 4,
+  "element": "wind",
+  "path": "the_nihility",
+  "description": {
+    "en": "A silver-tongued salesman. Where there is profit to be made, you can be sure Sampo is nearby. Sampo's unique knowledge makes it hard not to approach him for help, but becoming his \"customer\" is not necessarily a good thing. After all, \"customers\" can quickly turn into \"commodities\" for the right price.",
+    "uk": "Красномовний продавець. Якщо десь можна отримати зиск, там неодмінно знайдеться Сампо. Його унікальні знання змушують звертатися до нього по допомогу, але стати «клієнтом» Сампо — не завжди гарна ідея. Зрештою, за відповідну ціну «клієнти» можуть швидко перетворитися на «товар».",
+    "ru": "Продажник с хорошо подвешенным языком. Если где-то можно на чём-то нажиться, вы точно найдёте там Сампо. Многие обращаются к нему за помощью, так как он владеет уникальными знаниями, но стать «клиентом» Сампо — не всегда хорошая идея. Ведь «клиенты» могут быстро превратиться в «товар», если назначить нужную цену."
+  },
+  "assets": {
+    "portrait": "characters/sampo/portrait.png",
+    "thumbnail": "characters/sampo/thumb.png"
+  },
+  "stats": {
+    "hp": 1023,
+    "atk": 617,
+    "def": 396,
+    "spd": 102,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "ancient_part",
+    "ascension_unique": "storm_eye",
+    "trace_group": "obsidian_of_dread",
+    "trace_unique": "guardians_lament"
+  },
+  "best_light_cones": [
+    { "item_id": "lies_dance_on_the_breeze", "rarity": 5, "is_best": true },
+    { "item_id": "good_night_and_sleep_well", "rarity": 4, "is_best": true },
+    { "item_id": "eyes_of_the_prey", "rarity": 4, "is_best": false },
+    { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "prisoner_in_deep_confinement",
+    "eagle_of_twilight_line",
+    "pioneer_diver_of_dead_waters"
+  ],
+  "best_ornaments": [
+    "revelry_by_the_sea",
+    "firmament_frontline_glamoth",
+    "pan_cosmic_commercial_enterprise"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "effect_hit_rate", "sep": ">=" },
+      { "id": "atk_percent" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "wind_dmg", "sep": ">" },
+      { "id": "atk_percent" }
+    ],
+    "rope": [
+      { "id": "atk_percent" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": "=" },
+    { "id": "effect_hit_rate", "sep": ">" },
+    { "id": "atk_percent", "sep": ">" },
+    { "id": "break_effect", "sep": "" }
+  ],
+  "synergy": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "trailblazer_elation",
+  "name": { "en": "Stelle • Elation", "uk": "Стелла • Радість", "ru": "Стелла • Радость" },
+  "rarity": 5, "element": "lightning", "path": "the_elation",
+  "description": { "en": "Rejoice, weep, curse, praise! In an era of euphoria unto death, the streets are abuzz with noise. Becoming a hero or falling from the altar takes but a split second. Among the myriad masks of Elation, which one will be picked up in the end?", "uk": "Смійтеся, ридайте, проклинайте, вихваляйте! В епоху смертельної ейфорії вулиці вирують життям. Щоб стати героєм або впасти з п'єдесталу, достатньо однієї миті. Яку ж із незліченних масок Радості буде обрано?", "ru": "Смейтесь, рыдайте, проклинайте, восхваляйте! В эпоху убийственной эйфории улицы кипят жизнью. Чтобы стать героем или упасть с пьедестала, достаточно одного мгновения. Из бесчисленных масок Радости, какая же будет выбрана?" },
+  "assets": { "portrait": "characters/trailblazer_elation/portrait.png", "thumbnail": "characters/trailblazer_elation/thumb.png" },
+  "stats": { "hp": 1087, "atk": 465, "def": 630, "spd": 106, "taunt": 100 },
+  "materials": { "ascension_group": "thiefs_instinct", "ascension_unique": "enigmatic_ectostella", "trace_group": "the_fluffy_hand-drawn_storyboards", "trace_unique": "vanquished_flows_reticence" },
+  "best_light_cones": [{ "item_id": "when_she_decided_to_see", "rarity": 5, "is_best": true }, { "item_id": "mushy_shroomys_adventures", "rarity": 4, "is_best": true }, { "item_id": "tomorrow_together", "rarity": 4, "is_best": false }],
+  "best_relics": ["divine_querying_master_smith", "eagle_of_twilight_line"],
+  "best_ornaments": ["revelry_by_the_sea", "broken_keel", "lushaka_the_sunken_seas"],
+  "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">" }, { "id": "hp_percent" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": "=" }, { "id": "def_percent" }], "rope": [{ "id": "energy_regen" }] },
+  "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": "=" }, { "id": "hp_percent", "sep": "" }],
+  "synergy": ["sparxie"]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "welcome_to_the_cosmic_city",
+  "name": {
+    "en": "Welcome to the Cosmic City",
+    "uk": "Ласкаво просимо до космічного міста",
+    "ru": "Добро пожаловать в космический город"
+  },
+  "rarity": 5,
+  "path": "elation",
+  "stats": {
+    "hp_min": 52,
+    "hp_max": 1164,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's SPD by 18-30%, and the Elation DMG dealt ignores 20-36% of the target's DEF. When the wearer uses Ultimate on themselves, gains 20-40 Punchline. This effect can be triggered up to 1 time and resets after using Basic ATK 3 times.",
+    "uk": "Підвищує швидкість власника на 18-30%, а завдана ним шкода Радості ігнорує 20-36% захисту цілі. Коли власник застосовує надздібність на себе, він отримує 20-40 од. Кульмінації. Цей ефект може спрацювати 1 раз, а кількість його спрацьовувань скидається після 3 використань базової атаки.",
+    "ru": "Повышает скорость владельца на 18-30%, а наносимый им урон Радости игнорирует 20-36% защиты цели. Когда владелец применяет сверхспособность на себя, он получает 20-40 ед. Кульминации. Этот эффект может сработать 1 раз, а количество его срабатываний сбрасывается после 3 использований базовой атаки."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/welcome_to_the_cosmic_city/art.png"
+  }
+}

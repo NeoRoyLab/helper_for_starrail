@@ -1,0 +1,15 @@
+{
+  "id": "sushang",
+  "name": { "en": "Sushang", "uk": "Сушан", "ru": "Сушан" },
+  "rarity": 4, "element": "physical", "path": "the_hunt",
+  "description": { "en": "A naive and enthusiastic newcomer to the Cloud Knights who wields a greatsword. She yearns for the historic legends of the Cloud Knights and is eager to become such a legendary figure herself. She firmly believes in helping those in need, doing one good deed a day, and reflecting on herself three times a day.", "uk": "Наївна й сповнена ентузіазму новобранка Хмарних Лицарів, озброєна дворучним мечем. Вона захоплюється історичними легендами про Хмарних Лицарів і прагне сама стати легендарною постаттю. Сушан щиро вірить, що треба допомагати нужденним, щодня робити добру справу й тричі на день замислюватися над своїми вчинками.", "ru": "Наивная и полная энтузиазма новобранец Облачных Рыцарей, вооружённая двуручным мечом. Она восхищается историческими легендами об Облачных Рыцарях и стремится сама стать легендарной личностью. Сушан твёрдо верит, что нужно помогать нуждающимся, каждый день совершать доброе дело и трижды в день размышлять над своими поступками." },
+  "assets": { "portrait": "characters/sushang/portrait.png", "thumbnail": "characters/sushang/thumb.png" },
+  "stats": { "hp": 917, "atk": 564, "def": 418, "spd": 107, "taunt": 75 },
+  "materials": { "ascension_group": "artifexs_module", "ascension_unique": "broken_teeth_of_iron_wolf", "trace_group": "arrow_of_the_beast_hunter", "trace_unique": "guardians_lament" },
+  "best_light_cones": [{ "item_id": "in_the_night", "rarity": 5, "is_best": true }, { "item_id": "swordplay", "rarity": 4, "is_best": true }, { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }, { "item_id": "only_silence_remains", "rarity": 4, "is_best": false }],
+  "best_relics": ["champion_of_streetwise_boxing", "iron_cavalry_against_the_scourge", "thief_of_shooting_meteor"],
+  "best_ornaments": ["talia_kingdom_of_banditry", "rutilant_arena", "firmament_frontline_glamoth"],
+  "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">=" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">" }, { "id": "atk_percent" }], "sphere": [{ "id": "physical_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "break_effect", "sep": ">" }, { "id": "atk_percent" }] },
+  "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "break_effect", "sep": ">=" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
+  "synergy": []
+}

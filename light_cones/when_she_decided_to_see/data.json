@@ -1,0 +1,13 @@
+{
+  "id": "when_she_decided_to_see",
+  "name": { "en": "When She Decided to See", "uk": "Коли вона зважилася побачити", "ru": "Когда она решилась увидеть" },
+  "rarity": 5, "path": "elation",
+  "stats": { "hp_min": 48, "hp_max": 1058, "atk_min": 24, "atk_max": 529, "def_min": 24, "def_max": 529 },
+  "description": {
+    "en": "Increases the wearer's SPD by 18-30%. When the wearer enters combat or uses Ultimate on an ally target, the wearer gains \"Great Fortune\" for 3 turn(s). While the wearer has \"Great Fortune,\" all allies' CRIT Rate increases by 10-14%, CRIT DMG increases by 30-60%, and the wearer's Energy Regeneration Rate increases by 12-20%. At the start of each wave, the wearer regenerates a fixed amount of 15 Energy.",
+    "uk": "Збільшує швидкість власника на 18-30%. Коли власник вступає в бій або застосовує надздібність на союзника, він отримує статус «Велика удача» на 3 ходи. Поки діє «Велика удача», крит. шанс усіх союзників підвищується на 10-14%, крит. урон — на 30-60%, а швидкість відновлення енергії власника — на 12-20%. На початку кожної хвилі власник відновлює фіксовані 15 од. енергії.",
+    "ru": "Повышает скорость владельца на 18-30%. Когда владелец вступает в бой или применяет сверхспособность на союзника, он получает статус «Большая удача» на 3 хода. Пока действует «Большая удача», крит. шанс всех союзников повышается на 10-14%, крит. урон — на 30-60%, а скорость восстановления энергии владельца — на 12-20%. В начале каждой волны владелец восстанавливает фиксированные 15 ед. энергии."
+  },
+  "sources": [{ "en": "Event Jump (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }],
+  "assets": { "art": "light_cones/when_she_decided_to_see/art.png" }
+}

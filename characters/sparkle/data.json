@@ -1,0 +1,117 @@
+{
+  "id": "sparkle",
+  "name": {
+    "en": "Sparkle",
+    "uk": "Іскорка",
+    "ru": "Искорка"
+  },
+  "rarity": 5,
+  "element": "quantum",
+  "path": "the_harmony",
+  "description": {
+    "en": "A member of the Masked Fools. Inscrutable and unscrupulous. A dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces. Wealth, status, power... None of those matters to Sparkle. The only thing that can get her attention is \"amusement.\"",
+    "uk": "Членкиня фракції Недотеп у масках. Незбагненна й безпринципна. Небезпечна майстриня театрального мистецтва, цілковито захоплена виконанням ролей. Володіє безліччю масок і здатна набувати будь-якої подоби. Багатство, становище, влада... Іскорці все це цілковито байдуже. Єдине, що може спонукати її до дії, — це «забава».",
+    "ru": "Член фракции Недотёп в масках. Непостижимая и беспринципная. Опасная мастерица театрального искусства, поглощённая исполнением ролей. Обладает множеством масок и способна принять любой облик. Богатство, положение, власть... Искорке всё это совершенно безразлично. Единственное, что может заставить её действовать — это «забава»."
+  },
+  "assets": {
+    "portrait": "characters/sparkle/portrait.png",
+    "thumbnail": "characters/sparkle/thumb.png"
+  },
+  "stats": {
+    "hp": 1397,
+    "atk": 523,
+    "def": 485,
+    "spd": 101,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "tatters_of_thought",
+    "ascension_unique": "dream_flamer",
+    "trace_group": "firmament_note",
+    "trace_unique": "past_evils_of_the_borehole_planet_disaster"
+  },
+  "best_light_cones": [
+    {
+      "item_id": "a_grounded_ascent",
+      "rarity": 5,
+      "is_best": true
+    },
+    {
+      "item_id": "dance_dance_dance",
+      "rarity": 4,
+      "is_best": true
+    },
+    {
+      "item_id": "earthly_escapade",
+      "rarity": 5,
+      "is_best": false
+    },
+    {
+      "item_id": "but_the_battle_isnt_over",
+      "rarity": 5,
+      "is_best": false
+    }
+  ],
+  "best_relics": [
+    "sacerdos_relived_ordeal",
+    "eagle_of_twilight_line",
+    "messenger_traversing_hackerspace"
+  ],
+  "best_ornaments": [
+    "lushaka_the_sunken_seas",
+    "broken_keel",
+    "penacony_land_of_the_dreams"
+  ],
+  "relic_stats": {
+    "body": [
+      {
+        "id": "crit_dmg"
+      }
+    ],
+    "feet": [
+      {
+        "id": "speed"
+      }
+    ],
+    "sphere": [
+      {
+        "id": "hp_percent",
+        "sep": ">="
+      },
+      {
+        "id": "def_percent"
+      }
+    ],
+    "rope": [
+      {
+        "id": "energy_regen"
+      }
+    ]
+  },
+  "best_substats": [
+    {
+      "id": "speed",
+      "sep": ">"
+    },
+    {
+      "id": "crit_dmg",
+      "sep": ">"
+    },
+    {
+      "id": "hp_percent",
+      "sep": "="
+    },
+    {
+      "id": "def_percent",
+      "sep": "="
+    },
+    {
+      "id": "effect_res",
+      "sep": ""
+    }
+  ],
+  "synergy": [
+    "archer",
+    "sparxie"
+  ]
+}

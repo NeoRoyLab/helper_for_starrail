@@ -1,0 +1,13 @@
+{
+  "id": "never_forget_her_flame",
+  "name": { "en": "Never Forget Her Flame", "uk": "Не забувай її полум'я", "ru": "Не забывай её пламя" },
+  "rarity": 5, "path": "nihility",
+  "stats": { "hp_min": 52, "hp_max": 1164, "atk_min": 24, "atk_max": 529, "def_min": 21, "def_max": 463 },
+  "description": {
+    "en": "Increases the wearer's Break Effect by 60-120%. When entering combat, increases Break DMG dealt by the wearer and another teammate who triggered combat by 32-72%. If there is no teammate who triggered combat, applies this effect to the wearer and the teammate with the highest Break Effect. Effects of the same type cannot stack. When the wearer applies Weakness to an enemy target, recovers 1 Skill Point. This effect can only trigger once and its trigger count resets when using Ultimate.",
+    "uk": "Збільшує ефект пробиття власника на 60-120%. Під час вступу в бій підвищує урон пробиття власника й іншого союзника, який розпочав бій, на 32-72%. Якщо такого союзника немає, ефект діє на власника та союзника з найвищим ефектом пробиття. Однойменні ефекти не складаються. Коли власник додає противнику вразливість, відновлюється 1 очко навичок. Ефект спрацьовує лише один раз, а його лічильник скидається після застосування надздібності.",
+    "ru": "Повышает эффект пробития владельца на 60-120%. При вступлении в бой повышает урон пробития владельца и другого союзника, начавшего бой, на 32-72%. Если такого союзника нет, эффект применяется к владельцу и союзнику с наивысшим эффектом пробития. Одинаковые эффекты не складываются. Когда владелец добавляет противнику уязвимость, восстанавливается 1 очко навыков. Эффект срабатывает только один раз, а его счётчик сбрасывается после использования сверхспособности."
+  },
+  "sources": [{ "en": "Event Jump (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }],
+  "assets": { "art": "light_cones/never_forget_her_flame/art.png" }
+}

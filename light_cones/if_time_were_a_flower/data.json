@@ -1,0 +1,13 @@
+{
+  "id": "if_time_were_a_flower",
+  "name": { "en": "If Time Were a Flower", "uk": "Якби час був квіткою", "ru": "Если бы время было цветком" },
+  "rarity": 5, "path": "harmony",
+  "stats": { "hp_min": 57, "hp_max": 1270, "atk_min": 24, "atk_max": 529, "def_min": 18, "def_max": 396 },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 36-60%. After the wearer launches a follow-up attack, additionally regenerates 12 Energy and gains \"Presage\" for 2 turn(s). While the wearer has \"Presage,\" all allies' CRIT DMG increases by 48-96%. When entering battle, the wearer regenerates 21 Energy and gains \"Presage\" for 2 turn(s).",
+    "uk": "Збільшує крит. урон власника на 36-60%. Після виконання бонус-атаки власник додатково відновлює 12 од. енергії та отримує статус «Передвістя» на 2 ходи. Поки діє «Передвістя», крит. урон усіх союзників підвищується на 48-96%. Під час вступу в бій власник відновлює 21 од. енергії та отримує «Передвістя» на 2 ходи.",
+    "ru": "Повышает крит. урон владельца на 36-60%. После выполнения бонус-атаки владелец дополнительно восстанавливает 12 ед. энергии и получает статус Предсказание на 2 хода. Пока действует Предсказание, крит. урон всех союзников повышается на 48-96%. При вступлении в бой владелец восстанавливает 21 ед. энергии и получает статус Предсказание на 2 хода."
+  },
+  "sources": [{ "en": "Event Jump (Limited)", "uk": "Стрибок події (Тимчасовий)", "ru": "Прыжок события (Временный)" }],
+  "assets": { "art": "light_cones/if_time_were_a_flower/art.png" }
+}

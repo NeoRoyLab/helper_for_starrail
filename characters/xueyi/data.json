@@ -1,0 +1,15 @@
+{
+  "id": "xueyi",
+  "name": { "en": "Xueyi", "uk": "Сюеї", "ru": "Сюэи" },
+  "rarity": 4, "element": "quantum", "path": "the_destruction",
+  "description": { "en": "One of the judges of the Ten-Lords Commission. Of a judge's four duties — detention, interrogation, incarceration, and punishment — she is charged with detention. Holding iron chains and a Marasunder Awl in her hands, she tirelessly tracks down wanted criminals and subdues them.", "uk": "Одна із суддів Комісії десяти владик. Із чотирьох обов'язків судді — затримання, допиту, ув'язнення та покарання — вона відповідає за затримання. Залізними ланцюгами й шилом, що приборкує Мару, вона невтомно вистежує розшукуваних злочинців і підкорює їх.", "ru": "Одна из судей Комиссии десяти владык. Из четырёх обязанностей судьи — задержания, допроса, заключения и наказания — она отвечает за задержание. С железными цепями и шилом, усмиряющим Мару, в руках она неустанно выслеживает разыскиваемых преступников и подчиняет их." },
+  "assets": { "portrait": "characters/xueyi/portrait.png", "thumbnail": "characters/xueyi/thumb.png" },
+  "stats": { "hp": 1058, "atk": 599, "def": 396, "spd": 103, "taunt": 125 },
+  "materials": { "ascension_group": "extinguished_core", "ascension_unique": "nail_of_the_ape", "trace_group": "shattered_blade", "trace_unique": "past_evils_of_the_borehole_planet_disaster" },
+  "best_light_cones": [{ "item_id": "on_the_fall_of_an_aeon", "rarity": 5, "is_best": true }, { "item_id": "indelible_promise", "rarity": 4, "is_best": true }, { "item_id": "something_irreplaceable", "rarity": 5, "is_best": false }, { "item_id": "under_the_blue_sky", "rarity": 4, "is_best": false }],
+  "best_relics": ["genius_of_brilliant_stars", "iron_cavalry_against_the_scourge", "scholar_lost_in_erudition"],
+  "best_ornaments": ["talia_kingdom_of_banditry", "rutilant_arena", "inert_salsotto"],
+  "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">=" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">=" }, { "id": "atk_percent" }], "sphere": [{ "id": "atk_percent", "sep": ">" }, { "id": "quantum_dmg" }], "rope": [{ "id": "break_effect" }] },
+  "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "break_effect", "sep": ">=" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
+  "synergy": []
+}

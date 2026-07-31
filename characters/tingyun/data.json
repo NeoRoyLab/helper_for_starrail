@@ -1,0 +1,15 @@
+{
+  "id": "tingyun",
+  "name": { "en": "Tingyun", "uk": "Тін'юнь", "ru": "Тинъюнь" },
+  "rarity": 4, "element": "lightning", "path": "the_harmony",
+  "description": { "en": "A silver-tongued foxian girl and Chief Representative of the Whistling Flames, a merchant guild officially approved by the Sky-Faring Commission. Her way with words leaves audiences eagerly waiting for more of her captivating tales. Thanks to her, the Xianzhou trade fairs are known throughout the galaxy.", "uk": "Красномовна дівчина-лисиця та головна представниця «Свистячого полум'я» — торгової гільдії, офіційно схваленої Комісією з польотів. Вона так майстерно володіє словом, що слухачі завжди чекають продовження її захопливих оповідей. Завдяки їй ярмарки Сяньчжоу відомі в усій галактиці.", "ru": "Тинъюнь — девушка из лисьего народа, способная очаровать своими словами любого. Она главный представитель «Свистящего пламени» — торговой гильдии, которую официально одобрила Комиссия по полётам. Эта особа настолько красноречива, что слушатели всегда с нетерпением ждут продолжения её пленительных рассказов. Благодаря ей ярмарки Сяньчжоу стали известны по всей галактике." },
+  "assets": { "portrait": "characters/tingyun/portrait.png", "thumbnail": "characters/tingyun/thumb.png" },
+  "stats": { "hp": 846, "atk": 529, "def": 396, "spd": 112, "taunt": 100 },
+  "materials": { "ascension_group": "immortal_scionette", "ascension_unique": "lightning_crown_of_the_past_shadow", "trace_group": "harmonic_tune", "trace_unique": "destroyers_final_road" },
+  "best_light_cones": [{ "item_id": "a_grounded_ascent", "rarity": 5, "is_best": true }, { "item_id": "dance_dance_dance", "rarity": 4, "is_best": true }, { "item_id": "but_the_battle_isnt_over", "rarity": 5, "is_best": false }, { "item_id": "planetary_rendezvous", "rarity": 4, "is_best": false }],
+  "best_relics": ["sacerdos_relived_ordeal", "messenger_traversing_hackerspace", "musketeer_of_wild_wheat"],
+  "best_ornaments": ["lushaka_the_sunken_seas", "fleet_of_the_ageless", "penacony_land_of_the_dreams"],
+  "relic_stats": { "body": [{ "id": "atk_percent" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "atk_percent", "sep": ">" }, { "id": "hp_percent" }], "rope": [{ "id": "energy_regen" }] },
+  "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "atk_percent", "sep": ">" }, { "id": "hp_percent", "sep": "=" }, { "id": "def_percent", "sep": "" }],
+  "synergy": []
+}

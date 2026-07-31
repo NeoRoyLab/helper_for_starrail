@@ -1,0 +1,15 @@
+{
+  "id": "welt",
+  "name": { "en": "Welt", "uk": "Вельт", "ru": "Вельт" },
+  "rarity": 5, "element": "imaginary", "path": "the_nihility",
+  "description": { "en": "The wise and sophisticated former Anti-Entropy Sovereign who inherits the name of the world — Welt. He has saved Earth from annihilation time and time again. After the incident with St. Fountain came to a close, he had no choice but to venture with the initiator of the incident to the other side of the space portal. Perhaps even he did not expect the new journey and companions that awaited him.", "uk": "Мудрий і досвідчений колишній володар Антиентропії, який успадкував ім'я світу — Вельт. Він неодноразово рятував Землю від знищення. Після завершення подій у Сен-Фонтейні йому не залишалося нічого іншого, як пройти крізь портал разом із винуватцем подій. Можливо, навіть він не очікував на нову подорож і нових супутників.", "ru": "Мудрый и опытный бывший властитель Антиэнтропии, унаследовавший имя мира — Вельт. Много раз спасал Землю от уничтожения. После окончания событий в Сен-Фонтейне Вельту ничего не оставалось, кроме как пройти через портал вместе с виновником этих событий. Возможно, он и сам не ожидал ни нового путешествия, ни встреч с новыми спутниками." },
+  "assets": { "portrait": "characters/welt/portrait.png", "thumbnail": "characters/welt/thumb.png" },
+  "stats": { "hp": 1125, "atk": 620, "def": 509, "spd": 102, "taunt": 100 },
+  "materials": { "ascension_group": "silvermane_badge", "ascension_unique": "golden_crown_of_the_past_shadow", "trace_group": "obsidian_of_dread", "trace_unique": "destroyers_final_road" },
+  "best_light_cones": [{ "item_id": "lies_dance_on_the_breeze", "rarity": 5, "is_best": true }, { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": true }, { "item_id": "along_the_passing_shore", "rarity": 5, "is_best": false }, { "item_id": "before_the_tutorial_mission_starts", "rarity": 4, "is_best": false }],
+  "best_relics": ["pioneer_diver_of_dead_waters", "wastelander_of_banditry_desert", "scholar_lost_in_erudition"],
+  "best_ornaments": ["rutilant_arena", "firmament_frontline_glamoth", "pan_cosmic_commercial_enterprise"],
+  "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">" }, { "id": "effect_hit" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "imaginary_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent" }] },
+  "best_substats": [{ "id": "speed", "sep": "=" }, { "id": "effect_hit", "sep": ">" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
+  "synergy": ["acheron", "ashveil"]
+}
