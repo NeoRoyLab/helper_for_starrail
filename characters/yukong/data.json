@@ -6,7 +6,7 @@
   "assets": { "portrait": "characters/yukong/portrait.png", "thumbnail": "characters/yukong/thumb.png" },
   "stats": { "hp": 917, "atk": 599, "def": 374, "spd": 107, "taunt": 100 },
   "materials": { "ascension_group": "artifexs_module", "ascension_unique": "golden_crown_of_the_past_shadow", "trace_group": "harmonic_tune", "trace_unique": "destroyers_final_road" },
-  "best_light_cones": [{ "item_id": "but_the_battle_isnt_over", "rarity": 5, "is_best": true }, { "item_id": "past_and_future", "rarity": 4, "is_best": true }, { "item_id": "planetary_rendezvous", "rarity": 4, "is_best": false }, { "item_id": "meshing_cogs", "rarity": 3, "is_best": false }],
+  "best_light_cones": [{ "item_id": "but_the_battle_isnt_over", "rarity": 5, "is_best": true }, { "item_id": "memories_of_the_past", "rarity": 4, "is_best": true }, { "item_id": "meshing_cogs", "rarity": 3, "is_best": false }, { "item_id": "planetary_rendezvous", "rarity": 4, "is_best": false }, { "item_id": "past_and_future", "rarity": 4, "is_best": false }],
   "best_relics": ["messenger_traversing_hackerspace", "wastelander_of_banditry_desert", "musketeer_of_wild_wheat"],
   "best_ornaments": ["broken_keel", "penacony_land_of_the_dreams", "inert_salsotto"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">=" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">=" }, { "id": "atk_percent" }], "sphere": [{ "id": "imaginary_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "energy_regen", "sep": ">=" }, { "id": "atk_percent" }] },

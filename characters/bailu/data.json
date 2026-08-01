@@ -70,7 +70,11 @@
   "relic_stats": {
     "body": [
       {
-        "id": "outgoing_healing"
+        "id": "outgoing_healing",
+        "sep": ">"
+      },
+      {
+        "id": "hp_percent"
       }
     ],
     "feet": [

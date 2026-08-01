@@ -6,9 +6,9 @@
   "assets": { "portrait": "characters/yanqing/portrait.png", "thumbnail": "characters/yanqing/thumb.png" },
   "stats": { "hp": 892, "atk": 679, "def": 412, "spd": 109, "taunt": 75 },
   "materials": { "ascension_group": "thiefs_instinct", "ascension_unique": "gelid_chitin", "trace_group": "arrow_of_the_beast_hunter", "trace_unique": "guardians_lament" },
-  "best_light_cones": [{ "item_id": "in_the_night", "rarity": 5, "is_best": true }, { "item_id": "swordplay", "rarity": 4, "is_best": true }, { "item_id": "sleep_like_the_dead", "rarity": 5, "is_best": false }, { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }, { "item_id": "only_silence_remains", "rarity": 4, "is_best": false }],
+  "best_light_cones": [{ "item_id": "in_the_night", "rarity": 5, "is_best": true }, { "item_id": "swordplay", "rarity": 4, "is_best": true }, { "item_id": "only_silence_remains", "rarity": 4, "is_best": false }, { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }, { "item_id": "sleep_like_the_dead", "rarity": 5, "is_best": false }],
   "best_relics": ["scholar_lost_in_erudition", "hunter_of_glacial_forest", "pioneer_diver_of_dead_waters"],
-  "best_ornaments": ["rutilant_arena", "firmament_frontline_glamoth", "inert_salsotto"],
+  "best_ornaments": ["firmament_frontline_glamoth", "rutilant_arena", "inert_salsotto"],
   "relic_stats": { "body": [{ "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">=" }, { "id": "atk_percent" }], "sphere": [{ "id": "ice_dmg", "sep": ">=" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": ">" }, { "id": "crit_rate", "sep": "" }],
   "synergy": ["aventurine", "bronya"]

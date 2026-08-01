@@ -7,8 +7,8 @@
   "stats": { "hp": 1242, "atk": 465, "def": 654, "spd": 101, "taunt": 100 },
   "materials": { "ascension_group": "whimsy_wax", "ascension_unique": "invasive_clot", "trace_group": "the_fluffy_hand-drawn_storyboards", "trace_unique": "vanquished_flows_reticence" },
   "best_light_cones": [{ "item_id": "when_she_decided_to_see", "rarity": 5, "is_best": true }, { "item_id": "mushy_shroomys_adventures", "rarity": 4, "is_best": true }, { "item_id": "tomorrow_together", "rarity": 4, "is_best": false }],
-  "best_relics": ["divine_querying_master_smith", "eagle_of_twilight_line", "messenger_traversing_hackerspace"],
-  "best_ornaments": ["revelry_by_the_sea", "broken_keel", "lushaka_the_sunken_seas"],
+  "best_relics": ["diviner_of_distant_reach", "divine_querying_master_smith", "eagle_of_twilight_line"],
+  "best_ornaments": ["lushaka_the_sunken_seas", "revelry_by_the_sea", "broken_keel"],
   "relic_stats": { "body": [{ "id": "crit_dmg", "sep": ">" }, { "id": "crit_rate" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": ">" }, { "id": "def_percent" }], "rope": [{ "id": "energy_regen" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_rate", "sep": ">" }, { "id": "crit_dmg", "sep": "" }],
   "synergy": ["sparxie"]

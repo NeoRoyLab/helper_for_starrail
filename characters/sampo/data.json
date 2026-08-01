@@ -48,7 +48,7 @@
   ],
   "relic_stats": {
     "body": [
-      { "id": "effect_hit_rate", "sep": ">=" },
+      { "id": "effect_hit", "sep": ">=" },
       { "id": "atk_percent" }
     ],
     "feet": [
@@ -64,7 +64,7 @@
   },
   "best_substats": [
     { "id": "speed", "sep": "=" },
-    { "id": "effect_hit_rate", "sep": ">" },
+    { "id": "effect_hit", "sep": ">" },
     { "id": "atk_percent", "sep": ">" },
     { "id": "break_effect", "sep": "" }
   ],

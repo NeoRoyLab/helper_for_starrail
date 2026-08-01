@@ -1,0 +1,33 @@
+{
+  "id": "holiday_thermae_escapade",
+  "name": {
+    "en": "Holiday Thermae Escapade",
+    "uk": "Пригоди в купальні",
+    "ru": "Приключения в купальне"
+  },
+  "rarity": 4,
+  "path": "nihility",
+  "stats": {
+    "hp_min": 48,
+    "hp_max": 1058,
+    "atk_min": 24,
+    "atk_max": 529,
+    "def_min": 15,
+    "def_max": 330
+  },
+  "description": {
+    "en": "Increases the wearer's DMG dealt by 16-32%. After the wearer attacks, there is a 100% base chance to inflict the attacked target with Vulnerability, increasing the DMG they receive by 10-16% for 2 turn(s). Effects of the same type cannot stack.",
+    "uk": "Підвищує завдану власником шкоду на 16-32%. Після атаки власника є базовий шанс 100% накласти на атаковану ціль статус «Вразливість», який підвищує отримувану нею шкоду на 10-16% на 2 ходи. Ефекти однакового типу не складаються.",
+    "ru": "Наносимый владельцем урон повышается на 16-32%. После атаки владельца имеется базовый шанс 100% наложить на атакованную цель статус Уязвимость, который повышает получаемый ею урон на 10-16% на 2 хода. Эффекты подобного типа не складываются."
+  },
+  "sources": [
+    {
+      "en": "Nameless Honor",
+      "uk": "Честь Безіменних",
+      "ru": "Честь Безымянных"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/holiday_thermae_escapade/art.png"
+  }
+}

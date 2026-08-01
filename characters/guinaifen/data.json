@@ -50,7 +50,7 @@
   "relic_stats": {
     "body": [
       { "id": "atk_percent", "sep": ">" },
-      { "id": "effect_hit_rate" }
+      { "id": "effect_hit" }
     ],
     "feet": [
       { "id": "speed" }
@@ -64,11 +64,9 @@
     ]
   },
   "best_substats": [
-    { "id": "effect_hit_rate", "sep": ">" },
-    { "id": "speed", "sep": ">" },
+    { "id": "speed", "sep": "=" },
+    { "id": "effect_hit", "sep": ">" },
     { "id": "atk_percent", "sep": ">" },
-    { "id": "hp_percent", "sep": "=" },
-    { "id": "def_percent", "sep": "=" },
     { "id": "break_effect", "sep": "" }
   ],
   "synergy": [

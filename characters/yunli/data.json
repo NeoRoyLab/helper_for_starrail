@@ -8,7 +8,7 @@
   "materials": { "ascension_group": "artifexs_module", "ascension_unique": "ipc_work_permit", "trace_group": "borisin_teeth", "trace_unique": "regret_of_infinite_ochema" },
   "best_light_cones": [{ "item_id": "dance_at_sunset", "rarity": 5, "is_best": true }, { "item_id": "under_the_blue_sky", "rarity": 4, "is_best": true }, { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": false }, { "item_id": "the_unreachable_side", "rarity": 5, "is_best": false }, { "item_id": "something_irreplaceable", "rarity": 5, "is_best": false }],
   "best_relics": ["the_wind_soaring_valorous", "the_ashblazing_grand_duke", "champion_of_streetwise_boxing"],
-  "best_ornaments": ["duran_dynasty_of_running_wolves", "inert_salsotto", "rutilant_arena"],
+  "best_ornaments": ["inert_salsotto", "duran_dynasty_of_running_wolves", "rutilant_arena"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">" }, { "id": "crit_dmg" }], "feet": [{ "id": "atk_percent" }], "sphere": [{ "id": "physical_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent", "sep": ">" }, { "id": "energy_regen" }] },
   "best_substats": [{ "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
   "synergy": ["aventurine"]

@@ -57,8 +57,8 @@
     "genius_of_brilliant_stars"
   ],
   "best_ornaments": [
-    "rutilant_arena",
     "tengoku_livestream",
+    "rutilant_arena",
     "inert_salsotto"
   ],
   "relic_stats": {
@@ -77,6 +77,10 @@
       }
     ],
     "sphere": [
+      {
+        "id": "atk_percent",
+        "sep": ">"
+      },
       {
         "id": "quantum_dmg"
       }

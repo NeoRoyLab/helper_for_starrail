@@ -60,7 +60,7 @@
   "relic_stats": {
     "body": [
       {
-        "id": "effect_hit_rate",
+        "id": "effect_hit",
         "sep": ">"
       },
       {
@@ -89,7 +89,7 @@
   },
   "best_substats": [
     {
-      "id": "effect_hit_rate",
+      "id": "effect_hit",
       "sep": "="
     },
     {

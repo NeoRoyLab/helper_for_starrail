@@ -6,7 +6,7 @@
   "assets": { "portrait": "characters/sushang/portrait.png", "thumbnail": "characters/sushang/thumb.png" },
   "stats": { "hp": 917, "atk": 564, "def": 418, "spd": 107, "taunt": 75 },
   "materials": { "ascension_group": "artifexs_module", "ascension_unique": "broken_teeth_of_iron_wolf", "trace_group": "arrow_of_the_beast_hunter", "trace_unique": "guardians_lament" },
-  "best_light_cones": [{ "item_id": "in_the_night", "rarity": 5, "is_best": true }, { "item_id": "swordplay", "rarity": 4, "is_best": true }, { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }, { "item_id": "only_silence_remains", "rarity": 4, "is_best": false }],
+  "best_light_cones": [{ "item_id": "sailing_towards_a_second_life", "rarity": 5, "is_best": true }, { "item_id": "swordplay", "rarity": 4, "is_best": true }, { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }, { "item_id": "only_silence_remains", "rarity": 4, "is_best": false }],
   "best_relics": ["champion_of_streetwise_boxing", "iron_cavalry_against_the_scourge", "thief_of_shooting_meteor"],
   "best_ornaments": ["talia_kingdom_of_banditry", "rutilant_arena", "firmament_frontline_glamoth"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">=" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">" }, { "id": "atk_percent" }], "sphere": [{ "id": "physical_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "break_effect", "sep": ">" }, { "id": "atk_percent" }] },

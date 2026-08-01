@@ -75,12 +75,20 @@
     ],
     "sphere": [
       {
+        "id": "atk_percent",
+        "sep": ">"
+      },
+      {
         "id": "wind_dmg"
       }
     ],
     "rope": [
       {
-        "id": "atk_percent"
+        "id": "atk_percent",
+        "sep": ">"
+      },
+      {
+        "id": "energy_regen"
       }
     ]
   },

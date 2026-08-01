@@ -28,7 +28,7 @@
     "ascension_group": "extinguished_core",
     "ascension_unique": "lightning_crown_of_the_past_shadow",
     "trace_group": "shattered_blade",
-    "trace_unique": "guardians_lament"
+    "trace_unique": "destroyers_final_road"
   },
   "best_light_cones": [
     {
@@ -65,12 +65,20 @@
     ],
     "feet": [
       {
+        "id": "speed",
+        "sep": ">"
+      },
+      {
         "id": "atk_percent"
       }
     ],
     "sphere": [
       {
-        "id": "lightning_dmg"
+        "id": "lightning_dmg",
+        "sep": ">"
+      },
+      {
+        "id": "atk_percent"
       }
     ],
     "rope": [

@@ -31,9 +31,9 @@
     "trace_unique": "guardians_lament"
   },
   "best_light_cones": [
-    { "item_id": "in_the_night", "rarity": 5, "is_best": true },
+    { "item_id": "the_hell_where_ideals_burn", "rarity": 5, "is_best": true },
     { "item_id": "swordplay", "rarity": 4, "is_best": true },
-    { "item_id": "the_hell_where_ideals_burn", "rarity": 5, "is_best": false },
+    { "item_id": "in_the_night", "rarity": 5, "is_best": false },
     { "item_id": "cruising_in_the_stellar_sea", "rarity": 5, "is_best": false }
   ],
   "best_relics": [

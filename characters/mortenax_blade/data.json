@@ -50,7 +50,7 @@
   "relic_stats": {
     "body": [
       { "id": "crit_rate", "sep": ">" },
-      { "id": "effect_hit_rate" }
+      { "id": "effect_hit" }
     ],
     "feet": [
       { "id": "speed" }

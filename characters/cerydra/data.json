@@ -66,7 +66,7 @@
   "best_substats": [
     { "id": "speed", "sep": ">" },
     { "id": "atk_percent", "sep": ">" },
-    { "id": "atk", "sep": ">" },
+    { "id": "atk_percent", "sep": ">" },
     { "id": "hp_percent", "sep": "=" },
     { "id": "def_percent", "sep": "" }
   ],

@@ -1,0 +1,33 @@
+{
+  "id": "fly_into_a_pink_tomorrow",
+  "name": {
+    "en": "Fly Into a Pink Tomorrow",
+    "uk": "Політ у рожеве завтра",
+    "ru": "Полёт к розовому завтра"
+  },
+  "rarity": 4,
+  "path": "remembrance",
+  "stats": {
+    "hp_min": 38,
+    "hp_max": 846,
+    "atk_min": 21,
+    "atk_max": 476,
+    "def_min": 18,
+    "def_max": 396
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT DMG by 12-24%. When equipped by Trailblazer (Remembrance), increases all ally targets' DMG dealt by 8-16% and DMG dealt by Enhanced Basic ATK \"Together, We Script Tomorrow!\" by 60-100%.",
+    "uk": "Підвищує крит. шкоду власника на 12-24%. Якщо власником є Першопроходець (Пам'ять), завдана всіма союзниками шкода підвищується на 8-16%, а шкода посиленої базової атаки «Разом опишемо завтрашній день!» — на 60-100%.",
+    "ru": "Крит. урон владельца повышается на 12-24%. Если владельцем является Первопроходец (Память), то наносимый всеми союзниками урон повышается на 8-16%, а также повышает урон, наносимый усиленной базовой атакой «Вместе опишем облик завтрашнего дня!», на 60-100%."
+  },
+  "sources": [
+    {
+      "en": "Trailblaze Mission",
+      "uk": "Місія Освоєння",
+      "ru": "Миссия Освоения"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/fly_into_a_pink_tomorrow/art.png"
+  }
+}

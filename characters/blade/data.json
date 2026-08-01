@@ -69,24 +69,24 @@
   ],
   "relic_stats": {
     "body": [
-      "crit_dmg",
-      "crit_rate"
+      { "id": "crit_dmg", "sep": ">" },
+      { "id": "crit_rate" }
     ],
     "feet": [
-      "spd",
-      "hp_percent"
+      { "id": "speed", "sep": ">" },
+      { "id": "hp_percent" }
     ],
     "sphere": [
-      "wind_dmg",
-      "hp_percent"
+      { "id": "wind_dmg", "sep": ">" },
+      { "id": "hp_percent" }
     ],
     "rope": [
-      "hp_percent"
+      { "id": "hp_percent" }
     ]
   },
   "best_substats": [
     {
-      "id": "spd",
+      "id": "speed",
       "sep": ">"
     },
     {

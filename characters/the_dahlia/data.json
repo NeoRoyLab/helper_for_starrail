@@ -7,7 +7,7 @@
   "stats": { "hp": 1087, "atk": 679, "def": 606, "spd": 96, "taunt": 100 },
   "materials": { "ascension_group": "tatters_of_thought", "ascension_unique": "radiant_prominence", "trace_group": "fiery_spirit", "trace_unique": "vanquished_flows_reticence" },
   "best_light_cones": [{ "item_id": "never_forget_her_flame", "rarity": 5, "is_best": true }, { "item_id": "resolution_shines_as_pearls_of_sweat", "rarity": 4, "is_best": true }, { "item_id": "long_road_leads_home", "rarity": 5, "is_best": false }, { "item_id": "lies_dance_on_the_breeze", "rarity": 5, "is_best": false }],
-  "best_relics": ["thief_of_shooting_meteor", "iron_cavalry_against_the_scourge", "watchmaker_master_of_dream_machinations"],
+  "best_relics": ["iron_cavalry_against_the_scourge", "thief_of_shooting_meteor", "watchmaker_master_of_dream_machinations"],
   "best_ornaments": ["talia_kingdom_of_banditry", "forge_of_the_kalpagni_lantern", "sprightly_vonwacq"],
   "relic_stats": { "body": [{ "id": "hp_percent", "sep": "=" }, { "id": "effect_hit" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": "=" }, { "id": "def_percent" }], "rope": [{ "id": "energy_regen", "sep": "=" }, { "id": "break_effect" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "break_effect", "sep": ">" }, { "id": "hp_percent", "sep": "=" }, { "id": "def_percent", "sep": ">" }, { "id": "effect_res", "sep": "" }],

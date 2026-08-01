@@ -6,7 +6,7 @@
   "assets": { "portrait": "characters/trailblazer_harmony/portrait.png", "thumbnail": "characters/trailblazer_harmony/thumb.png" },
   "stats": { "hp": 1086, "atk": 446, "def": 679, "spd": 105, "taunt": 100 },
   "materials": { "ascension_group": "thiefs_instinct", "ascension_unique": "enigmatic_ectostella", "trace_group": "firmament_note", "trace_unique": "past_evils_of_the_borehole_planet_disaster" },
-  "best_light_cones": [{ "item_id": "past_self_in_mirror", "rarity": 5, "is_best": true }, { "item_id": "memories_of_the_past", "rarity": 4, "is_best": true }, { "item_id": "dance_dance_dance", "rarity": 4, "is_best": false }, { "item_id": "meshing_cogs", "rarity": 3, "is_best": false }],
+  "best_light_cones": [{ "item_id": "past_self_in_mirror", "rarity": 5, "is_best": true }, { "item_id": "dance_dance_dance", "rarity": 4, "is_best": true }, { "item_id": "memories_of_the_past", "rarity": 4, "is_best": false }, { "item_id": "meshing_cogs", "rarity": 3, "is_best": false }],
   "best_relics": ["watchmaker_master_of_dream_machinations", "thief_of_shooting_meteor", "messenger_traversing_hackerspace"],
   "best_ornaments": ["talia_kingdom_of_banditry", "sprightly_vonwacq", "lushaka_the_sunken_seas"],
   "relic_stats": { "body": [{ "id": "hp_percent", "sep": ">" }, { "id": "def_percent" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": ">" }, { "id": "def_percent" }], "rope": [{ "id": "break_effect", "sep": ">" }, { "id": "energy_regen" }] },

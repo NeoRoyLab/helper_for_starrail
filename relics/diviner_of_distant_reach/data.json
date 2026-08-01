@@ -1,0 +1,17 @@
+{
+  "id": "diviner_of_distant_reach",
+  "name": {
+    "en": "Diviner of Distant Reach",
+    "uk": "Віщун далеких обріїв",
+    "ru": "Недосягаемый прорицатель"
+  },
+  "rarity": 5,
+  "description": {
+    "en": "2-Pc: Increases SPD by 6%. 4-Pc: Before entering combat, if the wearer's SPD is greater than or equal to 120/160, increases the wearer's CRIT Rate by 10%/18%. When the wearer uses Elation Skill for the first time in each battle, enhances all allies' Elation by 10%. This effect cannot stack.",
+    "uk": "2 предмети: Підвищує швидкість на 6%. 4 предмети: Перед вступом у бій, якщо швидкість власника більша або дорівнює 120/160, його крит. шанс підвищується на 10%/18%. Коли власник уперше в бою використовує навичку Радості, Радість усіх союзників підвищується на 10%. Цей ефект не складається.",
+    "ru": "2 предмета: Повышает скорость на 6%. 4 предмета: В начале боя, если скорость владельца больше или равна 120/160, повышает крит. шанс владельца на 10%/18%. Когда владелец впервые в бою использует навык Радости, повышает Радость всех союзников на 10%. Этот эффект не складывается."
+  },
+  "assets": {
+    "icon": "relics/diviner_of_distant_reach/icon.png"
+  }
+}
