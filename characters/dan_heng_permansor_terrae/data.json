@@ -33,7 +33,7 @@
   "best_light_cones": [
     { "item_id": "though_worlds_apart", "rarity": 5, "is_best": true },
     { "item_id": "journey_forever_peaceful", "rarity": 4, "is_best": true },
-    { "item_id": "thus_burns_the_dawn", "rarity": 5, "is_best": false },
+    { "item_id": "moment_of_victory", "rarity": 5, "is_best": false },
     { "item_id": "day_one_of_my_new_life", "rarity": 4, "is_best": false }
   ],
   "best_relics": [

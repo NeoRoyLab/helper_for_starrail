@@ -34,7 +34,7 @@
     { "item_id": "make_farewells_more_beautiful", "rarity": 5, "is_best": true },
     { "item_id": "the_flower_remembers", "rarity": 4, "is_best": true },
     { "item_id": "sweat_now_cry_less", "rarity": 4, "is_best": false },
-    { "item_id": "time_waits_for_no_one", "rarity": 5, "is_best": false },
+    { "item_id": "memorys_curtain_never_falls", "rarity": 5, "is_best": false },
     { "item_id": "the_storys_next_page", "rarity": 4, "is_best": false }
   ],
   "best_relics": [
