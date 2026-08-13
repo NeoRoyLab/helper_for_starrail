@@ -11,5 +11,10 @@
   "best_ornaments": ["firmament_frontline_glamoth", "rutilant_arena", "inert_salsotto"],
   "relic_stats": { "body": [{ "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">=" }, { "id": "atk_percent" }], "sphere": [{ "id": "ice_dmg", "sep": ">=" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": ">" }, { "id": "crit_rate", "sep": "" }],
-  "synergy": ["aventurine", "bronya"]
+  "synergy": [
+    "aventurine",
+    "gepard",
+    "sunday",
+    "bronya"
+  ]
 }

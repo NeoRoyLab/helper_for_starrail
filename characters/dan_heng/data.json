@@ -71,6 +71,7 @@
     { "id": "atk_percent", "sep": "" }
   ],
   "synergy": [
+    "sunday",
     "bronya"
   ]
 }

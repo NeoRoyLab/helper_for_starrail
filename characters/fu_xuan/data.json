@@ -71,6 +71,7 @@
     { "id": "effect_res", "sep": "" }
   ],
   "synergy": [
-    "acheron"
+    "acheron",
+    "seele"
   ]
 }

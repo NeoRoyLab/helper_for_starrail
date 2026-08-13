@@ -70,5 +70,9 @@
     { "id": "crit_dmg", "sep": ">" },
     { "id": "atk_percent", "sep": "" }
   ],
-  "synergy": []
+  "synergy": [
+    "the_herta",
+    "robin",
+    "himeko"
+  ]
 }

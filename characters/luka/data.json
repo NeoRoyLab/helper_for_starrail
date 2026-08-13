@@ -71,7 +71,9 @@
     { "id": "atk_percent", "sep": "" }
   ],
   "synergy": [
+    "tingyun_fugue",
+    "kafka",
     "boothill",
-    "black_swan"
+    "silver_wolf"
   ]
 }

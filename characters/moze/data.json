@@ -68,7 +68,8 @@
     { "id": "atk_percent", "sep": "" }
   ],
   "synergy": [
-    "aventurine",
-    "clara"
+    "feixiao",
+    "dr_ratio",
+    "aventurine"
   ]
 }

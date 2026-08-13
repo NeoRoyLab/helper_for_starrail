@@ -11,5 +11,9 @@
   "best_ornaments": ["bone_collections_serene_demesne", "fleet_of_the_ageless", "inert_salsotto"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg" }], "feet": [{ "id": "hp_percent", "sep": ">" }, { "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": ">" }, { "id": "quantum_dmg" }], "rope": [{ "id": "energy_regen", "sep": ">" }, { "id": "hp_percent" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "hp_percent", "sep": "" }],
-  "synergy": ["castorice"]
+  "synergy": [
+    "the_herta",
+    "aglaea",
+    "ashveil"
+  ]
 }

@@ -70,5 +70,11 @@
     { "id": "atk_percent", "sep": ">" },
     { "id": "speed", "sep": "" }
   ],
-  "synergy": ["dan_heng"]
+  "synergy": [
+    "welt",
+    "mortenax_blade",
+    "cerydra",
+    "sunday",
+    "trailblazer_remembrance"
+  ]
 }

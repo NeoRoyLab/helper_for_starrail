@@ -71,9 +71,10 @@
     { "id": "atk_percent", "sep": "" }
   ],
   "synergy": [
+    "robin",
+    "tribbie",
     "cipher",
-    "aventurine",
-    "ashveil",
-    "bronya"
+    "topaz_numby",
+    "moze"
   ]
 }

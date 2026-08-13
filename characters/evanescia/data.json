@@ -64,6 +64,8 @@
     { "id": "crit_dmg", "sep": "" }
   ],
   "synergy": [
-    "cyrene"
+    "yao_guang",
+    "huohuo",
+    "trailblazer_elation"
   ]
 }

@@ -2,7 +2,7 @@
     "manifests":  [
                       {
                           "key":  "characters",
-                          "version":  116
+                          "version":  117
                       },
                       {
                           "key":  "light_cones",

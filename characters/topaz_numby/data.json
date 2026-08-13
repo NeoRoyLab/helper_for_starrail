@@ -11,5 +11,9 @@
   "best_ornaments": ["duran_dynasty_of_running_wolves", "inert_salsotto", "the_wondrous_bananamusement_park"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">=" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">" }, { "id": "atk_percent" }], "sphere": [{ "id": "fire_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
-  "synergy": ["aventurine", "dr_ratio"]
+  "synergy": [
+    "robin",
+    "feixiao",
+    "dr_ratio"
+  ]
 }

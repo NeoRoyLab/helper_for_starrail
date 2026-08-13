@@ -67,5 +67,9 @@
     { "id": "atk_percent", "sep": ">" },
     { "id": "speed", "sep": "" }
   ],
-  "synergy": []
+  "synergy": [
+    "saber",
+    "mortenax_blade",
+    "trailblazer_remembrance"
+  ]
 }

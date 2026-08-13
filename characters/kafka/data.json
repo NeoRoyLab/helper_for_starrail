@@ -69,5 +69,11 @@
     { "id": "speed", "sep": ">" },
     { "id": "atk_percent", "sep": "" }
   ],
-  "synergy": ["black_swan", "cipher"]
+  "synergy": [
+    "hysilens",
+    "black_swan",
+    "jiaoqiu",
+    "ruan_mei",
+    "robin"
+  ]
 }

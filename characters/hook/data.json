@@ -68,5 +68,7 @@
     { "id": "crit_dmg", "sep": ">" },
     { "id": "atk_percent", "sep": "" }
   ],
-  "synergy": []
+  "synergy": [
+    "tingyun"
+  ]
 }

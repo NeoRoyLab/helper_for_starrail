@@ -69,5 +69,11 @@
     { "id": "crit_dmg", "sep": ">" },
     { "id": "atk_percent", "sep": "" }
   ],
-  "synergy": ["aventurine"]
+  "synergy": [
+    "sunday",
+    "robin",
+    "jiaoqiu",
+    "ruan_mei",
+    "tingyun"
+  ]
 }

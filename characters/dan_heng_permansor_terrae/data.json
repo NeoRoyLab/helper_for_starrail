@@ -67,7 +67,10 @@
     { "id": "effect_res", "sep": "" }
   ],
   "synergy": [
-    "archer",
-    "cyrene"
+    "sunday",
+    "phainon",
+    "feixiao",
+    "robin",
+    "dan_heng_imbibitor_lunae"
   ]
 }

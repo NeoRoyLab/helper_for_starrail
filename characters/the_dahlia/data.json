@@ -11,5 +11,10 @@
   "best_ornaments": ["talia_kingdom_of_banditry", "forge_of_the_kalpagni_lantern", "sprightly_vonwacq"],
   "relic_stats": { "body": [{ "id": "hp_percent", "sep": "=" }, { "id": "effect_hit" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": "=" }, { "id": "def_percent" }], "rope": [{ "id": "energy_regen", "sep": "=" }, { "id": "break_effect" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "break_effect", "sep": ">" }, { "id": "hp_percent", "sep": "=" }, { "id": "def_percent", "sep": ">" }, { "id": "effect_res", "sep": "" }],
-  "synergy": ["boothill"]
+  "synergy": [
+    "firefly",
+    "rappa",
+    "boothill",
+    "march_7th_the_hunt"
+  ]
 }

@@ -68,5 +68,10 @@
     { "id": "effect_res", "sep": "=" },
     { "id": "def_percent", "sep": "" }
   ],
-  "synergy": ["aglaea", "argenti"]
+  "synergy": [
+    "aglaea",
+    "saber",
+    "yunli",
+    "argenti"
+  ]
 }

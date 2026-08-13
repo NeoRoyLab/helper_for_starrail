@@ -11,5 +11,11 @@
   "best_ornaments": ["broken_keel", "lushaka_the_sunken_seas", "sprightly_vonwacq"],
   "relic_stats": { "body": [{ "id": "crit_dmg" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "ice_dmg", "sep": ">" }, { "id": "hp_percent" }], "rope": [{ "id": "energy_regen" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_dmg", "sep": ">" }, { "id": "effect_res", "sep": "" }],
-  "synergy": ["castorice", "cyrene"]
+  "synergy": [
+    "castorice",
+    "cyrene",
+    "march_7th_evernight",
+    "the_herta",
+    "aglaea"
+  ]
 }

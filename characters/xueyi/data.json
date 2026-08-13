@@ -11,5 +11,10 @@
   "best_ornaments": ["talia_kingdom_of_banditry", "rutilant_arena", "inert_salsotto"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">=" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">=" }, { "id": "atk_percent" }], "sphere": [{ "id": "atk_percent", "sep": ">" }, { "id": "quantum_dmg" }], "rope": [{ "id": "break_effect" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "break_effect", "sep": ">=" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
-  "synergy": []
+  "synergy": [
+    "tingyun_fugue",
+    "trailblazer_harmony",
+    "ruan_mei",
+    "sparkle"
+  ]
 }

@@ -65,5 +65,11 @@
     { "id": "crit_dmg", "sep": ">=" },
     { "id": "effect_res", "sep": "" }
   ],
-  "synergy": ["castorice", "blade"]
+  "synergy": [
+    "castorice",
+    "march_7th_evernight",
+    "mortenax_blade",
+    "blade",
+    "the_herta"
+  ]
 }

@@ -11,5 +11,9 @@
   "best_ornaments": ["lushaka_the_sunken_seas", "fleet_of_the_ageless", "penacony_land_of_the_dreams"],
   "relic_stats": { "body": [{ "id": "atk_percent", "sep": ">" }, { "id": "hp_percent" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "atk_percent", "sep": ">" }, { "id": "hp_percent" }], "rope": [{ "id": "energy_regen" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "atk_percent", "sep": ">" }, { "id": "hp_percent", "sep": "=" }, { "id": "def_percent", "sep": "" }],
-  "synergy": []
+  "synergy": [
+    "argenti",
+    "yunli",
+    "clara"
+  ]
 }

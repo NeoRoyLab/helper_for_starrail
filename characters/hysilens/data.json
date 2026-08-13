@@ -70,5 +70,11 @@
     { "id": "speed", "sep": ">" },
     { "id": "atk_percent", "sep": "" }
   ],
-  "synergy": ["black_swan"]
+  "synergy": [
+    "kafka",
+    "black_swan",
+    "cyrene",
+    "jiaoqiu",
+    "sampo"
+  ]
 }

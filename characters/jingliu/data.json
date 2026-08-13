@@ -70,5 +70,11 @@
     { "id": "hp_percent", "sep": ">" },
     { "id": "crit_dmg", "sep": "" }
   ],
-  "synergy": ["bronya", "cipher", "blade", "castorice"]
+  "synergy": [
+    "hyacine",
+    "sunday",
+    "bronya",
+    "trailblazer_remembrance",
+    "ruan_mei"
+  ]
 }

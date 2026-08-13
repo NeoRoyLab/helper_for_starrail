@@ -69,6 +69,7 @@
     { "id": "atk_percent", "sep": "" }
   ],
   "synergy": [
+    "feixiao",
     "acheron",
     "castorice",
     "aglaea",

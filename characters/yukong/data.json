@@ -11,5 +11,7 @@
   "best_ornaments": ["broken_keel", "penacony_land_of_the_dreams", "inert_salsotto"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">=" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": ">=" }, { "id": "atk_percent" }], "sphere": [{ "id": "imaginary_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "energy_regen", "sep": ">=" }, { "id": "atk_percent" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "hp_percent", "sep": "=" }, { "id": "def_percent", "sep": ">" }, { "id": "effect_res", "sep": "" }],
-  "synergy": []
+  "synergy": [
+    "dan_heng_imbibitor_lunae"
+  ]
 }

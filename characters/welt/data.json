@@ -11,5 +11,9 @@
   "best_ornaments": ["rutilant_arena", "firmament_frontline_glamoth", "pan_cosmic_commercial_enterprise"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">" }, { "id": "effect_hit" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "imaginary_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent" }] },
   "best_substats": [{ "id": "speed", "sep": "=" }, { "id": "effect_hit", "sep": ">" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
-  "synergy": ["acheron", "ashveil"]
+  "synergy": [
+    "acheron",
+    "ashveil",
+    "himeko_nova"
+  ]
 }

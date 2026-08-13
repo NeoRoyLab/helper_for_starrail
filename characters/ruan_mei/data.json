@@ -72,6 +72,9 @@
     { "id": "effect_res", "sep": "" }
   ],
   "synergy": [
-    "boothill"
+    "firefly",
+    "boothill",
+    "rappa",
+    "trailblazer_harmony"
   ]
 }

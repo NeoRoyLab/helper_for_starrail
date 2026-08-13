@@ -11,5 +11,11 @@
   "best_ornaments": ["izumo_gensei_and_takama_divine_realm", "rutilant_arena", "the_wondrous_bananamusement_park"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">" }, { "id": "crit_dmg" }], "feet": [{ "id": "speed", "sep": "=" }, { "id": "atk_percent" }], "sphere": [{ "id": "ice_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent", "sep": ">=" }, { "id": "energy_regen" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_rate", "sep": ">" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
-  "synergy": ["anaxa"]
+  "synergy": [
+    "anaxa",
+    "jade",
+    "herta",
+    "serval",
+    "argenti"
+  ]
 }

@@ -11,5 +11,11 @@
   "best_ornaments": ["forge_of_the_kalpagni_lantern", "talia_kingdom_of_banditry", "sprightly_vonwacq"],
   "relic_stats": { "body": [{ "id": "effect_hit" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": "=" }, { "id": "def_percent" }], "rope": [{ "id": "break_effect", "sep": "=" }, { "id": "energy_regen" }] },
   "best_substats": [{ "id": "effect_hit", "sep": ">" }, { "id": "break_effect", "sep": ">" }, { "id": "speed", "sep": ">" }, { "id": "hp_percent", "sep": "=" }, { "id": "def_percent", "sep": "" }],
-  "synergy": ["boothill"]
+  "synergy": [
+    "rappa",
+    "firefly",
+    "boothill",
+    "himeko",
+    "acheron"
+  ]
 }

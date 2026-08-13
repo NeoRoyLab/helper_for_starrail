@@ -11,5 +11,10 @@
   "best_ornaments": ["talia_kingdom_of_banditry", "sprightly_vonwacq", "lushaka_the_sunken_seas"],
   "relic_stats": { "body": [{ "id": "hp_percent", "sep": ">" }, { "id": "def_percent" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": ">" }, { "id": "def_percent" }], "rope": [{ "id": "break_effect", "sep": ">" }, { "id": "energy_regen" }] },
   "best_substats": [{ "id": "speed", "sep": "=" }, { "id": "break_effect", "sep": ">" }, { "id": "hp_percent", "sep": "=" }, { "id": "def_percent", "sep": "" }],
-  "synergy": ["boothill"]
+  "synergy": [
+    "ruan_mei",
+    "firefly",
+    "boothill",
+    "rappa"
+  ]
 }

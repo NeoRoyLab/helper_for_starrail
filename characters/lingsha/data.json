@@ -68,6 +68,8 @@
     { "id": "atk_percent", "sep": "" }
   ],
   "synergy": [
-    "boothill"
+    "firefly",
+    "tingyun_fugue",
+    "trailblazer_harmony"
   ]
 }

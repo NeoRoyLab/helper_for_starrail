@@ -11,5 +11,11 @@
   "best_ornaments": ["inert_salsotto", "duran_dynasty_of_running_wolves", "rutilant_arena"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">" }, { "id": "crit_dmg" }], "feet": [{ "id": "atk_percent" }], "sphere": [{ "id": "physical_dmg", "sep": ">" }, { "id": "atk_percent" }], "rope": [{ "id": "atk_percent", "sep": ">" }, { "id": "energy_regen" }] },
   "best_substats": [{ "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": ">" }, { "id": "atk_percent", "sep": "" }],
-  "synergy": ["aventurine"]
+  "synergy": [
+    "robin",
+    "tribbie",
+    "sunday",
+    "tingyun",
+    "dan_heng_permansor_terrae"
+  ]
 }

@@ -68,5 +68,7 @@
     { "id": "atk_percent", "sep": ">" },
     { "id": "break_effect", "sep": "" }
   ],
-  "synergy": []
+  "synergy": [
+    "kafka"
+  ]
 }

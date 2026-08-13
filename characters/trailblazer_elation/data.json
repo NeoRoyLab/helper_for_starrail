@@ -11,5 +11,8 @@
   "best_ornaments": ["revelry_by_the_sea", "broken_keel", "lushaka_the_sunken_seas"],
   "relic_stats": { "body": [{ "id": "crit_rate", "sep": ">" }, { "id": "hp_percent" }], "feet": [{ "id": "speed" }], "sphere": [{ "id": "hp_percent", "sep": "=" }, { "id": "def_percent" }], "rope": [{ "id": "energy_regen" }] },
   "best_substats": [{ "id": "speed", "sep": ">" }, { "id": "crit_rate", "sep": "=" }, { "id": "crit_dmg", "sep": "=" }, { "id": "hp_percent", "sep": "" }],
-  "synergy": ["sparxie"]
+  "synergy": [
+    "silver_wolf_lv_999",
+    "sparxie"
+  ]
 }

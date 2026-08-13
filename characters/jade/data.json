@@ -68,5 +68,11 @@
     { "id": "atk_percent", "sep": ">" },
     { "id": "speed", "sep": "" }
   ],
-  "synergy": ["blade"]
+  "synergy": [
+    "the_herta",
+    "lingsha",
+    "blade",
+    "herta",
+    "himeko"
+  ]
 }

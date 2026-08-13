@@ -70,6 +70,7 @@
     { "id": "break_effect", "sep": "" }
   ],
   "synergy": [
+    "kafka",
     "acheron"
   ]
 }
