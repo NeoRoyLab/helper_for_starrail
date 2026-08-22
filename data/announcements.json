@@ -1,0 +1,34 @@
+{
+  "messages": [
+    {
+      "id": "example_message",
+      "enabled": false,
+      "priority": 100,
+      "show_on_startup": true,
+      "published_at": "2026-08-15T00:00:00Z",
+      "starts_at": "",
+      "ends_at": "",
+      "min_app_version": "",
+      "max_app_version": "",
+      "title": {
+        "en": "Project news",
+        "ru": "Новости проекта",
+        "uk": "Новини проєкту",
+        "pt": "Notícias do projeto"
+      },
+      "body": {
+        "en": "Replace this text and set enabled to true.",
+        "ru": "Замените этот текст и включите сообщение.",
+        "uk": "Замініть цей текст і увімкніть повідомлення.",
+        "pt": "Substitua este texto e ative a mensagem."
+      },
+      "action_label": {
+        "en": "Open",
+        "ru": "Открыть",
+        "uk": "Відкрити",
+        "pt": "Abrir"
+      },
+      "action_url": ""
+    }
+  ]
+}
