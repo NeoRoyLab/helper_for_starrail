@@ -29,6 +29,36 @@
         "pt": "Abrir"
       },
       "action_url": ""
+    },
+    {
+      "id": "rate_app_google_play_5_0_11",
+      "enabled": true,
+      "priority": 200,
+      "show_on_startup": true,
+      "published_at": "2026-08-23T00:00:00Z",
+      "starts_at": "",
+      "ends_at": "",
+      "min_app_version": "5.0.11",
+      "max_app_version": "",
+      "title": {
+        "en": "Rate the app",
+        "ru": "Оцените приложение",
+        "uk": "Оцініть застосунок",
+        "pt": "Avalie o aplicativo"
+      },
+      "body": {
+        "en": "Enjoying the app? Rate it on Google Play. Your review will help the project grow and improve.",
+        "ru": "Нравится приложение? Оцените его в Google Play. Ваш отзыв поможет проекту развиваться и становиться лучше.",
+        "uk": "Подобається застосунок? Оцініть його в Google Play. Ваш відгук допоможе проєкту розвиватися та ставати кращим.",
+        "pt": "Gostando do aplicativo? Avalie-o no Google Play. Sua avaliação ajudará o projeto a crescer e melhorar."
+      },
+      "action_label": {
+        "en": "Rate on Google Play",
+        "ru": "Оценить в Google Play",
+        "uk": "Оцінити в Google Play",
+        "pt": "Avaliar no Google Play"
+      },
+      "action_url": "https://play.google.com/store/apps/details?id=com.NeoRoyLab.SRHelperUnofficial"
     }
   ]
 }
