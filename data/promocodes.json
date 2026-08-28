@@ -1,0 +1,16 @@
+{
+  "codes": [
+    {
+      "code": "STARRAILGIFT",
+      "enabled": true,
+      "starts_at": "",
+      "ends_at": "",
+      "reward": {
+        "en": "Permanent redemption code",
+        "ru": "Постоянный промокод",
+        "uk": "Постійний промокод",
+        "pt": "Código de resgate permanente"
+      }
+    }
+  ]
+}
