@@ -94,7 +94,7 @@
       "id": "google_play_update_5_0_20_2026_09_01",
       "enabled": true,
       "priority": 1000,
-      "show_on_startup": true,
+      "show_on_startup": false,
       "published_at": "2026-09-01T00:00:00Z",
       "starts_at": "",
       "ends_at": "",
