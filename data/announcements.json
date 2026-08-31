@@ -89,6 +89,36 @@
         "pt": ""
       },
       "action_url": ""
+    },
+    {
+      "id": "google_play_update_5_0_20_2026_09_01",
+      "enabled": true,
+      "priority": 1000,
+      "show_on_startup": true,
+      "published_at": "2026-09-01T00:00:00Z",
+      "starts_at": "",
+      "ends_at": "",
+      "min_app_version": "",
+      "max_app_version": "5.0.19",
+      "title": {
+        "en": "A new version is available",
+        "ru": "Доступна новая версия",
+        "uk": "Доступна нова версія",
+        "pt": "Uma nova versão está disponível"
+      },
+      "body": {
+        "en": "Version 5.0.20 is now available on Google Play. Update the app to get new features, content, and important fixes.",
+        "ru": "Версия 5.0.20 уже доступна в Google Play. Обновите приложение, чтобы получить новые функции, контент и важные исправления.",
+        "uk": "Версія 5.0.20 вже доступна в Google Play. Оновіть застосунок, щоб отримати нові функції, контент і важливі виправлення.",
+        "pt": "A versão 5.0.20 já está disponível no Google Play. Atualize o aplicativo para receber novos recursos, conteúdo e correções importantes."
+      },
+      "action_label": {
+        "en": "Update on Google Play",
+        "ru": "Обновить в Google Play",
+        "uk": "Оновити в Google Play",
+        "pt": "Atualizar no Google Play"
+      },
+      "action_url": "https://play.google.com/store/apps/details?id=com.NeoRoyLab.SRHelperUnofficial"
     }
   ]
 }
