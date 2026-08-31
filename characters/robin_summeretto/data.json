@@ -1,0 +1,78 @@
+{
+  "id": "robin_summeretto",
+  "name": {
+    "en": "Robin • Summeretto",
+    "uk": "Вільшанка • Саммеретто",
+    "ru": "Зарянка: Яснопея"
+  },
+  "rarity": 5,
+  "element": "wind",
+  "path": "the_remembrance",
+  "description": {
+    "en": "Soaring clearest skies and bluest oceans, wings sweep up the sea spray, transforming it into a new melody. Following the lingering echoes of memory, she embraces the unexpected along the way, seeking inspiration for a melodic variation— Beyond the melody, how else can the Harmony sing?",
+    "uk": "Ширяючи в найчистішому небі над блакитним океаном, крила здіймають морські бризки, перетворюючи їх на нову мелодію. Йдучи за згасливим відлунням пам'яті, вона приймає все несподіване на своєму шляху, шукаючи натхнення для музичної варіації — як іще, окрім мелодії, може звучати Гармонія?",
+    "ru": "Порхая в ясном небе над лазурным морем, крылья разрезают волны и обращают их в мелодию. Следуя за отголосками воспоминаний, она с готовностью принимает все неожиданности на своём пути — и находит в них вдохновение для мелодических вариаций… Помимо мелодии, как ещё может звучать Гармония?"
+  },
+  "assets": {
+    "portrait": "characters/robin_summeretto/portrait.png",
+    "thumbnail": "characters/robin_summeretto/thumb.png"
+  },
+  "stats": {
+    "hp": 1205,
+    "atk": 601,
+    "def": 485,
+    "spd": 98,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "dream_collection_component",
+    "ascension_unique": "charred_bud_of_twilight",
+    "trace_group": "bija_of_consciousness",
+    "trace_unique": "high_hopes_of_the_falsely_enlightened"
+  },
+  "best_light_cones": [
+    { "item_id": "rise_and_sing", "rarity": 5, "is_best": true },
+    { "item_id": "the_storys_next_page", "rarity": 4, "is_best": true },
+    { "item_id": "long_may_rainbows_adorn_the_sky", "rarity": 5, "is_best": false },
+    { "item_id": "memorys_curtain_never_falls", "rarity": 5, "is_best": false },
+    { "item_id": "time_waits_for_no_one", "rarity": 5, "is_best": false }
+  ],
+  "best_relics": [
+    "world_remaking_deliverer",
+    "messenger_traversing_hackerspace"
+  ],
+  "best_ornaments": [
+    "amphoreus_the_eternal_land",
+    "lushaka_the_sunken_seas",
+    "sprightly_vonwacq"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "hp_percent", "sep": ">" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed", "sep": ">" },
+      { "id": "hp_percent" }
+    ],
+    "sphere": [
+      { "id": "hp_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "hp_percent", "sep": ">" },
+    { "id": "crit_rate", "sep": "=" },
+    { "id": "crit_dmg", "sep": "" }
+  ],
+  "synergy": [
+    "hyacine",
+    "march_7th_evernight",
+    "castorice",
+    "himeko_nova",
+    "mortenax_blade"
+  ]
+}

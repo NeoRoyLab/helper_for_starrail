@@ -2,11 +2,11 @@
     "manifests":  [
                       {
                           "key":  "characters",
-                          "version":  117
+                          "version":  118
                       },
                       {
                           "key":  "light_cones",
-                          "version":  80
+                          "version":  81
                       },
                       {
                           "key":  "relics",
