@@ -59,6 +59,36 @@
         "pt": "Avaliar no Google Play"
       },
       "action_url": "https://play.google.com/store/apps/details?id=com.NeoRoyLab.SRHelperUnofficial"
+    },
+    {
+      "id": "new_guide_robin_summeretto_2026_08_31",
+      "enabled": true,
+      "priority": 300,
+      "show_on_startup": true,
+      "published_at": "2026-08-31T00:00:00Z",
+      "starts_at": "",
+      "ends_at": "",
+      "min_app_version": "5.0.11",
+      "max_app_version": "",
+      "title": {
+        "en": "New guide available",
+        "ru": "Добавлен новый гайд",
+        "uk": "Додано новий гайд",
+        "pt": "Novo guia disponível"
+      },
+      "body": {
+        "en": "The Robin • Summeretto guide is now available. Check her best Light Cones, Relics, stats, and team synergies.",
+        "ru": "В приложение добавлен гайд «Зарянка: Яснопея». Посмотрите лучшие световые конусы, реликвии, характеристики и синергии.",
+        "uk": "У застосунок додано гайд «Вільшанка: Саммеретто». Перегляньте найкращі світлові конуси, реліквії, характеристики та синергії.",
+        "pt": "O guia de Robin • Summeretto já está disponível. Confira os melhores Cones de Luz, Relíquias, atributos e sinergias."
+      },
+      "action_label": {
+        "en": "",
+        "ru": "",
+        "uk": "",
+        "pt": ""
+      },
+      "action_url": ""
     }
   ]
 }
