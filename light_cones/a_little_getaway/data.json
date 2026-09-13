@@ -1,0 +1,33 @@
+{
+  "id": "a_little_getaway",
+  "name": {
+    "en": "A Little Getaway",
+    "uk": "Невелика відпустка",
+    "ru": "Небольшой отпуск"
+  },
+  "rarity": 4,
+  "path": "elation",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 953,
+    "atk_min": 19,
+    "atk_max": 423,
+    "def_min": 18,
+    "def_max": 397
+  },
+  "description": {
+    "en": "Increases the wearer's Elation by 20-40%. When the wearer uses an Elation Skill, ignores 8-16% of the target's DEF.",
+    "uk": "Підвищує Радість власника на 20-40%. Коли власник використовує навичку Радості, вона ігнорує 8-16% захисту цілі.",
+    "ru": "Повышает Радость владельца на 20-40%. Когда владелец использует навык Радости, он игнорирует 8-16% защиты цели."
+  },
+  "sources": [
+    {
+      "en": "Herta's Store",
+      "uk": "Магазин Герти",
+      "ru": "Магазин Герты"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/a_little_getaway/art.png"
+  }
+}

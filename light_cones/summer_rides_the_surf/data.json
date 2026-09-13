@@ -1,0 +1,33 @@
+{
+  "id": "summer_rides_the_surf",
+  "name": {
+    "en": "Summer Rides the Surf",
+    "uk": "Літо підкорює хвилі",
+    "ru": "Лето покоряет волны"
+  },
+  "rarity": 5,
+  "path": "elation",
+  "stats": {
+    "hp_min": 43,
+    "hp_max": 953,
+    "atk_min": 26,
+    "atk_max": 582,
+    "def_min": 24,
+    "def_max": 529
+  },
+  "description": {
+    "en": "Increases the wearer's CRIT Rate by 18-30%. When the wearer uses an Elation Skill, gains Updraft, which increases SPD by 24-40%. If the Elation Skill used is different from the one used last time, additionally gains Uptrend, which increases Elation by 40-100%. At the start of every wave or after the wearer uses Elation Skill 3 times, recovers 1 Skill Point.",
+    "uk": "Підвищує крит. шанс власника на 18-30%. Після використання навички Радості власник отримує Потік, який підвищує швидкість на 24-40%. Якщо використана навичка Радості відрізняється від попередньої, власник додатково отримує Тренд, який підвищує Радість на 40-100%. На початку кожної хвилі або після 3 використань навички Радості відновлює 1 очко навичок.",
+    "ru": "Повышает крит. шанс владельца на 18-30%. После использования навыка Радости владелец получает Восходящий поток, повышающий скорость на 24-40%. Если использованный навык Радости отличается от предыдущего, владелец дополнительно получает Тренд, повышающий Радость на 40-100%. В начале каждой волны или после 3 использований навыка Радости восстанавливает 1 очко навыков."
+  },
+  "sources": [
+    {
+      "en": "Event Warp (Limited)",
+      "uk": "Стрибок події (Тимчасовий)",
+      "ru": "Прыжок события (Временный)"
+    }
+  ],
+  "assets": {
+    "art": "light_cones/summer_rides_the_surf/art.png"
+  }
+}

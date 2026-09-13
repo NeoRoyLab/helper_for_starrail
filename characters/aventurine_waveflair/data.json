@@ -1,0 +1,78 @@
+{
+  "id": "aventurine_waveflair",
+  "name": {
+    "en": "Aventurine • Waveflair",
+    "uk": "Авантюрин • Прибій",
+    "ru": "Авантюрин: Прибой"
+  },
+  "rarity": 5,
+  "element": "quantum",
+  "path": "the_elation",
+  "description": {
+    "en": "The grand festival illuminates the coast, while a storm brews amidst euphoria. Secret orders in hand, he steps back into the eye of the storm to shake up this long holiday— When treacherous waves subsume his figure, how will he emerge as the game changer?",
+    "uk": "Велике свято осяює узбережжя, та серед загальної ейфорії назріває буря. З таємним наказом у руках він знову ступає в саме серце шторму, щоб сколихнути ці затяжні канікули. Коли підступні хвилі поглинуть його постать, як він повернеться і змінить правила гри?",
+    "ru": "Праздничные огни озаряют побережье, но среди всеобщей эйфории зреет буря. Получив тайный приказ, он вновь оказывается в эпицентре шторма, чтобы встряхнуть эти затянувшиеся каникулы. Когда коварные волны поглотят его силуэт, как он вернётся и изменит правила игры?"
+  },
+  "assets": {
+    "portrait": "characters/aventurine_waveflair/portrait.png",
+    "thumbnail": "characters/aventurine_waveflair/thumb.png"
+  },
+  "stats": {
+    "hp": 1164,
+    "atk": 485,
+    "def": 606,
+    "spd": 107,
+    "taunt": 100
+  },
+  "materials": {
+    "ascension_group": "tatters_of_thought",
+    "ascension_unique": "sneering_harlequin",
+    "trace_group": "the_fluffy_hand-drawn_storyboards",
+    "trace_unique": "high_hopes_of_the_falsely_enlightened"
+  },
+  "best_light_cones": [
+    { "item_id": "summer_rides_the_surf", "rarity": 5, "is_best": true },
+    { "item_id": "todays_good_luck", "rarity": 4, "is_best": true },
+    { "item_id": "welcome_to_the_cosmic_city", "rarity": 5, "is_best": false },
+    { "item_id": "until_the_flowers_bloom_again", "rarity": 5, "is_best": false },
+    { "item_id": "a_little_getaway", "rarity": 4, "is_best": false },
+    { "item_id": "mushy_shroomys_adventures", "rarity": 4, "is_best": false }
+  ],
+  "best_relics": [
+    "ever_glorious_magical_girl",
+    "genius_of_brilliant_stars",
+    "diviner_of_distant_reach"
+  ],
+  "best_ornaments": [
+    "punklorde_stage_zero",
+    "duran_dynasty_of_running_wolves"
+  ],
+  "relic_stats": {
+    "body": [
+      { "id": "crit_rate", "sep": ">" },
+      { "id": "crit_dmg" }
+    ],
+    "feet": [
+      { "id": "speed" }
+    ],
+    "sphere": [
+      { "id": "atk_percent", "sep": "=" },
+      { "id": "hp_percent", "sep": "=" },
+      { "id": "def_percent" }
+    ],
+    "rope": [
+      { "id": "energy_regen" }
+    ]
+  },
+  "best_substats": [
+    { "id": "speed", "sep": ">" },
+    { "id": "crit_rate", "sep": ">" },
+    { "id": "crit_dmg", "sep": "" }
+  ],
+  "synergy": [
+    "ashveil",
+    "mortenax_blade",
+    "tribbie",
+    "yao_guang"
+  ]
+}

@@ -91,6 +91,36 @@
       "action_url": ""
     },
     {
+      "id": "new_guide_aventurine_waveflair_2026_09_13",
+      "enabled": true,
+      "priority": 400,
+      "show_on_startup": true,
+      "published_at": "2026-09-13T00:00:00Z",
+      "starts_at": "",
+      "ends_at": "",
+      "min_app_version": "5.0.11",
+      "max_app_version": "",
+      "title": {
+        "en": "New guide available",
+        "ru": "Добавлен новый гайд",
+        "uk": "Додано новий гайд",
+        "pt": "Novo guia disponível"
+      },
+      "body": {
+        "en": "The Aventurine • Waveflair guide is now available. Check his best Light Cones, Relics, stats, and team synergies.",
+        "ru": "В приложение добавлен гайд «Авантюрин: Прибой». Посмотрите лучшие световые конусы, реликвии, характеристики и синергии.",
+        "uk": "У застосунок додано гайд «Авантюрин • Прибій». Перегляньте найкращі світлові конуси, реліквії, характеристики та синергії.",
+        "pt": "O guia de Aventurine • Waveflair já está disponível. Confira os melhores Cones de Luz, Relíquias, atributos e sinergias."
+      },
+      "action_label": {
+        "en": "",
+        "ru": "",
+        "uk": "",
+        "pt": ""
+      },
+      "action_url": ""
+    },
+    {
       "id": "google_play_update_5_0_20_2026_09_01",
       "enabled": true,
       "priority": 1000,
