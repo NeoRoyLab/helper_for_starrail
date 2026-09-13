@@ -35,8 +35,7 @@
     { "item_id": "todays_good_luck", "rarity": 4, "is_best": true },
     { "item_id": "welcome_to_the_cosmic_city", "rarity": 5, "is_best": false },
     { "item_id": "until_the_flowers_bloom_again", "rarity": 5, "is_best": false },
-    { "item_id": "a_little_getaway", "rarity": 4, "is_best": false },
-    { "item_id": "mushy_shroomys_adventures", "rarity": 4, "is_best": false }
+    { "item_id": "a_little_getaway", "rarity": 4, "is_best": false }
   ],
   "best_relics": [
     "ever_glorious_magical_girl",
